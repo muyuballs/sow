@@ -1,12 +1,13 @@
 #!/bin/bash
 gobuild(){
+	export CGO_ENABLED=0
 	export GOOS=$1
 	export GOARCH=$2
 	export GOARM=$3
 	sufix=""
 	if [ "$GOOS" == "windows" ];then
 		sufix=".exe"
-	fi
+	fi	
 	echo "build $GOOS-$GOARCH$GOARM$sufix"
 	target="sow-client-$GOOS-$GOARCH$sufix"
 	if [ "$GOARCH" == "arm" ];then
@@ -19,8 +20,6 @@ gobuild(){
 move(){
 	if [ -d "$2" ];then
 		mv "$1" "$2"
-	else
-		echo "dir [$1] not exists"
 	fi
 }
 
@@ -44,8 +43,10 @@ clean(){
 
 if [ "$1" == "clean" ];then
 	clean
-else
+elif [ "$1" == "build" ];then
 	build $2
+else
+	echo "usage ./build.sh clean|build [target dir]"
 fi
 
 
