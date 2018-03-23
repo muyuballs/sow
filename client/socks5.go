@@ -4,11 +4,13 @@ import (
 	"encoding/binary"
 	"errors"
 	"io"
+	"log"
 	"net"
 	"strconv"
 )
 
 func handleSocks5(conn net.Conn) (target string, err error) {
+	log.Println("check auth methods")
 	methodCount, err := ReadByte(conn)
 	if err != nil {
 		return
@@ -21,6 +23,9 @@ func handleSocks5(conn net.Conn) (target string, err error) {
 	var hasNAQ bool = false
 	for _, n := range methods {
 		hasNAQ = n == 0x00
+		if hasNAQ {
+			break
+		}
 	}
 	if hasNAQ {
 		//SELECTED NO AUTHENTICATION REQUIRED
@@ -36,6 +41,7 @@ func handleSocks5(conn net.Conn) (target string, err error) {
 	if ver != socksVer5 {
 		return "", errors.New("socks ver must to be 0x05")
 	}
+	log.Println("check command")
 	cmd, err := ReadByte(conn)
 	if err != nil {
 		return
@@ -48,6 +54,7 @@ func handleSocks5(conn net.Conn) (target string, err error) {
 	if err != nil {
 		return
 	}
+	log.Println("check remote type")
 	atyp, err := ReadByte(conn)
 	if err != nil {
 		return

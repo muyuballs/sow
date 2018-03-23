@@ -4,16 +4,22 @@ import (
 	"encoding/binary"
 	"errors"
 	"io"
+	"log"
 	"net"
 	"strconv"
 )
 
 func skipIDEN(conn net.Conn) error {
+	buf := make([]byte, 0)
+	defer func(b []byte) {
+		log.Println("skip", string(b))
+	}(buf)
 	for {
 		b, err := ReadByte(conn)
 		if err != nil {
 			return err
 		}
+		buf = append(buf, b)
 		if b == 0x00 {
 			return nil
 		}
@@ -26,7 +32,7 @@ func handleSocks4(conn net.Conn) (target string, err error) {
 		return
 	}
 	if cmd != socksCmdConnect {
-		conn.Write([]byte{socksVer4, REQUEST_REJECTED})
+		conn.Write([]byte{socksVer4, REQUEST_REJECTED, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00})
 		return "", errors.New("not supported command")
 	}
 	buf := make([]byte, 2)
@@ -41,6 +47,7 @@ func handleSocks4(conn net.Conn) (target string, err error) {
 		return
 	}
 	if buf[0] == 0x00 && buf[1] == 0x00 && buf[2] == 0x00 { //socks4a ip address
+		log.Println("socks4a")
 		err = skipIDEN(conn)
 		if err != nil {
 			return
@@ -58,11 +65,12 @@ func handleSocks4(conn net.Conn) (target string, err error) {
 		}
 		target = net.JoinHostPort(string(buf), strconv.Itoa(int(port)))
 	} else {
+		log.Println("socks4")
 		target = net.JoinHostPort(net.IP(buf).String(), strconv.Itoa(int(port)))
 		err = skipIDEN(conn)
 	}
 	if err == nil {
-		_, err = conn.Write([]byte{socksVer4, 0x5A})
+		_, err = conn.Write([]byte{0x00, 0x5A, 0x00, 0x00, 0x00, 0x00, 0x00, 0x00})
 	}
 	return
 }

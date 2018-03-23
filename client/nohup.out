@@ -1,0 +1,3320 @@
+2017/03/31 09:48:36 Start @ [::]:60001
+2017/03/31 09:48:36 Start serving on : 60002
+2017/03/31 09:48:37 new client: 192.168.122.62:49216
+2017/03/31 09:48:37 client version  67
+2017/03/31 09:48:37 version 67 not supported
+2017/03/31 09:48:37 new client: 192.168.122.62:49217
+2017/03/31 09:48:37 client version  67
+2017/03/31 09:48:37 version 67 not supported
+2017/03/31 09:48:37 new client: 192.168.122.62:49218
+2017/03/31 09:48:37 client version  67
+2017/03/31 09:48:37 version 67 not supported
+2017/03/31 09:48:37 new client: 192.168.122.62:49219
+2017/03/31 09:48:37 client version  67
+2017/03/31 09:48:37 version 67 not supported
+2017/03/31 09:48:42 new client: 192.168.122.62:49220
+2017/03/31 09:48:42 client version  67
+2017/03/31 09:48:42 version 67 not supported
+2017/03/31 09:48:42 new client: 192.168.122.62:49221
+2017/03/31 09:48:42 client version  67
+2017/03/31 09:48:42 version 67 not supported
+2017/03/31 09:48:42 new client: 192.168.122.62:49222
+2017/03/31 09:48:42 client version  67
+2017/03/31 09:48:42 version 67 not supported
+2017/03/31 09:48:42 new client: 192.168.122.62:49223
+2017/03/31 09:48:42 client version  67
+2017/03/31 09:48:42 version 67 not supported
+2017/03/31 09:48:45 new client: 192.168.122.62:49224
+2017/03/31 09:48:45 client version  67
+2017/03/31 09:48:45 version 67 not supported
+2017/03/31 09:48:45 new client: 192.168.122.62:49225
+2017/03/31 09:48:45 client version  67
+2017/03/31 09:48:45 version 67 not supported
+2017/03/31 09:48:45 new client: 192.168.122.62:49226
+2017/03/31 09:48:45 client version  67
+2017/03/31 09:48:45 version 67 not supported
+2017/03/31 09:48:45 new client: 192.168.122.62:49227
+2017/03/31 09:48:45 client version  67
+2017/03/31 09:48:45 version 67 not supported
+2017/03/31 09:48:54 new client: 192.168.122.62:49235
+2017/03/31 09:48:54 client version  67
+2017/03/31 09:48:54 version 67 not supported
+2017/03/31 09:48:54 new client: 192.168.122.62:49236
+2017/03/31 09:48:54 client version  67
+2017/03/31 09:48:54 version 67 not supported
+2017/03/31 09:48:54 new client: 192.168.122.62:49237
+2017/03/31 09:48:54 client version  67
+2017/03/31 09:48:54 version 67 not supported
+2017/03/31 09:48:54 new client: 192.168.122.62:49238
+2017/03/31 09:48:54 client version  67
+2017/03/31 09:48:54 version 67 not supported
+2017/03/31 09:49:00 new client: 192.168.122.62:49253
+2017/03/31 09:49:00 client version  67
+2017/03/31 09:49:00 version 67 not supported
+2017/03/31 09:49:00 new client: 192.168.122.62:49254
+2017/03/31 09:49:00 client version  67
+2017/03/31 09:49:00 version 67 not supported
+2017/03/31 09:49:00 new client: 192.168.122.62:49255
+2017/03/31 09:49:00 client version  67
+2017/03/31 09:49:00 version 67 not supported
+2017/03/31 09:49:00 new client: 192.168.122.62:49256
+2017/03/31 09:49:00 client version  67
+2017/03/31 09:49:00 version 67 not supported
+2017/03/31 09:49:03 new client: 192.168.122.62:49257
+2017/03/31 09:49:03 client version  67
+2017/03/31 09:49:03 version 67 not supported
+2017/03/31 09:49:03 new client: 192.168.122.62:49258
+2017/03/31 09:49:03 client version  67
+2017/03/31 09:49:03 version 67 not supported
+2017/03/31 09:49:03 new client: 192.168.122.62:49259
+2017/03/31 09:49:03 client version  67
+2017/03/31 09:49:03 version 67 not supported
+2017/03/31 09:49:03 new client: 192.168.122.62:49260
+2017/03/31 09:49:03 client version  67
+2017/03/31 09:49:03 version 67 not supported
+2017/03/31 09:49:11 new client: 192.168.122.62:49264
+2017/03/31 09:49:11 client version  67
+2017/03/31 09:49:11 version 67 not supported
+2017/03/31 09:49:11 new client: 192.168.122.62:49265
+2017/03/31 09:49:11 client version  67
+2017/03/31 09:49:11 version 67 not supported
+2017/03/31 09:49:11 new client: 192.168.122.62:49266
+2017/03/31 09:49:11 client version  67
+2017/03/31 09:49:11 version 67 not supported
+2017/03/31 09:49:11 new client: 192.168.122.62:49267
+2017/03/31 09:49:11 client version  67
+2017/03/31 09:49:11 version 67 not supported
+2017/03/31 09:49:16 new client: 192.168.122.62:49271
+2017/03/31 09:49:16 client version  67
+2017/03/31 09:49:16 version 67 not supported
+2017/03/31 09:49:16 new client: 192.168.122.62:49272
+2017/03/31 09:49:16 client version  67
+2017/03/31 09:49:16 version 67 not supported
+2017/03/31 09:49:16 new client: 192.168.122.62:49273
+2017/03/31 09:49:16 client version  67
+2017/03/31 09:49:16 version 67 not supported
+2017/03/31 09:49:16 new client: 192.168.122.62:49274
+2017/03/31 09:49:16 client version  67
+2017/03/31 09:49:16 version 67 not supported
+2017/03/31 09:49:20 new client: 192.168.122.62:49281
+2017/03/31 09:49:20 client version  67
+2017/03/31 09:49:20 version 67 not supported
+2017/03/31 09:49:20 new client: 192.168.122.62:49282
+2017/03/31 09:49:20 client version  67
+2017/03/31 09:49:20 version 67 not supported
+2017/03/31 09:49:20 new client: 192.168.122.62:49283
+2017/03/31 09:49:20 client version  67
+2017/03/31 09:49:20 version 67 not supported
+2017/03/31 09:49:20 new client: 192.168.122.62:49284
+2017/03/31 09:49:20 client version  67
+2017/03/31 09:49:20 version 67 not supported
+2017/03/31 09:49:28 new client: 192.168.122.62:49285
+2017/03/31 09:49:28 client version  67
+2017/03/31 09:49:28 version 67 not supported
+2017/03/31 09:49:28 new client: 192.168.122.62:49286
+2017/03/31 09:49:28 client version  67
+2017/03/31 09:49:28 version 67 not supported
+2017/03/31 09:49:28 new client: 192.168.122.62:49287
+2017/03/31 09:49:28 client version  67
+2017/03/31 09:49:28 version 67 not supported
+2017/03/31 09:49:28 new client: 192.168.122.62:49288
+2017/03/31 09:49:28 client version  67
+2017/03/31 09:49:28 version 67 not supported
+2017/03/31 09:49:35 new client: 192.168.122.62:49290
+2017/03/31 09:49:35 client version  71
+2017/03/31 09:49:35 version 71 not supported
+2017/03/31 09:49:35 new client: 192.168.122.62:49291
+2017/03/31 09:49:35 client version  67
+2017/03/31 09:49:35 version 67 not supported
+2017/03/31 09:49:35 new client: 192.168.122.62:49292
+2017/03/31 09:49:35 client version  67
+2017/03/31 09:49:35 version 67 not supported
+2017/03/31 09:49:35 new client: 192.168.122.62:49293
+2017/03/31 09:49:35 client version  67
+2017/03/31 09:49:35 version 67 not supported
+2017/03/31 09:49:35 new client: 192.168.122.62:49294
+2017/03/31 09:49:35 client version  67
+2017/03/31 09:49:35 version 67 not supported
+2017/03/31 09:49:38 new client: 192.168.122.62:49295
+2017/03/31 09:49:38 client version  80
+2017/03/31 09:49:38 version 80 not supported
+2017/03/31 09:49:39 new client: 192.168.122.62:49296
+2017/03/31 09:49:39 client version  80
+2017/03/31 09:49:39 version 80 not supported
+2017/03/31 09:49:39 new client: 192.168.122.62:49297
+2017/03/31 09:49:39 client version  80
+2017/03/31 09:49:39 version 80 not supported
+2017/03/31 09:49:40 new client: 192.168.122.62:49298
+2017/03/31 09:49:40 client version  80
+2017/03/31 09:49:40 version 80 not supported
+2017/03/31 09:49:40 new client: 192.168.122.62:49299
+2017/03/31 09:49:40 client version  80
+2017/03/31 09:49:40 version 80 not supported
+2017/03/31 09:49:40 new client: 192.168.122.62:49300
+2017/03/31 09:49:40 client version  71
+2017/03/31 09:49:40 version 71 not supported
+2017/03/31 09:49:40 new client: 192.168.122.62:49301
+2017/03/31 09:49:40 client version  71
+2017/03/31 09:49:40 version 71 not supported
+2017/03/31 09:49:41 new client: 192.168.122.62:49302
+2017/03/31 09:49:41 client version  80
+2017/03/31 09:49:41 version 80 not supported
+2017/03/31 09:49:44 new client: 192.168.122.62:49308
+2017/03/31 09:49:44 client version  67
+2017/03/31 09:49:44 version 67 not supported
+2017/03/31 09:49:44 new client: 192.168.122.62:49309
+2017/03/31 09:49:44 client version  67
+2017/03/31 09:49:44 version 67 not supported
+2017/03/31 09:49:44 new client: 192.168.122.62:49310
+2017/03/31 09:49:44 client version  67
+2017/03/31 09:49:44 version 67 not supported
+2017/03/31 09:49:44 new client: 192.168.122.62:49311
+2017/03/31 09:49:44 client version  67
+2017/03/31 09:49:44 version 67 not supported
+2017/03/31 09:49:49 new client: 192.168.122.62:49319
+2017/03/31 09:49:49 client version  67
+2017/03/31 09:49:49 version 67 not supported
+2017/03/31 09:49:49 new client: 192.168.122.62:49320
+2017/03/31 09:49:49 client version  67
+2017/03/31 09:49:49 version 67 not supported
+2017/03/31 09:49:49 new client: 192.168.122.62:49321
+2017/03/31 09:49:49 client version  67
+2017/03/31 09:49:49 version 67 not supported
+2017/03/31 09:49:49 new client: 192.168.122.62:49322
+2017/03/31 09:49:49 client version  67
+2017/03/31 09:49:49 version 67 not supported
+2017/03/31 09:49:51 new client: 192.168.122.62:49327
+2017/03/31 09:49:51 client version  67
+2017/03/31 09:49:51 version 67 not supported
+2017/03/31 09:49:51 new client: 192.168.122.62:49328
+2017/03/31 09:49:51 client version  67
+2017/03/31 09:49:51 version 67 not supported
+2017/03/31 09:49:51 new client: 192.168.122.62:49329
+2017/03/31 09:49:51 client version  67
+2017/03/31 09:49:51 version 67 not supported
+2017/03/31 09:49:51 new client: 192.168.122.62:49330
+2017/03/31 09:49:51 client version  67
+2017/03/31 09:49:51 version 67 not supported
+2017/03/31 09:49:54 new client: 192.168.122.62:49333
+2017/03/31 09:49:54 client version  80
+2017/03/31 09:49:54 version 80 not supported
+2017/03/31 09:49:54 new client: 192.168.122.62:49334
+2017/03/31 09:49:54 client version  80
+2017/03/31 09:49:54 version 80 not supported
+2017/03/31 09:49:54 new client: 192.168.122.62:49335
+2017/03/31 09:49:54 client version  80
+2017/03/31 09:49:54 version 80 not supported
+2017/03/31 09:49:54 new client: 192.168.122.62:49336
+2017/03/31 09:49:54 client version  80
+2017/03/31 09:49:54 version 80 not supported
+2017/03/31 09:49:54 new client: 192.168.122.62:49337
+2017/03/31 09:49:54 client version  71
+2017/03/31 09:49:54 version 71 not supported
+2017/03/31 09:49:54 new client: 192.168.122.62:49338
+2017/03/31 09:49:54 client version  71
+2017/03/31 09:49:54 version 71 not supported
+2017/03/31 09:49:54 new client: 192.168.122.62:49339
+2017/03/31 09:49:54 client version  71
+2017/03/31 09:49:54 version 71 not supported
+2017/03/31 09:49:54 new client: 192.168.122.62:49340
+2017/03/31 09:49:54 client version  71
+2017/03/31 09:49:54 version 71 not supported
+2017/03/31 09:49:59 new client: 192.168.122.62:49341
+2017/03/31 09:49:59 client version  67
+2017/03/31 09:49:59 version 67 not supported
+2017/03/31 09:49:59 new client: 192.168.122.62:49342
+2017/03/31 09:49:59 client version  67
+2017/03/31 09:49:59 version 67 not supported
+2017/03/31 09:49:59 new client: 192.168.122.62:49343
+2017/03/31 09:49:59 client version  67
+2017/03/31 09:49:59 version 67 not supported
+2017/03/31 09:49:59 new client: 192.168.122.62:49344
+2017/03/31 09:49:59 client version  67
+2017/03/31 09:49:59 version 67 not supported
+2017/03/31 09:50:05 new client: 192.168.122.62:49346
+2017/03/31 09:50:05 new client: 192.168.122.62:49347
+2017/03/31 09:50:05 client version  67
+2017/03/31 09:50:05 version 67 not supported
+2017/03/31 09:50:05 client version  67
+2017/03/31 09:50:05 version 67 not supported
+2017/03/31 09:50:05 new client: 192.168.122.62:49348
+2017/03/31 09:50:05 new client: 192.168.122.62:49349
+2017/03/31 09:50:05 client version  67
+2017/03/31 09:50:05 version 67 not supported
+2017/03/31 09:50:05 client version  67
+2017/03/31 09:50:05 version 67 not supported
+2017/03/31 09:50:05 new client: 192.168.122.62:49350
+2017/03/31 09:50:05 new client: 192.168.122.62:49351
+2017/03/31 09:50:05 client version  67
+2017/03/31 09:50:05 version 67 not supported
+2017/03/31 09:50:05 client version  67
+2017/03/31 09:50:05 version 67 not supported
+2017/03/31 09:50:05 new client: 192.168.122.62:49352
+2017/03/31 09:50:05 new client: 192.168.122.62:49353
+2017/03/31 09:50:05 client version  67
+2017/03/31 09:50:05 version 67 not supported
+2017/03/31 09:50:05 client version  67
+2017/03/31 09:50:05 version 67 not supported
+2017/03/31 09:50:05 new client: 192.168.122.62:49354
+2017/03/31 09:50:05 client version  67
+2017/03/31 09:50:05 version 67 not supported
+2017/03/31 09:50:05 new client: 192.168.122.62:49355
+2017/03/31 09:50:05 client version  67
+2017/03/31 09:50:05 version 67 not supported
+2017/03/31 09:50:05 new client: 192.168.122.62:49356
+2017/03/31 09:50:05 client version  67
+2017/03/31 09:50:05 version 67 not supported
+2017/03/31 09:50:06 new client: 192.168.122.62:49357
+2017/03/31 09:50:06 client version  67
+2017/03/31 09:50:06 version 67 not supported
+2017/03/31 09:50:08 new client: 192.168.122.62:49358
+2017/03/31 09:50:08 client version  67
+2017/03/31 09:50:08 version 67 not supported
+2017/03/31 09:50:08 new client: 192.168.122.62:49359
+2017/03/31 09:50:08 client version  67
+2017/03/31 09:50:08 version 67 not supported
+2017/03/31 09:50:08 new client: 192.168.122.62:49360
+2017/03/31 09:50:08 client version  67
+2017/03/31 09:50:08 version 67 not supported
+2017/03/31 09:50:08 new client: 192.168.122.62:49361
+2017/03/31 09:50:08 client version  67
+2017/03/31 09:50:08 version 67 not supported
+2017/03/31 09:50:08 new client: 192.168.122.62:49362
+2017/03/31 09:50:08 client version  67
+2017/03/31 09:50:08 version 67 not supported
+2017/03/31 09:50:08 new client: 192.168.122.62:49363
+2017/03/31 09:50:08 client version  67
+2017/03/31 09:50:08 version 67 not supported
+2017/03/31 09:50:08 new client: 192.168.122.62:49364
+2017/03/31 09:50:08 client version  67
+2017/03/31 09:50:08 version 67 not supported
+2017/03/31 09:50:08 new client: 192.168.122.62:49365
+2017/03/31 09:50:08 client version  67
+2017/03/31 09:50:08 version 67 not supported
+2017/03/31 09:50:09 new client: 192.168.122.62:49366
+2017/03/31 09:50:09 client version  67
+2017/03/31 09:50:09 version 67 not supported
+2017/03/31 09:50:09 new client: 192.168.122.62:49367
+2017/03/31 09:50:09 client version  67
+2017/03/31 09:50:09 version 67 not supported
+2017/03/31 09:50:09 new client: 192.168.122.62:49368
+2017/03/31 09:50:09 client version  67
+2017/03/31 09:50:09 version 67 not supported
+2017/03/31 09:50:09 new client: 192.168.122.62:49369
+2017/03/31 09:50:09 client version  67
+2017/03/31 09:50:09 version 67 not supported
+2017/03/31 09:50:14 new client: 192.168.122.62:49371
+2017/03/31 09:50:14 client version  67
+2017/03/31 09:50:14 version 67 not supported
+2017/03/31 09:50:14 new client: 192.168.122.62:49372
+2017/03/31 09:50:14 client version  67
+2017/03/31 09:50:14 version 67 not supported
+2017/03/31 09:50:14 new client: 192.168.122.62:49373
+2017/03/31 09:50:14 client version  67
+2017/03/31 09:50:14 version 67 not supported
+2017/03/31 09:50:14 new client: 192.168.122.62:49374
+2017/03/31 09:50:14 client version  67
+2017/03/31 09:50:14 version 67 not supported
+2017/03/31 09:50:16 new client: 192.168.122.62:49375
+2017/03/31 09:50:16 client version  67
+2017/03/31 09:50:16 version 67 not supported
+2017/03/31 09:50:16 new client: 192.168.122.62:49376
+2017/03/31 09:50:16 client version  67
+2017/03/31 09:50:16 version 67 not supported
+2017/03/31 09:50:16 new client: 192.168.122.62:49377
+2017/03/31 09:50:16 client version  67
+2017/03/31 09:50:16 version 67 not supported
+2017/03/31 09:50:16 new client: 192.168.122.62:49378
+2017/03/31 09:50:16 client version  67
+2017/03/31 09:50:16 version 67 not supported
+2017/03/31 09:50:21 new client: 192.168.122.62:49382
+2017/03/31 09:50:21 client version  67
+2017/03/31 09:50:21 version 67 not supported
+2017/03/31 09:50:21 new client: 192.168.122.62:49383
+2017/03/31 09:50:21 client version  67
+2017/03/31 09:50:21 version 67 not supported
+2017/03/31 09:50:21 new client: 192.168.122.62:49384
+2017/03/31 09:50:21 client version  67
+2017/03/31 09:50:21 version 67 not supported
+2017/03/31 09:50:21 new client: 192.168.122.62:49385
+2017/03/31 09:50:21 client version  67
+2017/03/31 09:50:21 version 67 not supported
+2017/03/31 09:50:23 new client: 192.168.122.62:49386
+2017/03/31 09:50:23 client version  67
+2017/03/31 09:50:23 version 67 not supported
+2017/03/31 09:50:23 new client: 192.168.122.62:49387
+2017/03/31 09:50:23 client version  67
+2017/03/31 09:50:23 version 67 not supported
+2017/03/31 09:50:23 new client: 192.168.122.62:49388
+2017/03/31 09:50:23 client version  67
+2017/03/31 09:50:23 version 67 not supported
+2017/03/31 09:50:23 new client: 192.168.122.62:49389
+2017/03/31 09:50:23 client version  67
+2017/03/31 09:50:23 version 67 not supported
+2017/03/31 09:50:30 new client: 192.168.122.62:49390
+2017/03/31 09:50:30 client version  67
+2017/03/31 09:50:30 version 67 not supported
+2017/03/31 09:50:30 new client: 192.168.122.62:49391
+2017/03/31 09:50:30 client version  67
+2017/03/31 09:50:30 version 67 not supported
+2017/03/31 09:50:30 new client: 192.168.122.62:49392
+2017/03/31 09:50:30 client version  67
+2017/03/31 09:50:30 version 67 not supported
+2017/03/31 09:50:30 new client: 192.168.122.62:49393
+2017/03/31 09:50:30 client version  67
+2017/03/31 09:50:30 version 67 not supported
+2017/03/31 09:50:37 new client: 192.168.122.62:49394
+2017/03/31 09:50:37 client version  67
+2017/03/31 09:50:37 version 67 not supported
+2017/03/31 09:50:37 new client: 192.168.122.62:49395
+2017/03/31 09:50:37 client version  67
+2017/03/31 09:50:37 version 67 not supported
+2017/03/31 09:50:37 new client: 192.168.122.62:49396
+2017/03/31 09:50:37 client version  67
+2017/03/31 09:50:37 version 67 not supported
+2017/03/31 09:50:37 new client: 192.168.122.62:49397
+2017/03/31 09:50:37 client version  67
+2017/03/31 09:50:37 version 67 not supported
+2017/03/31 09:50:44 new client: 192.168.122.62:49398
+2017/03/31 09:50:44 client version  67
+2017/03/31 09:50:44 version 67 not supported
+2017/03/31 09:50:44 new client: 192.168.122.62:49399
+2017/03/31 09:50:44 client version  67
+2017/03/31 09:50:44 version 67 not supported
+2017/03/31 09:50:44 new client: 192.168.122.62:49400
+2017/03/31 09:50:44 client version  67
+2017/03/31 09:50:44 version 67 not supported
+2017/03/31 09:50:44 new client: 192.168.122.62:49401
+2017/03/31 09:50:44 client version  67
+2017/03/31 09:50:44 version 67 not supported
+2017/03/31 09:50:49 new client: 192.168.122.62:49402
+2017/03/31 09:50:49 client version  67
+2017/03/31 09:50:49 version 67 not supported
+2017/03/31 09:50:49 new client: 192.168.122.62:49403
+2017/03/31 09:50:49 client version  67
+2017/03/31 09:50:49 version 67 not supported
+2017/03/31 09:50:49 new client: 192.168.122.62:49404
+2017/03/31 09:50:49 client version  67
+2017/03/31 09:50:49 version 67 not supported
+2017/03/31 09:50:49 new client: 192.168.122.62:49405
+2017/03/31 09:50:49 client version  67
+2017/03/31 09:50:49 version 67 not supported
+2017/03/31 09:50:50 new client: 192.168.122.62:49406
+2017/03/31 09:50:50 client version  67
+2017/03/31 09:50:50 version 67 not supported
+2017/03/31 09:50:50 new client: 192.168.122.62:49407
+2017/03/31 09:50:50 client version  67
+2017/03/31 09:50:50 version 67 not supported
+2017/03/31 09:50:50 new client: 192.168.122.62:49408
+2017/03/31 09:50:50 client version  67
+2017/03/31 09:50:50 version 67 not supported
+2017/03/31 09:50:50 new client: 192.168.122.62:49409
+2017/03/31 09:50:50 client version  67
+2017/03/31 09:50:50 version 67 not supported
+2017/03/31 09:50:59 new client: 192.168.122.62:49410
+2017/03/31 09:50:59 client version  67
+2017/03/31 09:50:59 version 67 not supported
+2017/03/31 09:50:59 new client: 192.168.122.62:49411
+2017/03/31 09:50:59 client version  67
+2017/03/31 09:50:59 version 67 not supported
+2017/03/31 09:50:59 new client: 192.168.122.62:49412
+2017/03/31 09:50:59 client version  67
+2017/03/31 09:50:59 version 67 not supported
+2017/03/31 09:50:59 new client: 192.168.122.62:49413
+2017/03/31 09:50:59 client version  67
+2017/03/31 09:50:59 version 67 not supported
+2017/03/31 09:51:05 new client: 192.168.122.62:49414
+2017/03/31 09:51:05 client version  67
+2017/03/31 09:51:05 version 67 not supported
+2017/03/31 09:51:05 new client: 192.168.122.62:49415
+2017/03/31 09:51:05 client version  67
+2017/03/31 09:51:05 version 67 not supported
+2017/03/31 09:51:05 new client: 192.168.122.62:49416
+2017/03/31 09:51:05 client version  67
+2017/03/31 09:51:05 version 67 not supported
+2017/03/31 09:51:05 new client: 192.168.122.62:49417
+2017/03/31 09:51:05 client version  67
+2017/03/31 09:51:05 version 67 not supported
+2017/03/31 09:51:12 new client: 192.168.122.62:49418
+2017/03/31 09:51:12 client version  67
+2017/03/31 09:51:12 version 67 not supported
+2017/03/31 09:51:12 new client: 192.168.122.62:49419
+2017/03/31 09:51:12 client version  67
+2017/03/31 09:51:12 version 67 not supported
+2017/03/31 09:51:12 new client: 192.168.122.62:49420
+2017/03/31 09:51:12 client version  67
+2017/03/31 09:51:12 version 67 not supported
+2017/03/31 09:51:12 new client: 192.168.122.62:49421
+2017/03/31 09:51:12 client version  67
+2017/03/31 09:51:12 version 67 not supported
+2017/03/31 09:51:17 new client: 192.168.122.62:49422
+2017/03/31 09:51:17 client version  67
+2017/03/31 09:51:17 version 67 not supported
+2017/03/31 09:51:17 new client: 192.168.122.62:49423
+2017/03/31 09:51:17 client version  67
+2017/03/31 09:51:17 version 67 not supported
+2017/03/31 09:51:17 new client: 192.168.122.62:49424
+2017/03/31 09:51:17 client version  67
+2017/03/31 09:51:17 version 67 not supported
+2017/03/31 09:51:17 new client: 192.168.122.62:49425
+2017/03/31 09:51:17 client version  67
+2017/03/31 09:51:17 version 67 not supported
+2017/03/31 09:51:20 new client: 192.168.122.62:49426
+2017/03/31 09:51:20 client version  67
+2017/03/31 09:51:20 version 67 not supported
+2017/03/31 09:51:20 new client: 192.168.122.62:49427
+2017/03/31 09:51:20 client version  67
+2017/03/31 09:51:20 version 67 not supported
+2017/03/31 09:51:20 new client: 192.168.122.62:49428
+2017/03/31 09:51:20 client version  67
+2017/03/31 09:51:20 version 67 not supported
+2017/03/31 09:51:20 new client: 192.168.122.62:49429
+2017/03/31 09:51:20 client version  67
+2017/03/31 09:51:20 version 67 not supported
+2017/03/31 09:51:28 new client: 192.168.122.62:49431
+2017/03/31 09:51:28 client version  67
+2017/03/31 09:51:28 version 67 not supported
+2017/03/31 09:51:28 new client: 192.168.122.62:49432
+2017/03/31 09:51:28 client version  67
+2017/03/31 09:51:28 version 67 not supported
+2017/03/31 09:51:28 new client: 192.168.122.62:49433
+2017/03/31 09:51:28 client version  67
+2017/03/31 09:51:28 version 67 not supported
+2017/03/31 09:51:28 new client: 192.168.122.62:49434
+2017/03/31 09:51:28 client version  67
+2017/03/31 09:51:28 version 67 not supported
+2017/03/31 09:51:37 new client: 192.168.122.62:49435
+2017/03/31 09:51:37 client version  67
+2017/03/31 09:51:37 version 67 not supported
+2017/03/31 09:51:37 new client: 192.168.122.62:49436
+2017/03/31 09:51:37 client version  67
+2017/03/31 09:51:37 version 67 not supported
+2017/03/31 09:51:37 new client: 192.168.122.62:49437
+2017/03/31 09:51:37 client version  67
+2017/03/31 09:51:37 version 67 not supported
+2017/03/31 09:51:37 new client: 192.168.122.62:49438
+2017/03/31 09:51:37 client version  67
+2017/03/31 09:51:37 version 67 not supported
+2017/03/31 09:51:46 new client: 192.168.122.62:49439
+2017/03/31 09:51:46 client version  67
+2017/03/31 09:51:46 version 67 not supported
+2017/03/31 09:51:46 new client: 192.168.122.62:49440
+2017/03/31 09:51:46 client version  67
+2017/03/31 09:51:46 version 67 not supported
+2017/03/31 09:51:46 new client: 192.168.122.62:49441
+2017/03/31 09:51:46 client version  67
+2017/03/31 09:51:46 version 67 not supported
+2017/03/31 09:51:46 new client: 192.168.122.62:49442
+2017/03/31 09:51:46 client version  67
+2017/03/31 09:51:46 version 67 not supported
+2017/03/31 09:51:51 new client: 192.168.122.62:49443
+2017/03/31 09:51:51 client version  67
+2017/03/31 09:51:51 version 67 not supported
+2017/03/31 09:51:51 new client: 192.168.122.62:49444
+2017/03/31 09:51:51 client version  67
+2017/03/31 09:51:51 version 67 not supported
+2017/03/31 09:51:51 new client: 192.168.122.62:49445
+2017/03/31 09:51:51 client version  67
+2017/03/31 09:51:51 version 67 not supported
+2017/03/31 09:51:51 new client: 192.168.122.62:49446
+2017/03/31 09:51:51 client version  67
+2017/03/31 09:51:51 version 67 not supported
+2017/03/31 09:51:54 new client: 192.168.122.62:49447
+2017/03/31 09:51:54 client version  67
+2017/03/31 09:51:54 version 67 not supported
+2017/03/31 09:51:54 new client: 192.168.122.62:49448
+2017/03/31 09:51:54 client version  67
+2017/03/31 09:51:54 version 67 not supported
+2017/03/31 09:51:54 new client: 192.168.122.62:49449
+2017/03/31 09:51:54 client version  67
+2017/03/31 09:51:54 version 67 not supported
+2017/03/31 09:51:54 new client: 192.168.122.62:49450
+2017/03/31 09:51:54 client version  67
+2017/03/31 09:51:54 version 67 not supported
+2017/03/31 09:52:01 new client: 192.168.122.62:49452
+2017/03/31 09:52:01 client version  67
+2017/03/31 09:52:01 version 67 not supported
+2017/03/31 09:52:01 new client: 192.168.122.62:49453
+2017/03/31 09:52:01 client version  67
+2017/03/31 09:52:01 version 67 not supported
+2017/03/31 09:52:01 new client: 192.168.122.62:49454
+2017/03/31 09:52:01 client version  67
+2017/03/31 09:52:01 version 67 not supported
+2017/03/31 09:52:01 new client: 192.168.122.62:49455
+2017/03/31 09:52:01 client version  67
+2017/03/31 09:52:01 version 67 not supported
+2017/03/31 09:52:09 new client: 192.168.122.62:49456
+2017/03/31 09:52:09 client version  67
+2017/03/31 09:52:09 version 67 not supported
+2017/03/31 09:52:09 new client: 192.168.122.62:49457
+2017/03/31 09:52:09 client version  67
+2017/03/31 09:52:09 version 67 not supported
+2017/03/31 09:52:09 new client: 192.168.122.62:49458
+2017/03/31 09:52:09 client version  67
+2017/03/31 09:52:09 version 67 not supported
+2017/03/31 09:52:09 new client: 192.168.122.62:49459
+2017/03/31 09:52:09 client version  67
+2017/03/31 09:52:09 version 67 not supported
+2017/03/31 09:52:15 new client: 192.168.122.62:49460
+2017/03/31 09:52:15 client version  80
+2017/03/31 09:52:15 version 80 not supported
+2017/03/31 09:52:18 new client: 192.168.122.62:49461
+2017/03/31 09:52:18 client version  67
+2017/03/31 09:52:18 version 67 not supported
+2017/03/31 09:52:18 new client: 192.168.122.62:49462
+2017/03/31 09:52:18 client version  67
+2017/03/31 09:52:18 version 67 not supported
+2017/03/31 09:52:18 new client: 192.168.122.62:49463
+2017/03/31 09:52:18 client version  67
+2017/03/31 09:52:18 version 67 not supported
+2017/03/31 09:52:18 new client: 192.168.122.62:49464
+2017/03/31 09:52:18 client version  67
+2017/03/31 09:52:18 version 67 not supported
+2017/03/31 09:52:23 new client: 192.168.122.62:49465
+2017/03/31 09:52:23 client version  67
+2017/03/31 09:52:23 version 67 not supported
+2017/03/31 09:52:23 new client: 192.168.122.62:49466
+2017/03/31 09:52:23 client version  67
+2017/03/31 09:52:23 version 67 not supported
+2017/03/31 09:52:23 new client: 192.168.122.62:49467
+2017/03/31 09:52:23 client version  67
+2017/03/31 09:52:23 version 67 not supported
+2017/03/31 09:52:23 new client: 192.168.122.62:49468
+2017/03/31 09:52:23 client version  67
+2017/03/31 09:52:23 version 67 not supported
+2017/03/31 09:52:26 new client: 192.168.122.62:49469
+2017/03/31 09:52:26 client version  67
+2017/03/31 09:52:26 version 67 not supported
+2017/03/31 09:52:26 new client: 192.168.122.62:49470
+2017/03/31 09:52:26 client version  67
+2017/03/31 09:52:26 version 67 not supported
+2017/03/31 09:52:26 new client: 192.168.122.62:49471
+2017/03/31 09:52:26 client version  67
+2017/03/31 09:52:26 version 67 not supported
+2017/03/31 09:52:26 new client: 192.168.122.62:49472
+2017/03/31 09:52:26 client version  67
+2017/03/31 09:52:26 version 67 not supported
+2017/03/31 09:52:33 new client: 192.168.122.62:49473
+2017/03/31 09:52:33 client version  67
+2017/03/31 09:52:33 version 67 not supported
+2017/03/31 09:52:33 new client: 192.168.122.62:49474
+2017/03/31 09:52:33 client version  67
+2017/03/31 09:52:33 version 67 not supported
+2017/03/31 09:52:33 new client: 192.168.122.62:49475
+2017/03/31 09:52:33 client version  67
+2017/03/31 09:52:33 version 67 not supported
+2017/03/31 09:52:33 new client: 192.168.122.62:49476
+2017/03/31 09:52:33 client version  67
+2017/03/31 09:52:33 version 67 not supported
+2017/03/31 09:52:42 new client: 192.168.122.62:49477
+2017/03/31 09:52:42 client version  67
+2017/03/31 09:52:42 version 67 not supported
+2017/03/31 09:52:42 new client: 192.168.122.62:49478
+2017/03/31 09:52:42 client version  67
+2017/03/31 09:52:42 version 67 not supported
+2017/03/31 09:52:42 new client: 192.168.122.62:49479
+2017/03/31 09:52:42 client version  67
+2017/03/31 09:52:42 version 67 not supported
+2017/03/31 09:52:42 new client: 192.168.122.62:49480
+2017/03/31 09:52:42 client version  67
+2017/03/31 09:52:42 version 67 not supported
+2017/03/31 09:52:45 new client: 192.168.122.62:49481
+2017/03/31 09:52:45 client version  71
+2017/03/31 09:52:45 version 71 not supported
+2017/03/31 09:52:45 new client: 192.168.122.62:49482
+2017/03/31 09:52:45 client version  71
+2017/03/31 09:52:45 version 71 not supported
+2017/03/31 09:52:46 new client: 192.168.122.62:49483
+2017/03/31 09:52:46 client version  71
+2017/03/31 09:52:46 version 71 not supported
+2017/03/31 09:52:50 new client: 192.168.122.62:49484
+2017/03/31 09:52:50 client version  67
+2017/03/31 09:52:50 version 67 not supported
+2017/03/31 09:52:50 new client: 192.168.122.62:49485
+2017/03/31 09:52:50 client version  67
+2017/03/31 09:52:50 version 67 not supported
+2017/03/31 09:52:50 new client: 192.168.122.62:49486
+2017/03/31 09:52:50 client version  67
+2017/03/31 09:52:50 version 67 not supported
+2017/03/31 09:52:50 new client: 192.168.122.62:49487
+2017/03/31 09:52:50 client version  67
+2017/03/31 09:52:50 version 67 not supported
+2017/03/31 09:52:55 new client: 192.168.122.62:49488
+2017/03/31 09:52:55 client version  67
+2017/03/31 09:52:55 version 67 not supported
+2017/03/31 09:52:55 new client: 192.168.122.62:49489
+2017/03/31 09:52:55 client version  67
+2017/03/31 09:52:55 version 67 not supported
+2017/03/31 09:52:55 new client: 192.168.122.62:49490
+2017/03/31 09:52:55 client version  67
+2017/03/31 09:52:55 version 67 not supported
+2017/03/31 09:52:55 new client: 192.168.122.62:49491
+2017/03/31 09:52:55 client version  67
+2017/03/31 09:52:55 version 67 not supported
+2017/03/31 09:52:58 new client: 192.168.122.62:49492
+2017/03/31 09:52:58 client version  67
+2017/03/31 09:52:58 version 67 not supported
+2017/03/31 09:52:58 new client: 192.168.122.62:49493
+2017/03/31 09:52:58 client version  67
+2017/03/31 09:52:58 version 67 not supported
+2017/03/31 09:52:58 new client: 192.168.122.62:49494
+2017/03/31 09:52:58 client version  67
+2017/03/31 09:52:58 version 67 not supported
+2017/03/31 09:52:58 new client: 192.168.122.62:49495
+2017/03/31 09:52:58 client version  67
+2017/03/31 09:52:58 version 67 not supported
+2017/03/31 09:53:06 new client: 192.168.122.62:49496
+2017/03/31 09:53:06 client version  67
+2017/03/31 09:53:06 version 67 not supported
+2017/03/31 09:53:06 new client: 192.168.122.62:49497
+2017/03/31 09:53:06 client version  67
+2017/03/31 09:53:06 version 67 not supported
+2017/03/31 09:53:06 new client: 192.168.122.62:49498
+2017/03/31 09:53:06 client version  67
+2017/03/31 09:53:06 version 67 not supported
+2017/03/31 09:53:06 new client: 192.168.122.62:49499
+2017/03/31 09:53:06 client version  67
+2017/03/31 09:53:06 version 67 not supported
+2017/03/31 09:53:13 new client: 192.168.122.62:49500
+2017/03/31 09:53:13 client version  67
+2017/03/31 09:53:13 version 67 not supported
+2017/03/31 09:53:13 new client: 192.168.122.62:49501
+2017/03/31 09:53:13 client version  67
+2017/03/31 09:53:13 version 67 not supported
+2017/03/31 09:53:13 new client: 192.168.122.62:49502
+2017/03/31 09:53:13 client version  67
+2017/03/31 09:53:13 version 67 not supported
+2017/03/31 09:53:13 new client: 192.168.122.62:49503
+2017/03/31 09:53:13 client version  67
+2017/03/31 09:53:13 version 67 not supported
+2017/03/31 09:53:22 new client: 192.168.122.62:49504
+2017/03/31 09:53:22 client version  67
+2017/03/31 09:53:22 version 67 not supported
+2017/03/31 09:53:22 new client: 192.168.122.62:49505
+2017/03/31 09:53:22 client version  67
+2017/03/31 09:53:22 version 67 not supported
+2017/03/31 09:53:22 new client: 192.168.122.62:49506
+2017/03/31 09:53:22 client version  67
+2017/03/31 09:53:22 version 67 not supported
+2017/03/31 09:53:22 new client: 192.168.122.62:49507
+2017/03/31 09:53:22 client version  67
+2017/03/31 09:53:22 version 67 not supported
+2017/03/31 09:53:27 new client: 192.168.122.62:49508
+2017/03/31 09:53:27 client version  67
+2017/03/31 09:53:27 version 67 not supported
+2017/03/31 09:53:27 new client: 192.168.122.62:49509
+2017/03/31 09:53:27 client version  67
+2017/03/31 09:53:27 version 67 not supported
+2017/03/31 09:53:27 new client: 192.168.122.62:49510
+2017/03/31 09:53:27 client version  67
+2017/03/31 09:53:27 version 67 not supported
+2017/03/31 09:53:27 new client: 192.168.122.62:49511
+2017/03/31 09:53:27 client version  67
+2017/03/31 09:53:27 version 67 not supported
+2017/03/31 09:53:32 new client: 192.168.122.62:49512
+2017/03/31 09:53:32 client version  67
+2017/03/31 09:53:32 version 67 not supported
+2017/03/31 09:53:32 new client: 192.168.122.62:49513
+2017/03/31 09:53:32 client version  67
+2017/03/31 09:53:32 version 67 not supported
+2017/03/31 09:53:32 new client: 192.168.122.62:49514
+2017/03/31 09:53:32 client version  67
+2017/03/31 09:53:32 version 67 not supported
+2017/03/31 09:53:32 new client: 192.168.122.62:49515
+2017/03/31 09:53:32 client version  67
+2017/03/31 09:53:32 version 67 not supported
+2017/03/31 09:53:41 new client: 192.168.122.62:49516
+2017/03/31 09:53:41 client version  67
+2017/03/31 09:53:41 version 67 not supported
+2017/03/31 09:53:41 new client: 192.168.122.62:49517
+2017/03/31 09:53:41 client version  67
+2017/03/31 09:53:41 version 67 not supported
+2017/03/31 09:53:41 new client: 192.168.122.62:49518
+2017/03/31 09:53:41 client version  67
+2017/03/31 09:53:41 version 67 not supported
+2017/03/31 09:53:41 new client: 192.168.122.62:49519
+2017/03/31 09:53:41 client version  67
+2017/03/31 09:53:41 version 67 not supported
+2017/03/31 09:53:49 new client: 192.168.122.62:49522
+2017/03/31 09:53:49 client version  67
+2017/03/31 09:53:49 version 67 not supported
+2017/03/31 09:53:49 new client: 192.168.122.62:49523
+2017/03/31 09:53:49 client version  67
+2017/03/31 09:53:49 version 67 not supported
+2017/03/31 09:53:49 new client: 192.168.122.62:49524
+2017/03/31 09:53:49 client version  67
+2017/03/31 09:53:49 version 67 not supported
+2017/03/31 09:53:49 new client: 192.168.122.62:49525
+2017/03/31 09:53:49 client version  67
+2017/03/31 09:53:49 version 67 not supported
+2017/03/31 09:53:56 new client: 192.168.122.62:49526
+2017/03/31 09:53:56 client version  67
+2017/03/31 09:53:56 version 67 not supported
+2017/03/31 09:53:56 new client: 192.168.122.62:49527
+2017/03/31 09:53:56 client version  67
+2017/03/31 09:53:56 version 67 not supported
+2017/03/31 09:53:56 new client: 192.168.122.62:49528
+2017/03/31 09:53:56 client version  67
+2017/03/31 09:53:56 version 67 not supported
+2017/03/31 09:53:56 new client: 192.168.122.62:49529
+2017/03/31 09:53:56 client version  67
+2017/03/31 09:53:56 version 67 not supported
+2017/03/31 09:54:01 new client: 192.168.122.62:49530
+2017/03/31 09:54:01 client version  67
+2017/03/31 09:54:01 version 67 not supported
+2017/03/31 09:54:01 new client: 192.168.122.62:49531
+2017/03/31 09:54:01 client version  67
+2017/03/31 09:54:01 version 67 not supported
+2017/03/31 09:54:01 new client: 192.168.122.62:49532
+2017/03/31 09:54:01 client version  67
+2017/03/31 09:54:01 version 67 not supported
+2017/03/31 09:54:01 new client: 192.168.122.62:49533
+2017/03/31 09:54:01 client version  67
+2017/03/31 09:54:01 version 67 not supported
+2017/03/31 09:54:02 new client: 192.168.122.62:49534
+2017/03/31 09:54:02 client version  67
+2017/03/31 09:54:02 version 67 not supported
+2017/03/31 09:54:02 new client: 192.168.122.62:49535
+2017/03/31 09:54:02 client version  67
+2017/03/31 09:54:02 version 67 not supported
+2017/03/31 09:54:02 new client: 192.168.122.62:49536
+2017/03/31 09:54:02 client version  67
+2017/03/31 09:54:02 version 67 not supported
+2017/03/31 09:54:02 new client: 192.168.122.62:49537
+2017/03/31 09:54:02 client version  67
+2017/03/31 09:54:02 version 67 not supported
+2017/03/31 09:54:09 new client: 192.168.122.62:49538
+2017/03/31 09:54:09 client version  67
+2017/03/31 09:54:09 version 67 not supported
+2017/03/31 09:54:09 new client: 192.168.122.62:49539
+2017/03/31 09:54:09 client version  67
+2017/03/31 09:54:09 version 67 not supported
+2017/03/31 09:54:09 new client: 192.168.122.62:49540
+2017/03/31 09:54:09 client version  67
+2017/03/31 09:54:09 version 67 not supported
+2017/03/31 09:54:09 new client: 192.168.122.62:49541
+2017/03/31 09:54:09 client version  67
+2017/03/31 09:54:09 version 67 not supported
+2017/03/31 09:54:17 new client: 192.168.122.62:49542
+2017/03/31 09:54:17 client version  67
+2017/03/31 09:54:17 version 67 not supported
+2017/03/31 09:54:17 new client: 192.168.122.62:49543
+2017/03/31 09:54:17 client version  67
+2017/03/31 09:54:17 version 67 not supported
+2017/03/31 09:54:17 new client: 192.168.122.62:49544
+2017/03/31 09:54:17 client version  67
+2017/03/31 09:54:17 version 67 not supported
+2017/03/31 09:54:17 new client: 192.168.122.62:49545
+2017/03/31 09:54:17 client version  67
+2017/03/31 09:54:17 version 67 not supported
+2017/03/31 09:54:26 new client: 192.168.122.62:49546
+2017/03/31 09:54:26 client version  67
+2017/03/31 09:54:26 version 67 not supported
+2017/03/31 09:54:26 new client: 192.168.122.62:49547
+2017/03/31 09:54:26 client version  67
+2017/03/31 09:54:26 version 67 not supported
+2017/03/31 09:54:26 new client: 192.168.122.62:49548
+2017/03/31 09:54:26 client version  67
+2017/03/31 09:54:26 version 67 not supported
+2017/03/31 09:54:26 new client: 192.168.122.62:49549
+2017/03/31 09:54:26 client version  67
+2017/03/31 09:54:26 version 67 not supported
+2017/03/31 09:54:31 new client: 192.168.122.62:49550
+2017/03/31 09:54:31 client version  67
+2017/03/31 09:54:31 version 67 not supported
+2017/03/31 09:54:31 new client: 192.168.122.62:49551
+2017/03/31 09:54:31 client version  67
+2017/03/31 09:54:31 version 67 not supported
+2017/03/31 09:54:31 new client: 192.168.122.62:49552
+2017/03/31 09:54:31 client version  67
+2017/03/31 09:54:31 version 67 not supported
+2017/03/31 09:54:31 new client: 192.168.122.62:49553
+2017/03/31 09:54:31 client version  67
+2017/03/31 09:54:31 version 67 not supported
+2017/03/31 09:54:35 new client: 192.168.122.62:49554
+2017/03/31 09:54:35 client version  67
+2017/03/31 09:54:35 version 67 not supported
+2017/03/31 09:54:35 new client: 192.168.122.62:49555
+2017/03/31 09:54:35 client version  67
+2017/03/31 09:54:35 version 67 not supported
+2017/03/31 09:54:35 new client: 192.168.122.62:49556
+2017/03/31 09:54:35 client version  67
+2017/03/31 09:54:35 version 67 not supported
+2017/03/31 09:54:35 new client: 192.168.122.62:49557
+2017/03/31 09:54:35 client version  67
+2017/03/31 09:54:35 version 67 not supported
+2017/03/31 09:54:44 new client: 192.168.122.62:49558
+2017/03/31 09:54:44 client version  67
+2017/03/31 09:54:44 version 67 not supported
+2017/03/31 09:54:44 new client: 192.168.122.62:49559
+2017/03/31 09:54:44 client version  67
+2017/03/31 09:54:44 version 67 not supported
+2017/03/31 09:54:44 new client: 192.168.122.62:49560
+2017/03/31 09:54:44 client version  67
+2017/03/31 09:54:44 version 67 not supported
+2017/03/31 09:54:44 new client: 192.168.122.62:49561
+2017/03/31 09:54:44 client version  67
+2017/03/31 09:54:44 version 67 not supported
+2017/03/31 09:54:52 new client: 192.168.122.62:49562
+2017/03/31 09:54:52 client version  67
+2017/03/31 09:54:52 version 67 not supported
+2017/03/31 09:54:52 new client: 192.168.122.62:49563
+2017/03/31 09:54:52 client version  67
+2017/03/31 09:54:52 version 67 not supported
+2017/03/31 09:54:52 new client: 192.168.122.62:49564
+2017/03/31 09:54:52 client version  67
+2017/03/31 09:54:52 version 67 not supported
+2017/03/31 09:54:52 new client: 192.168.122.62:49565
+2017/03/31 09:54:52 client version  67
+2017/03/31 09:54:52 version 67 not supported
+2017/03/31 09:55:01 new client: 192.168.122.62:49566
+2017/03/31 09:55:01 client version  67
+2017/03/31 09:55:01 version 67 not supported
+2017/03/31 09:55:01 new client: 192.168.122.62:49567
+2017/03/31 09:55:01 client version  67
+2017/03/31 09:55:01 version 67 not supported
+2017/03/31 09:55:01 new client: 192.168.122.62:49568
+2017/03/31 09:55:01 client version  67
+2017/03/31 09:55:01 version 67 not supported
+2017/03/31 09:55:01 new client: 192.168.122.62:49569
+2017/03/31 09:55:01 client version  67
+2017/03/31 09:55:01 version 67 not supported
+2017/03/31 09:55:06 new client: 192.168.122.62:49570
+2017/03/31 09:55:06 client version  67
+2017/03/31 09:55:06 version 67 not supported
+2017/03/31 09:55:06 new client: 192.168.122.62:49571
+2017/03/31 09:55:06 client version  67
+2017/03/31 09:55:06 version 67 not supported
+2017/03/31 09:55:06 new client: 192.168.122.62:49572
+2017/03/31 09:55:06 client version  67
+2017/03/31 09:55:06 version 67 not supported
+2017/03/31 09:55:06 new client: 192.168.122.62:49573
+2017/03/31 09:55:06 client version  67
+2017/03/31 09:55:06 version 67 not supported
+2017/03/31 09:55:08 new client: 192.168.122.62:49574
+2017/03/31 09:55:08 client version  67
+2017/03/31 09:55:08 version 67 not supported
+2017/03/31 09:55:08 new client: 192.168.122.62:49575
+2017/03/31 09:55:08 client version  67
+2017/03/31 09:55:08 version 67 not supported
+2017/03/31 09:55:08 new client: 192.168.122.62:49576
+2017/03/31 09:55:08 client version  67
+2017/03/31 09:55:08 version 67 not supported
+2017/03/31 09:55:08 new client: 192.168.122.62:49577
+2017/03/31 09:55:08 client version  67
+2017/03/31 09:55:08 version 67 not supported
+2017/03/31 09:55:17 new client: 192.168.122.62:49578
+2017/03/31 09:55:17 client version  67
+2017/03/31 09:55:17 version 67 not supported
+2017/03/31 09:55:17 new client: 192.168.122.62:49579
+2017/03/31 09:55:17 client version  67
+2017/03/31 09:55:17 version 67 not supported
+2017/03/31 09:55:17 new client: 192.168.122.62:49580
+2017/03/31 09:55:17 client version  67
+2017/03/31 09:55:17 version 67 not supported
+2017/03/31 09:55:17 new client: 192.168.122.62:49581
+2017/03/31 09:55:17 client version  67
+2017/03/31 09:55:17 version 67 not supported
+2017/03/31 09:55:27 new client: 192.168.122.62:49582
+2017/03/31 09:55:27 client version  67
+2017/03/31 09:55:27 version 67 not supported
+2017/03/31 09:55:27 new client: 192.168.122.62:49583
+2017/03/31 09:55:27 client version  67
+2017/03/31 09:55:27 version 67 not supported
+2017/03/31 09:55:27 new client: 192.168.122.62:49584
+2017/03/31 09:55:27 client version  67
+2017/03/31 09:55:27 version 67 not supported
+2017/03/31 09:55:27 new client: 192.168.122.62:49585
+2017/03/31 09:55:27 client version  67
+2017/03/31 09:55:27 version 67 not supported
+2017/03/31 09:55:33 new client: 192.168.122.62:49586
+2017/03/31 09:55:33 client version  67
+2017/03/31 09:55:33 version 67 not supported
+2017/03/31 09:55:33 new client: 192.168.122.62:49587
+2017/03/31 09:55:33 client version  67
+2017/03/31 09:55:33 version 67 not supported
+2017/03/31 09:55:33 new client: 192.168.122.62:49588
+2017/03/31 09:55:33 client version  67
+2017/03/31 09:55:33 version 67 not supported
+2017/03/31 09:55:33 new client: 192.168.122.62:49589
+2017/03/31 09:55:33 client version  67
+2017/03/31 09:55:33 version 67 not supported
+2017/03/31 09:55:38 new client: 192.168.122.62:49590
+2017/03/31 09:55:38 client version  67
+2017/03/31 09:55:38 version 67 not supported
+2017/03/31 09:55:38 new client: 192.168.122.62:49591
+2017/03/31 09:55:38 client version  67
+2017/03/31 09:55:38 version 67 not supported
+2017/03/31 09:55:38 new client: 192.168.122.62:49592
+2017/03/31 09:55:38 client version  67
+2017/03/31 09:55:38 version 67 not supported
+2017/03/31 09:55:38 new client: 192.168.122.62:49593
+2017/03/31 09:55:38 client version  67
+2017/03/31 09:55:38 version 67 not supported
+2017/03/31 09:55:40 new client: 192.168.122.62:49594
+2017/03/31 09:55:40 client version  67
+2017/03/31 09:55:40 version 67 not supported
+2017/03/31 09:55:40 new client: 192.168.122.62:49595
+2017/03/31 09:55:40 client version  67
+2017/03/31 09:55:40 version 67 not supported
+2017/03/31 09:55:40 new client: 192.168.122.62:49596
+2017/03/31 09:55:40 client version  67
+2017/03/31 09:55:40 version 67 not supported
+2017/03/31 09:55:40 new client: 192.168.122.62:49597
+2017/03/31 09:55:40 client version  67
+2017/03/31 09:55:40 version 67 not supported
+2017/03/31 09:55:49 new client: 192.168.122.62:49598
+2017/03/31 09:55:49 client version  67
+2017/03/31 09:55:49 version 67 not supported
+2017/03/31 09:55:49 new client: 192.168.122.62:49599
+2017/03/31 09:55:49 client version  67
+2017/03/31 09:55:49 version 67 not supported
+2017/03/31 09:55:49 new client: 192.168.122.62:49600
+2017/03/31 09:55:49 client version  67
+2017/03/31 09:55:49 version 67 not supported
+2017/03/31 09:55:49 new client: 192.168.122.62:49601
+2017/03/31 09:55:49 client version  67
+2017/03/31 09:55:49 version 67 not supported
+2017/03/31 09:55:55 new client: 192.168.122.62:49602
+2017/03/31 09:55:55 client version  67
+2017/03/31 09:55:55 version 67 not supported
+2017/03/31 09:55:55 new client: 192.168.122.62:49603
+2017/03/31 09:55:55 client version  67
+2017/03/31 09:55:55 version 67 not supported
+2017/03/31 09:55:55 new client: 192.168.122.62:49604
+2017/03/31 09:55:55 client version  67
+2017/03/31 09:55:55 version 67 not supported
+2017/03/31 09:55:55 new client: 192.168.122.62:49605
+2017/03/31 09:55:55 client version  67
+2017/03/31 09:55:55 version 67 not supported
+2017/03/31 09:56:04 new client: 192.168.122.62:49606
+2017/03/31 09:56:04 client version  67
+2017/03/31 09:56:04 version 67 not supported
+2017/03/31 09:56:04 new client: 192.168.122.62:49607
+2017/03/31 09:56:04 client version  67
+2017/03/31 09:56:04 version 67 not supported
+2017/03/31 09:56:04 new client: 192.168.122.62:49608
+2017/03/31 09:56:04 client version  67
+2017/03/31 09:56:04 version 67 not supported
+2017/03/31 09:56:04 new client: 192.168.122.62:49609
+2017/03/31 09:56:04 client version  67
+2017/03/31 09:56:04 version 67 not supported
+2017/03/31 09:56:09 new client: 192.168.122.62:49610
+2017/03/31 09:56:09 client version  67
+2017/03/31 09:56:09 version 67 not supported
+2017/03/31 09:56:09 new client: 192.168.122.62:49611
+2017/03/31 09:56:09 client version  67
+2017/03/31 09:56:09 version 67 not supported
+2017/03/31 09:56:09 new client: 192.168.122.62:49612
+2017/03/31 09:56:09 client version  67
+2017/03/31 09:56:09 version 67 not supported
+2017/03/31 09:56:09 new client: 192.168.122.62:49613
+2017/03/31 09:56:09 client version  67
+2017/03/31 09:56:09 version 67 not supported
+2017/03/31 09:56:11 new client: 192.168.122.62:49614
+2017/03/31 09:56:11 client version  67
+2017/03/31 09:56:11 version 67 not supported
+2017/03/31 09:56:11 new client: 192.168.122.62:49615
+2017/03/31 09:56:11 client version  67
+2017/03/31 09:56:11 version 67 not supported
+2017/03/31 09:56:11 new client: 192.168.122.62:49616
+2017/03/31 09:56:11 client version  67
+2017/03/31 09:56:11 version 67 not supported
+2017/03/31 09:56:11 new client: 192.168.122.62:49617
+2017/03/31 09:56:11 client version  67
+2017/03/31 09:56:11 version 67 not supported
+2017/03/31 09:56:18 new client: 192.168.122.62:49619
+2017/03/31 09:56:18 client version  67
+2017/03/31 09:56:18 version 67 not supported
+2017/03/31 09:56:18 new client: 192.168.122.62:49620
+2017/03/31 09:56:18 client version  67
+2017/03/31 09:56:18 version 67 not supported
+2017/03/31 09:56:18 new client: 192.168.122.62:49621
+2017/03/31 09:56:18 client version  67
+2017/03/31 09:56:18 version 67 not supported
+2017/03/31 09:56:18 new client: 192.168.122.62:49622
+2017/03/31 09:56:18 client version  67
+2017/03/31 09:56:18 version 67 not supported
+2017/03/31 09:56:25 new client: 192.168.122.62:49623
+2017/03/31 09:56:25 client version  67
+2017/03/31 09:56:25 version 67 not supported
+2017/03/31 09:56:25 new client: 192.168.122.62:49624
+2017/03/31 09:56:25 client version  67
+2017/03/31 09:56:25 version 67 not supported
+2017/03/31 09:56:25 new client: 192.168.122.62:49625
+2017/03/31 09:56:25 client version  67
+2017/03/31 09:56:25 version 67 not supported
+2017/03/31 09:56:25 new client: 192.168.122.62:49626
+2017/03/31 09:56:25 client version  67
+2017/03/31 09:56:25 version 67 not supported
+2017/03/31 09:56:32 new client: 192.168.122.62:49627
+2017/03/31 09:56:32 client version  67
+2017/03/31 09:56:32 version 67 not supported
+2017/03/31 09:56:32 new client: 192.168.122.62:49628
+2017/03/31 09:56:32 client version  67
+2017/03/31 09:56:32 version 67 not supported
+2017/03/31 09:56:32 new client: 192.168.122.62:49629
+2017/03/31 09:56:32 client version  67
+2017/03/31 09:56:32 version 67 not supported
+2017/03/31 09:56:32 new client: 192.168.122.62:49630
+2017/03/31 09:56:32 client version  67
+2017/03/31 09:56:32 version 67 not supported
+2017/03/31 09:56:37 new client: 192.168.122.62:49631
+2017/03/31 09:56:37 client version  67
+2017/03/31 09:56:37 version 67 not supported
+2017/03/31 09:56:37 new client: 192.168.122.62:49632
+2017/03/31 09:56:37 client version  67
+2017/03/31 09:56:37 version 67 not supported
+2017/03/31 09:56:37 new client: 192.168.122.62:49633
+2017/03/31 09:56:37 client version  67
+2017/03/31 09:56:37 version 67 not supported
+2017/03/31 09:56:37 new client: 192.168.122.62:49634
+2017/03/31 09:56:37 client version  67
+2017/03/31 09:56:37 version 67 not supported
+2017/03/31 09:56:38 new client: 192.168.122.62:49635
+2017/03/31 09:56:38 client version  67
+2017/03/31 09:56:38 version 67 not supported
+2017/03/31 09:56:38 new client: 192.168.122.62:49636
+2017/03/31 09:56:38 client version  67
+2017/03/31 09:56:38 version 67 not supported
+2017/03/31 09:56:38 new client: 192.168.122.62:49637
+2017/03/31 09:56:38 client version  67
+2017/03/31 09:56:38 version 67 not supported
+2017/03/31 09:56:38 new client: 192.168.122.62:49638
+2017/03/31 09:56:38 client version  67
+2017/03/31 09:56:38 version 67 not supported
+2017/03/31 09:56:46 new client: 192.168.122.62:49639
+2017/03/31 09:56:46 client version  67
+2017/03/31 09:56:46 version 67 not supported
+2017/03/31 09:56:46 new client: 192.168.122.62:49640
+2017/03/31 09:56:46 client version  67
+2017/03/31 09:56:46 version 67 not supported
+2017/03/31 09:56:46 new client: 192.168.122.62:49641
+2017/03/31 09:56:46 client version  67
+2017/03/31 09:56:46 version 67 not supported
+2017/03/31 09:56:46 new client: 192.168.122.62:49642
+2017/03/31 09:56:46 client version  67
+2017/03/31 09:56:46 version 67 not supported
+2017/03/31 09:56:54 new client: 192.168.122.62:49643
+2017/03/31 09:56:54 client version  67
+2017/03/31 09:56:54 version 67 not supported
+2017/03/31 09:56:54 new client: 192.168.122.62:49644
+2017/03/31 09:56:54 client version  67
+2017/03/31 09:56:54 version 67 not supported
+2017/03/31 09:56:54 new client: 192.168.122.62:49645
+2017/03/31 09:56:54 client version  67
+2017/03/31 09:56:54 version 67 not supported
+2017/03/31 09:56:54 new client: 192.168.122.62:49646
+2017/03/31 09:56:54 client version  67
+2017/03/31 09:56:54 version 67 not supported
+2017/03/31 09:56:58 new client: 192.168.122.62:49647
+2017/03/31 09:56:58 client version  71
+2017/03/31 09:56:58 version 71 not supported
+2017/03/31 09:57:01 new client: 192.168.122.62:49648
+2017/03/31 09:57:01 client version  67
+2017/03/31 09:57:01 version 67 not supported
+2017/03/31 09:57:01 new client: 192.168.122.62:49649
+2017/03/31 09:57:01 client version  67
+2017/03/31 09:57:01 version 67 not supported
+2017/03/31 09:57:01 new client: 192.168.122.62:49650
+2017/03/31 09:57:01 client version  67
+2017/03/31 09:57:01 version 67 not supported
+2017/03/31 09:57:01 new client: 192.168.122.62:49651
+2017/03/31 09:57:01 client version  67
+2017/03/31 09:57:01 version 67 not supported
+2017/03/31 09:57:06 new client: 192.168.122.62:49652
+2017/03/31 09:57:06 client version  67
+2017/03/31 09:57:06 version 67 not supported
+2017/03/31 09:57:06 new client: 192.168.122.62:49653
+2017/03/31 09:57:06 client version  67
+2017/03/31 09:57:06 version 67 not supported
+2017/03/31 09:57:06 new client: 192.168.122.62:49654
+2017/03/31 09:57:06 client version  67
+2017/03/31 09:57:06 version 67 not supported
+2017/03/31 09:57:06 new client: 192.168.122.62:49655
+2017/03/31 09:57:06 client version  67
+2017/03/31 09:57:06 version 67 not supported
+2017/03/31 09:57:07 new client: 192.168.122.62:49656
+2017/03/31 09:57:07 client version  67
+2017/03/31 09:57:07 version 67 not supported
+2017/03/31 09:57:07 new client: 192.168.122.62:49657
+2017/03/31 09:57:07 client version  67
+2017/03/31 09:57:07 version 67 not supported
+2017/03/31 09:57:07 new client: 192.168.122.62:49658
+2017/03/31 09:57:07 client version  67
+2017/03/31 09:57:07 version 67 not supported
+2017/03/31 09:57:07 new client: 192.168.122.62:49659
+2017/03/31 09:57:07 client version  67
+2017/03/31 09:57:07 version 67 not supported
+2017/03/31 09:57:14 new client: 192.168.122.62:49660
+2017/03/31 09:57:14 client version  67
+2017/03/31 09:57:14 version 67 not supported
+2017/03/31 09:57:14 new client: 192.168.122.62:49661
+2017/03/31 09:57:14 client version  67
+2017/03/31 09:57:14 version 67 not supported
+2017/03/31 09:57:14 new client: 192.168.122.62:49662
+2017/03/31 09:57:14 client version  67
+2017/03/31 09:57:14 version 67 not supported
+2017/03/31 09:57:14 new client: 192.168.122.62:49663
+2017/03/31 09:57:14 client version  67
+2017/03/31 09:57:14 version 67 not supported
+2017/03/31 09:57:22 new client: 192.168.122.62:49664
+2017/03/31 09:57:22 client version  67
+2017/03/31 09:57:22 version 67 not supported
+2017/03/31 09:57:22 new client: 192.168.122.62:49665
+2017/03/31 09:57:22 client version  67
+2017/03/31 09:57:22 version 67 not supported
+2017/03/31 09:57:22 new client: 192.168.122.62:49666
+2017/03/31 09:57:22 client version  67
+2017/03/31 09:57:22 version 67 not supported
+2017/03/31 09:57:22 new client: 192.168.122.62:49667
+2017/03/31 09:57:22 client version  67
+2017/03/31 09:57:22 version 67 not supported
+2017/03/31 09:57:31 new client: 192.168.122.62:49669
+2017/03/31 09:57:31 client version  67
+2017/03/31 09:57:31 version 67 not supported
+2017/03/31 09:57:31 new client: 192.168.122.62:49670
+2017/03/31 09:57:31 client version  67
+2017/03/31 09:57:31 version 67 not supported
+2017/03/31 09:57:31 new client: 192.168.122.62:49671
+2017/03/31 09:57:31 client version  67
+2017/03/31 09:57:31 version 67 not supported
+2017/03/31 09:57:31 new client: 192.168.122.62:49672
+2017/03/31 09:57:31 client version  67
+2017/03/31 09:57:31 version 67 not supported
+2017/03/31 09:57:36 new client: 192.168.122.62:49673
+2017/03/31 09:57:36 client version  67
+2017/03/31 09:57:37 version 67 not supported
+2017/03/31 09:57:37 new client: 192.168.122.62:49674
+2017/03/31 09:57:37 client version  67
+2017/03/31 09:57:37 version 67 not supported
+2017/03/31 09:57:37 new client: 192.168.122.62:49675
+2017/03/31 09:57:37 client version  67
+2017/03/31 09:57:37 version 67 not supported
+2017/03/31 09:57:37 new client: 192.168.122.62:49676
+2017/03/31 09:57:37 client version  67
+2017/03/31 09:57:37 version 67 not supported
+2017/03/31 09:57:39 new client: 192.168.122.62:49677
+2017/03/31 09:57:39 client version  67
+2017/03/31 09:57:39 version 67 not supported
+2017/03/31 09:57:39 new client: 192.168.122.62:49678
+2017/03/31 09:57:39 client version  67
+2017/03/31 09:57:39 version 67 not supported
+2017/03/31 09:57:39 new client: 192.168.122.62:49679
+2017/03/31 09:57:39 client version  67
+2017/03/31 09:57:39 version 67 not supported
+2017/03/31 09:57:39 new client: 192.168.122.62:49680
+2017/03/31 09:57:39 client version  67
+2017/03/31 09:57:39 version 67 not supported
+2017/03/31 09:57:48 new client: 192.168.122.62:49685
+2017/03/31 09:57:48 client version  67
+2017/03/31 09:57:48 version 67 not supported
+2017/03/31 09:57:48 new client: 192.168.122.62:49686
+2017/03/31 09:57:48 client version  67
+2017/03/31 09:57:48 version 67 not supported
+2017/03/31 09:57:48 new client: 192.168.122.62:49687
+2017/03/31 09:57:48 client version  67
+2017/03/31 09:57:48 version 67 not supported
+2017/03/31 09:57:48 new client: 192.168.122.62:49688
+2017/03/31 09:57:48 client version  67
+2017/03/31 09:57:48 version 67 not supported
+2017/03/31 09:57:57 new client: 192.168.122.62:49689
+2017/03/31 09:57:57 client version  67
+2017/03/31 09:57:57 version 67 not supported
+2017/03/31 09:57:57 new client: 192.168.122.62:49690
+2017/03/31 09:57:57 client version  67
+2017/03/31 09:57:57 version 67 not supported
+2017/03/31 09:57:57 new client: 192.168.122.62:49691
+2017/03/31 09:57:57 client version  67
+2017/03/31 09:57:57 version 67 not supported
+2017/03/31 09:57:57 new client: 192.168.122.62:49692
+2017/03/31 09:57:57 client version  67
+2017/03/31 09:57:57 version 67 not supported
+2017/03/31 09:58:06 new client: 192.168.122.62:49693
+2017/03/31 09:58:06 client version  67
+2017/03/31 09:58:06 version 67 not supported
+2017/03/31 09:58:06 new client: 192.168.122.62:49694
+2017/03/31 09:58:06 client version  67
+2017/03/31 09:58:06 version 67 not supported
+2017/03/31 09:58:06 new client: 192.168.122.62:49695
+2017/03/31 09:58:06 client version  67
+2017/03/31 09:58:06 version 67 not supported
+2017/03/31 09:58:06 new client: 192.168.122.62:49696
+2017/03/31 09:58:06 client version  67
+2017/03/31 09:58:06 version 67 not supported
+2017/03/31 09:58:11 new client: 192.168.122.62:49697
+2017/03/31 09:58:11 client version  67
+2017/03/31 09:58:11 version 67 not supported
+2017/03/31 09:58:11 new client: 192.168.122.62:49698
+2017/03/31 09:58:11 client version  67
+2017/03/31 09:58:11 version 67 not supported
+2017/03/31 09:58:11 new client: 192.168.122.62:49699
+2017/03/31 09:58:11 client version  67
+2017/03/31 09:58:11 version 67 not supported
+2017/03/31 09:58:11 new client: 192.168.122.62:49700
+2017/03/31 09:58:11 client version  67
+2017/03/31 09:58:11 version 67 not supported
+2017/03/31 09:58:13 new client: 192.168.122.62:49701
+2017/03/31 09:58:13 client version  67
+2017/03/31 09:58:13 version 67 not supported
+2017/03/31 09:58:13 new client: 192.168.122.62:49702
+2017/03/31 09:58:13 client version  67
+2017/03/31 09:58:13 version 67 not supported
+2017/03/31 09:58:13 new client: 192.168.122.62:49703
+2017/03/31 09:58:13 client version  67
+2017/03/31 09:58:13 version 67 not supported
+2017/03/31 09:58:13 new client: 192.168.122.62:49704
+2017/03/31 09:58:13 client version  67
+2017/03/31 09:58:13 version 67 not supported
+2017/03/31 09:58:23 new client: 192.168.122.62:49705
+2017/03/31 09:58:23 client version  67
+2017/03/31 09:58:23 version 67 not supported
+2017/03/31 09:58:23 new client: 192.168.122.62:49706
+2017/03/31 09:58:23 client version  67
+2017/03/31 09:58:23 version 67 not supported
+2017/03/31 09:58:23 new client: 192.168.122.62:49707
+2017/03/31 09:58:23 client version  67
+2017/03/31 09:58:23 version 67 not supported
+2017/03/31 09:58:23 new client: 192.168.122.62:49708
+2017/03/31 09:58:23 client version  67
+2017/03/31 09:58:23 version 67 not supported
+2017/03/31 09:58:30 new client: 192.168.122.62:49709
+2017/03/31 09:58:30 client version  67
+2017/03/31 09:58:30 version 67 not supported
+2017/03/31 09:58:30 new client: 192.168.122.62:49710
+2017/03/31 09:58:30 client version  67
+2017/03/31 09:58:30 version 67 not supported
+2017/03/31 09:58:30 new client: 192.168.122.62:49711
+2017/03/31 09:58:30 client version  67
+2017/03/31 09:58:30 version 67 not supported
+2017/03/31 09:58:30 new client: 192.168.122.62:49712
+2017/03/31 09:58:30 client version  67
+2017/03/31 09:58:30 version 67 not supported
+2017/03/31 09:58:38 new client: 192.168.122.62:49713
+2017/03/31 09:58:38 client version  67
+2017/03/31 09:58:38 version 67 not supported
+2017/03/31 09:58:38 new client: 192.168.122.62:49714
+2017/03/31 09:58:38 client version  67
+2017/03/31 09:58:38 version 67 not supported
+2017/03/31 09:58:38 new client: 192.168.122.62:49715
+2017/03/31 09:58:38 client version  67
+2017/03/31 09:58:38 version 67 not supported
+2017/03/31 09:58:38 new client: 192.168.122.62:49716
+2017/03/31 09:58:38 client version  67
+2017/03/31 09:58:38 version 67 not supported
+2017/03/31 09:58:43 new client: 192.168.122.62:49717
+2017/03/31 09:58:43 client version  67
+2017/03/31 09:58:43 version 67 not supported
+2017/03/31 09:58:43 new client: 192.168.122.62:49718
+2017/03/31 09:58:43 client version  67
+2017/03/31 09:58:43 version 67 not supported
+2017/03/31 09:58:43 new client: 192.168.122.62:49719
+2017/03/31 09:58:43 client version  67
+2017/03/31 09:58:43 version 67 not supported
+2017/03/31 09:58:43 new client: 192.168.122.62:49720
+2017/03/31 09:58:43 client version  67
+2017/03/31 09:58:43 version 67 not supported
+2017/03/31 09:58:44 new client: 192.168.122.62:49721
+2017/03/31 09:58:44 client version  67
+2017/03/31 09:58:44 version 67 not supported
+2017/03/31 09:58:44 new client: 192.168.122.62:49722
+2017/03/31 09:58:44 client version  67
+2017/03/31 09:58:44 version 67 not supported
+2017/03/31 09:58:44 new client: 192.168.122.62:49723
+2017/03/31 09:58:44 client version  67
+2017/03/31 09:58:44 version 67 not supported
+2017/03/31 09:58:44 new client: 192.168.122.62:49724
+2017/03/31 09:58:44 client version  67
+2017/03/31 09:58:44 version 67 not supported
+2017/03/31 09:58:52 new client: 192.168.122.62:49725
+2017/03/31 09:58:52 client version  67
+2017/03/31 09:58:52 version 67 not supported
+2017/03/31 09:58:52 new client: 192.168.122.62:49726
+2017/03/31 09:58:52 client version  67
+2017/03/31 09:58:52 version 67 not supported
+2017/03/31 09:58:52 new client: 192.168.122.62:49727
+2017/03/31 09:58:52 client version  67
+2017/03/31 09:58:52 version 67 not supported
+2017/03/31 09:58:52 new client: 192.168.122.62:49728
+2017/03/31 09:58:52 client version  67
+2017/03/31 09:58:52 version 67 not supported
+2017/03/31 09:58:59 new client: 192.168.122.62:49729
+2017/03/31 09:58:59 client version  67
+2017/03/31 09:58:59 version 67 not supported
+2017/03/31 09:58:59 new client: 192.168.122.62:49730
+2017/03/31 09:58:59 client version  67
+2017/03/31 09:58:59 version 67 not supported
+2017/03/31 09:58:59 new client: 192.168.122.62:49731
+2017/03/31 09:58:59 client version  67
+2017/03/31 09:58:59 version 67 not supported
+2017/03/31 09:58:59 new client: 192.168.122.62:49732
+2017/03/31 09:58:59 client version  67
+2017/03/31 09:58:59 version 67 not supported
+2017/03/31 09:59:07 new client: 192.168.122.62:49733
+2017/03/31 09:59:07 client version  67
+2017/03/31 09:59:07 version 67 not supported
+2017/03/31 09:59:07 new client: 192.168.122.62:49734
+2017/03/31 09:59:07 client version  67
+2017/03/31 09:59:07 version 67 not supported
+2017/03/31 09:59:07 new client: 192.168.122.62:49735
+2017/03/31 09:59:07 client version  67
+2017/03/31 09:59:07 version 67 not supported
+2017/03/31 09:59:07 new client: 192.168.122.62:49736
+2017/03/31 09:59:07 client version  67
+2017/03/31 09:59:07 version 67 not supported
+2017/03/31 09:59:12 new client: 192.168.122.62:49737
+2017/03/31 09:59:12 client version  67
+2017/03/31 09:59:12 version 67 not supported
+2017/03/31 09:59:12 new client: 192.168.122.62:49738
+2017/03/31 09:59:12 client version  67
+2017/03/31 09:59:12 version 67 not supported
+2017/03/31 09:59:12 new client: 192.168.122.62:49739
+2017/03/31 09:59:12 client version  67
+2017/03/31 09:59:12 version 67 not supported
+2017/03/31 09:59:12 new client: 192.168.122.62:49740
+2017/03/31 09:59:12 client version  67
+2017/03/31 09:59:12 version 67 not supported
+2017/03/31 09:59:16 new client: 192.168.122.62:49741
+2017/03/31 09:59:16 client version  67
+2017/03/31 09:59:16 version 67 not supported
+2017/03/31 09:59:16 new client: 192.168.122.62:49742
+2017/03/31 09:59:16 client version  67
+2017/03/31 09:59:16 version 67 not supported
+2017/03/31 09:59:16 new client: 192.168.122.62:49743
+2017/03/31 09:59:16 client version  67
+2017/03/31 09:59:16 version 67 not supported
+2017/03/31 09:59:16 new client: 192.168.122.62:49744
+2017/03/31 09:59:16 client version  67
+2017/03/31 09:59:16 version 67 not supported
+2017/03/31 09:59:23 new client: 192.168.122.62:49745
+2017/03/31 09:59:23 client version  67
+2017/03/31 09:59:23 version 67 not supported
+2017/03/31 09:59:23 new client: 192.168.122.62:49746
+2017/03/31 09:59:23 client version  67
+2017/03/31 09:59:23 version 67 not supported
+2017/03/31 09:59:23 new client: 192.168.122.62:49747
+2017/03/31 09:59:23 client version  67
+2017/03/31 09:59:23 version 67 not supported
+2017/03/31 09:59:23 new client: 192.168.122.62:49748
+2017/03/31 09:59:23 client version  67
+2017/03/31 09:59:23 version 67 not supported
+2017/03/31 09:59:31 new client: 192.168.122.62:49749
+2017/03/31 09:59:31 client version  67
+2017/03/31 09:59:31 version 67 not supported
+2017/03/31 09:59:31 new client: 192.168.122.62:49750
+2017/03/31 09:59:31 client version  67
+2017/03/31 09:59:31 version 67 not supported
+2017/03/31 09:59:31 new client: 192.168.122.62:49751
+2017/03/31 09:59:31 client version  67
+2017/03/31 09:59:31 version 67 not supported
+2017/03/31 09:59:31 new client: 192.168.122.62:49752
+2017/03/31 09:59:31 client version  67
+2017/03/31 09:59:31 version 67 not supported
+2017/03/31 09:59:37 new client: 192.168.122.62:49753
+2017/03/31 09:59:37 client version  67
+2017/03/31 09:59:37 version 67 not supported
+2017/03/31 09:59:37 new client: 192.168.122.62:49754
+2017/03/31 09:59:37 client version  67
+2017/03/31 09:59:37 version 67 not supported
+2017/03/31 09:59:37 new client: 192.168.122.62:49755
+2017/03/31 09:59:37 client version  67
+2017/03/31 09:59:37 version 67 not supported
+2017/03/31 09:59:37 new client: 192.168.122.62:49756
+2017/03/31 09:59:37 client version  67
+2017/03/31 09:59:37 version 67 not supported
+2017/03/31 09:59:42 new client: 192.168.122.62:49757
+2017/03/31 09:59:42 client version  67
+2017/03/31 09:59:42 version 67 not supported
+2017/03/31 09:59:42 new client: 192.168.122.62:49758
+2017/03/31 09:59:42 client version  67
+2017/03/31 09:59:42 version 67 not supported
+2017/03/31 09:59:42 new client: 192.168.122.62:49759
+2017/03/31 09:59:42 client version  67
+2017/03/31 09:59:42 version 67 not supported
+2017/03/31 09:59:42 new client: 192.168.122.62:49760
+2017/03/31 09:59:42 client version  67
+2017/03/31 09:59:42 version 67 not supported
+2017/03/31 09:59:44 new client: 192.168.122.62:49761
+2017/03/31 09:59:44 client version  67
+2017/03/31 09:59:44 version 67 not supported
+2017/03/31 09:59:44 new client: 192.168.122.62:49762
+2017/03/31 09:59:44 client version  67
+2017/03/31 09:59:44 version 67 not supported
+2017/03/31 09:59:44 new client: 192.168.122.62:49763
+2017/03/31 09:59:44 client version  67
+2017/03/31 09:59:44 version 67 not supported
+2017/03/31 09:59:44 new client: 192.168.122.62:49764
+2017/03/31 09:59:44 client version  67
+2017/03/31 09:59:44 version 67 not supported
+2017/03/31 09:59:54 new client: 192.168.122.62:49766
+2017/03/31 09:59:54 client version  67
+2017/03/31 09:59:54 version 67 not supported
+2017/03/31 09:59:54 new client: 192.168.122.62:49767
+2017/03/31 09:59:54 client version  67
+2017/03/31 09:59:54 version 67 not supported
+2017/03/31 09:59:54 new client: 192.168.122.62:49768
+2017/03/31 09:59:54 client version  67
+2017/03/31 09:59:54 version 67 not supported
+2017/03/31 09:59:54 new client: 192.168.122.62:49769
+2017/03/31 09:59:54 client version  67
+2017/03/31 09:59:54 version 67 not supported
+2017/03/31 10:00:00 new client: 192.168.122.62:49770
+2017/03/31 10:00:00 client version  67
+2017/03/31 10:00:00 version 67 not supported
+2017/03/31 10:00:00 new client: 192.168.122.62:49771
+2017/03/31 10:00:00 client version  67
+2017/03/31 10:00:00 version 67 not supported
+2017/03/31 10:00:00 new client: 192.168.122.62:49772
+2017/03/31 10:00:00 client version  67
+2017/03/31 10:00:00 version 67 not supported
+2017/03/31 10:00:00 new client: 192.168.122.62:49773
+2017/03/31 10:00:00 client version  67
+2017/03/31 10:00:00 version 67 not supported
+2017/03/31 10:00:10 new client: 192.168.122.62:49774
+2017/03/31 10:00:10 client version  67
+2017/03/31 10:00:10 version 67 not supported
+2017/03/31 10:00:10 new client: 192.168.122.62:49775
+2017/03/31 10:00:10 client version  67
+2017/03/31 10:00:10 version 67 not supported
+2017/03/31 10:00:10 new client: 192.168.122.62:49776
+2017/03/31 10:00:10 client version  67
+2017/03/31 10:00:10 version 67 not supported
+2017/03/31 10:00:10 new client: 192.168.122.62:49777
+2017/03/31 10:00:10 client version  67
+2017/03/31 10:00:10 version 67 not supported
+2017/03/31 10:00:15 new client: 192.168.122.62:49778
+2017/03/31 10:00:15 client version  67
+2017/03/31 10:00:15 version 67 not supported
+2017/03/31 10:00:15 new client: 192.168.122.62:49779
+2017/03/31 10:00:15 client version  67
+2017/03/31 10:00:15 version 67 not supported
+2017/03/31 10:00:15 new client: 192.168.122.62:49780
+2017/03/31 10:00:15 client version  67
+2017/03/31 10:00:15 version 67 not supported
+2017/03/31 10:00:15 new client: 192.168.122.62:49781
+2017/03/31 10:00:15 client version  67
+2017/03/31 10:00:15 version 67 not supported
+2017/03/31 10:00:20 new client: 192.168.122.62:49783
+2017/03/31 10:00:20 client version  67
+2017/03/31 10:00:20 version 67 not supported
+2017/03/31 10:00:20 new client: 192.168.122.62:49784
+2017/03/31 10:00:20 client version  67
+2017/03/31 10:00:20 version 67 not supported
+2017/03/31 10:00:20 new client: 192.168.122.62:49785
+2017/03/31 10:00:20 client version  67
+2017/03/31 10:00:20 version 67 not supported
+2017/03/31 10:00:20 new client: 192.168.122.62:49786
+2017/03/31 10:00:20 client version  67
+2017/03/31 10:00:20 version 67 not supported
+2017/03/31 10:00:26 new client: 192.168.122.62:49787
+2017/03/31 10:00:26 client version  67
+2017/03/31 10:00:26 version 67 not supported
+2017/03/31 10:00:26 new client: 192.168.122.62:49788
+2017/03/31 10:00:26 client version  67
+2017/03/31 10:00:26 version 67 not supported
+2017/03/31 10:00:26 new client: 192.168.122.62:49789
+2017/03/31 10:00:26 client version  67
+2017/03/31 10:00:26 version 67 not supported
+2017/03/31 10:00:26 new client: 192.168.122.62:49790
+2017/03/31 10:00:26 client version  67
+2017/03/31 10:00:26 version 67 not supported
+2017/03/31 10:00:34 new client: 192.168.122.62:49791
+2017/03/31 10:00:34 client version  67
+2017/03/31 10:00:34 version 67 not supported
+2017/03/31 10:00:34 new client: 192.168.122.62:49792
+2017/03/31 10:00:34 client version  67
+2017/03/31 10:00:34 version 67 not supported
+2017/03/31 10:00:34 new client: 192.168.122.62:49793
+2017/03/31 10:00:34 client version  67
+2017/03/31 10:00:34 version 67 not supported
+2017/03/31 10:00:34 new client: 192.168.122.62:49794
+2017/03/31 10:00:34 client version  67
+2017/03/31 10:00:34 version 67 not supported
+2017/03/31 10:00:43 new client: 192.168.122.62:49795
+2017/03/31 10:00:43 client version  67
+2017/03/31 10:00:43 version 67 not supported
+2017/03/31 10:00:43 new client: 192.168.122.62:49796
+2017/03/31 10:00:43 client version  67
+2017/03/31 10:00:43 version 67 not supported
+2017/03/31 10:00:43 new client: 192.168.122.62:49797
+2017/03/31 10:00:43 client version  67
+2017/03/31 10:00:43 version 67 not supported
+2017/03/31 10:00:43 new client: 192.168.122.62:49798
+2017/03/31 10:00:43 client version  67
+2017/03/31 10:00:43 version 67 not supported
+2017/03/31 10:00:48 new client: 192.168.122.62:49799
+2017/03/31 10:00:48 client version  67
+2017/03/31 10:00:48 version 67 not supported
+2017/03/31 10:00:48 new client: 192.168.122.62:49800
+2017/03/31 10:00:48 client version  67
+2017/03/31 10:00:48 version 67 not supported
+2017/03/31 10:00:48 new client: 192.168.122.62:49801
+2017/03/31 10:00:48 client version  67
+2017/03/31 10:00:48 version 67 not supported
+2017/03/31 10:00:48 new client: 192.168.122.62:49802
+2017/03/31 10:00:48 client version  67
+2017/03/31 10:00:48 version 67 not supported
+2017/03/31 10:00:52 new client: 192.168.122.62:49803
+2017/03/31 10:00:52 client version  67
+2017/03/31 10:00:52 version 67 not supported
+2017/03/31 10:00:52 new client: 192.168.122.62:49804
+2017/03/31 10:00:52 client version  67
+2017/03/31 10:00:52 version 67 not supported
+2017/03/31 10:00:52 new client: 192.168.122.62:49805
+2017/03/31 10:00:52 client version  67
+2017/03/31 10:00:52 version 67 not supported
+2017/03/31 10:00:52 new client: 192.168.122.62:49806
+2017/03/31 10:00:52 client version  67
+2017/03/31 10:00:52 version 67 not supported
+2017/03/31 10:01:01 new client: 192.168.122.62:49807
+2017/03/31 10:01:01 client version  67
+2017/03/31 10:01:01 version 67 not supported
+2017/03/31 10:01:01 new client: 192.168.122.62:49808
+2017/03/31 10:01:01 client version  67
+2017/03/31 10:01:01 version 67 not supported
+2017/03/31 10:01:01 new client: 192.168.122.62:49809
+2017/03/31 10:01:01 client version  67
+2017/03/31 10:01:01 version 67 not supported
+2017/03/31 10:01:01 new client: 192.168.122.62:49810
+2017/03/31 10:01:01 client version  67
+2017/03/31 10:01:01 version 67 not supported
+2017/03/31 10:01:07 new client: 192.168.122.62:49811
+2017/03/31 10:01:07 client version  67
+2017/03/31 10:01:07 version 67 not supported
+2017/03/31 10:01:07 new client: 192.168.122.62:49812
+2017/03/31 10:01:07 client version  67
+2017/03/31 10:01:07 version 67 not supported
+2017/03/31 10:01:07 new client: 192.168.122.62:49813
+2017/03/31 10:01:07 client version  67
+2017/03/31 10:01:07 version 67 not supported
+2017/03/31 10:01:07 new client: 192.168.122.62:49814
+2017/03/31 10:01:07 client version  67
+2017/03/31 10:01:07 version 67 not supported
+2017/03/31 10:01:14 new client: 192.168.122.62:49815
+2017/03/31 10:01:14 client version  67
+2017/03/31 10:01:14 version 67 not supported
+2017/03/31 10:01:14 new client: 192.168.122.62:49816
+2017/03/31 10:01:14 client version  67
+2017/03/31 10:01:14 version 67 not supported
+2017/03/31 10:01:14 new client: 192.168.122.62:49817
+2017/03/31 10:01:14 client version  67
+2017/03/31 10:01:14 version 67 not supported
+2017/03/31 10:01:14 new client: 192.168.122.62:49818
+2017/03/31 10:01:14 client version  67
+2017/03/31 10:01:14 version 67 not supported
+2017/03/31 10:01:19 new client: 192.168.122.62:49819
+2017/03/31 10:01:19 client version  67
+2017/03/31 10:01:19 version 67 not supported
+2017/03/31 10:01:19 new client: 192.168.122.62:49820
+2017/03/31 10:01:19 client version  67
+2017/03/31 10:01:19 version 67 not supported
+2017/03/31 10:01:19 new client: 192.168.122.62:49821
+2017/03/31 10:01:19 client version  67
+2017/03/31 10:01:19 version 67 not supported
+2017/03/31 10:01:19 new client: 192.168.122.62:49822
+2017/03/31 10:01:19 client version  67
+2017/03/31 10:01:19 version 67 not supported
+2017/03/31 10:01:23 new client: 192.168.122.62:49823
+2017/03/31 10:01:23 client version  67
+2017/03/31 10:01:23 version 67 not supported
+2017/03/31 10:01:23 new client: 192.168.122.62:49824
+2017/03/31 10:01:23 client version  67
+2017/03/31 10:01:23 version 67 not supported
+2017/03/31 10:01:23 new client: 192.168.122.62:49825
+2017/03/31 10:01:23 client version  67
+2017/03/31 10:01:23 version 67 not supported
+2017/03/31 10:01:23 new client: 192.168.122.62:49826
+2017/03/31 10:01:23 client version  67
+2017/03/31 10:01:23 version 67 not supported
+2017/03/31 10:01:30 new client: 192.168.122.62:49827
+2017/03/31 10:01:30 client version  67
+2017/03/31 10:01:30 version 67 not supported
+2017/03/31 10:01:30 new client: 192.168.122.62:49828
+2017/03/31 10:01:30 client version  67
+2017/03/31 10:01:30 version 67 not supported
+2017/03/31 10:01:30 new client: 192.168.122.62:49829
+2017/03/31 10:01:30 client version  67
+2017/03/31 10:01:30 version 67 not supported
+2017/03/31 10:01:30 new client: 192.168.122.62:49830
+2017/03/31 10:01:30 client version  67
+2017/03/31 10:01:30 version 67 not supported
+2017/03/31 10:01:38 new client: 192.168.122.62:49831
+2017/03/31 10:01:38 client version  67
+2017/03/31 10:01:38 version 67 not supported
+2017/03/31 10:01:38 new client: 192.168.122.62:49832
+2017/03/31 10:01:38 client version  67
+2017/03/31 10:01:38 version 67 not supported
+2017/03/31 10:01:38 new client: 192.168.122.62:49833
+2017/03/31 10:01:38 client version  67
+2017/03/31 10:01:38 version 67 not supported
+2017/03/31 10:01:38 new client: 192.168.122.62:49834
+2017/03/31 10:01:38 client version  67
+2017/03/31 10:01:38 version 67 not supported
+2017/03/31 10:01:48 new client: 192.168.122.62:49835
+2017/03/31 10:01:48 client version  67
+2017/03/31 10:01:48 version 67 not supported
+2017/03/31 10:01:48 new client: 192.168.122.62:49836
+2017/03/31 10:01:48 client version  67
+2017/03/31 10:01:48 version 67 not supported
+2017/03/31 10:01:48 new client: 192.168.122.62:49837
+2017/03/31 10:01:48 client version  67
+2017/03/31 10:01:48 version 67 not supported
+2017/03/31 10:01:48 new client: 192.168.122.62:49838
+2017/03/31 10:01:48 client version  67
+2017/03/31 10:01:48 version 67 not supported
+2017/03/31 10:01:53 new client: 192.168.122.62:49839
+2017/03/31 10:01:53 client version  67
+2017/03/31 10:01:53 version 67 not supported
+2017/03/31 10:01:53 new client: 192.168.122.62:49840
+2017/03/31 10:01:53 client version  67
+2017/03/31 10:01:53 version 67 not supported
+2017/03/31 10:01:53 new client: 192.168.122.62:49841
+2017/03/31 10:01:53 client version  67
+2017/03/31 10:01:53 version 67 not supported
+2017/03/31 10:01:53 new client: 192.168.122.62:49842
+2017/03/31 10:01:53 client version  67
+2017/03/31 10:01:53 version 67 not supported
+2017/03/31 10:01:56 new client: 192.168.122.62:49843
+2017/03/31 10:01:56 client version  67
+2017/03/31 10:01:56 version 67 not supported
+2017/03/31 10:01:56 new client: 192.168.122.62:49844
+2017/03/31 10:01:56 client version  67
+2017/03/31 10:01:56 version 67 not supported
+2017/03/31 10:01:56 new client: 192.168.122.62:49845
+2017/03/31 10:01:56 client version  67
+2017/03/31 10:01:56 version 67 not supported
+2017/03/31 10:01:56 new client: 192.168.122.62:49846
+2017/03/31 10:01:56 client version  67
+2017/03/31 10:01:56 version 67 not supported
+2017/03/31 10:02:04 new client: 192.168.122.62:49847
+2017/03/31 10:02:04 client version  67
+2017/03/31 10:02:04 version 67 not supported
+2017/03/31 10:02:04 new client: 192.168.122.62:49848
+2017/03/31 10:02:04 client version  67
+2017/03/31 10:02:04 version 67 not supported
+2017/03/31 10:02:04 new client: 192.168.122.62:49849
+2017/03/31 10:02:04 client version  67
+2017/03/31 10:02:04 version 67 not supported
+2017/03/31 10:02:04 new client: 192.168.122.62:49850
+2017/03/31 10:02:04 client version  67
+2017/03/31 10:02:04 version 67 not supported
+2017/03/31 10:02:13 new client: 192.168.122.62:49851
+2017/03/31 10:02:13 client version  67
+2017/03/31 10:02:13 version 67 not supported
+2017/03/31 10:02:13 new client: 192.168.122.62:49852
+2017/03/31 10:02:13 client version  67
+2017/03/31 10:02:13 version 67 not supported
+2017/03/31 10:02:13 new client: 192.168.122.62:49853
+2017/03/31 10:02:13 client version  67
+2017/03/31 10:02:13 version 67 not supported
+2017/03/31 10:02:13 new client: 192.168.122.62:49854
+2017/03/31 10:02:13 client version  67
+2017/03/31 10:02:13 version 67 not supported
+2017/03/31 10:02:20 new client: 192.168.122.62:49855
+2017/03/31 10:02:20 client version  67
+2017/03/31 10:02:20 version 67 not supported
+2017/03/31 10:02:20 new client: 192.168.122.62:49856
+2017/03/31 10:02:20 client version  67
+2017/03/31 10:02:20 version 67 not supported
+2017/03/31 10:02:20 new client: 192.168.122.62:49857
+2017/03/31 10:02:20 client version  67
+2017/03/31 10:02:20 version 67 not supported
+2017/03/31 10:02:20 new client: 192.168.122.62:49858
+2017/03/31 10:02:20 client version  67
+2017/03/31 10:02:20 version 67 not supported
+2017/03/31 10:02:25 new client: 192.168.122.62:49859
+2017/03/31 10:02:25 client version  67
+2017/03/31 10:02:25 version 67 not supported
+2017/03/31 10:02:25 new client: 192.168.122.62:49860
+2017/03/31 10:02:25 client version  67
+2017/03/31 10:02:25 version 67 not supported
+2017/03/31 10:02:25 new client: 192.168.122.62:49861
+2017/03/31 10:02:25 client version  67
+2017/03/31 10:02:25 version 67 not supported
+2017/03/31 10:02:25 new client: 192.168.122.62:49862
+2017/03/31 10:02:25 client version  67
+2017/03/31 10:02:25 version 67 not supported
+2017/03/31 10:02:27 new client: 192.168.122.62:49863
+2017/03/31 10:02:27 client version  67
+2017/03/31 10:02:27 version 67 not supported
+2017/03/31 10:02:27 new client: 192.168.122.62:49864
+2017/03/31 10:02:27 client version  67
+2017/03/31 10:02:27 version 67 not supported
+2017/03/31 10:02:27 new client: 192.168.122.62:49865
+2017/03/31 10:02:27 client version  67
+2017/03/31 10:02:27 version 67 not supported
+2017/03/31 10:02:27 new client: 192.168.122.62:49866
+2017/03/31 10:02:27 client version  67
+2017/03/31 10:02:27 version 67 not supported
+2017/03/31 10:02:33 new client: 192.168.122.62:49867
+2017/03/31 10:02:33 client version  67
+2017/03/31 10:02:33 version 67 not supported
+2017/03/31 10:02:33 new client: 192.168.122.62:49868
+2017/03/31 10:02:33 client version  67
+2017/03/31 10:02:33 version 67 not supported
+2017/03/31 10:02:33 new client: 192.168.122.62:49869
+2017/03/31 10:02:33 client version  67
+2017/03/31 10:02:33 version 67 not supported
+2017/03/31 10:02:33 new client: 192.168.122.62:49870
+2017/03/31 10:02:33 client version  67
+2017/03/31 10:02:33 version 67 not supported
+2017/03/31 10:02:40 new client: 192.168.122.62:49871
+2017/03/31 10:02:40 client version  67
+2017/03/31 10:02:40 version 67 not supported
+2017/03/31 10:02:40 new client: 192.168.122.62:49872
+2017/03/31 10:02:40 client version  67
+2017/03/31 10:02:40 version 67 not supported
+2017/03/31 10:02:40 new client: 192.168.122.62:49873
+2017/03/31 10:02:40 client version  67
+2017/03/31 10:02:40 version 67 not supported
+2017/03/31 10:02:40 new client: 192.168.122.62:49874
+2017/03/31 10:02:40 client version  67
+2017/03/31 10:02:40 version 67 not supported
+2017/03/31 10:02:49 new client: 192.168.122.62:49875
+2017/03/31 10:02:49 client version  67
+2017/03/31 10:02:49 version 67 not supported
+2017/03/31 10:02:49 new client: 192.168.122.62:49876
+2017/03/31 10:02:49 client version  67
+2017/03/31 10:02:49 version 67 not supported
+2017/03/31 10:02:49 new client: 192.168.122.62:49877
+2017/03/31 10:02:49 client version  67
+2017/03/31 10:02:49 version 67 not supported
+2017/03/31 10:02:49 new client: 192.168.122.62:49878
+2017/03/31 10:02:49 client version  67
+2017/03/31 10:02:49 version 67 not supported
+2017/03/31 10:02:54 new client: 192.168.122.62:49879
+2017/03/31 10:02:54 client version  67
+2017/03/31 10:02:54 version 67 not supported
+2017/03/31 10:02:54 new client: 192.168.122.62:49880
+2017/03/31 10:02:54 client version  67
+2017/03/31 10:02:54 version 67 not supported
+2017/03/31 10:02:54 new client: 192.168.122.62:49881
+2017/03/31 10:02:54 client version  67
+2017/03/31 10:02:54 version 67 not supported
+2017/03/31 10:02:54 new client: 192.168.122.62:49882
+2017/03/31 10:02:54 client version  67
+2017/03/31 10:02:54 version 67 not supported
+2017/03/31 10:02:56 new client: 192.168.122.62:49883
+2017/03/31 10:02:56 client version  71
+2017/03/31 10:02:56 version 71 not supported
+2017/03/31 10:02:56 new client: 192.168.122.62:49884
+2017/03/31 10:02:56 client version  71
+2017/03/31 10:02:56 version 71 not supported
+2017/03/31 10:02:59 new client: 192.168.122.62:49885
+2017/03/31 10:02:59 client version  67
+2017/03/31 10:02:59 version 67 not supported
+2017/03/31 10:02:59 new client: 192.168.122.62:49886
+2017/03/31 10:02:59 client version  67
+2017/03/31 10:02:59 version 67 not supported
+2017/03/31 10:02:59 new client: 192.168.122.62:49887
+2017/03/31 10:02:59 client version  67
+2017/03/31 10:02:59 version 67 not supported
+2017/03/31 10:02:59 new client: 192.168.122.62:49888
+2017/03/31 10:02:59 client version  67
+2017/03/31 10:02:59 version 67 not supported
+2017/03/31 10:03:08 new client: 192.168.122.62:49889
+2017/03/31 10:03:08 client version  67
+2017/03/31 10:03:08 version 67 not supported
+2017/03/31 10:03:08 new client: 192.168.122.62:49890
+2017/03/31 10:03:08 client version  67
+2017/03/31 10:03:08 version 67 not supported
+2017/03/31 10:03:08 new client: 192.168.122.62:49891
+2017/03/31 10:03:08 client version  67
+2017/03/31 10:03:08 version 67 not supported
+2017/03/31 10:03:08 new client: 192.168.122.62:49892
+2017/03/31 10:03:08 client version  67
+2017/03/31 10:03:08 version 67 not supported
+2017/03/31 10:03:17 new client: 192.168.122.62:49893
+2017/03/31 10:03:17 client version  67
+2017/03/31 10:03:17 version 67 not supported
+2017/03/31 10:03:17 new client: 192.168.122.62:49894
+2017/03/31 10:03:17 client version  67
+2017/03/31 10:03:17 version 67 not supported
+2017/03/31 10:03:17 new client: 192.168.122.62:49895
+2017/03/31 10:03:17 client version  67
+2017/03/31 10:03:17 version 67 not supported
+2017/03/31 10:03:17 new client: 192.168.122.62:49896
+2017/03/31 10:03:17 client version  67
+2017/03/31 10:03:17 version 67 not supported
+2017/03/31 10:03:26 new client: 192.168.122.62:49897
+2017/03/31 10:03:26 client version  67
+2017/03/31 10:03:26 version 67 not supported
+2017/03/31 10:03:26 new client: 192.168.122.62:49898
+2017/03/31 10:03:26 client version  67
+2017/03/31 10:03:26 version 67 not supported
+2017/03/31 10:03:26 new client: 192.168.122.62:49899
+2017/03/31 10:03:26 client version  67
+2017/03/31 10:03:26 version 67 not supported
+2017/03/31 10:03:26 new client: 192.168.122.62:49900
+2017/03/31 10:03:26 client version  67
+2017/03/31 10:03:26 version 67 not supported
+2017/03/31 10:03:31 new client: 192.168.122.62:49901
+2017/03/31 10:03:31 client version  67
+2017/03/31 10:03:31 version 67 not supported
+2017/03/31 10:03:31 new client: 192.168.122.62:49902
+2017/03/31 10:03:31 client version  67
+2017/03/31 10:03:31 version 67 not supported
+2017/03/31 10:03:31 new client: 192.168.122.62:49903
+2017/03/31 10:03:31 client version  67
+2017/03/31 10:03:31 version 67 not supported
+2017/03/31 10:03:31 new client: 192.168.122.62:49904
+2017/03/31 10:03:31 client version  67
+2017/03/31 10:03:31 version 67 not supported
+2017/03/31 10:03:34 new client: 192.168.122.62:49905
+2017/03/31 10:03:34 client version  67
+2017/03/31 10:03:34 version 67 not supported
+2017/03/31 10:03:34 new client: 192.168.122.62:49906
+2017/03/31 10:03:34 client version  67
+2017/03/31 10:03:34 version 67 not supported
+2017/03/31 10:03:34 new client: 192.168.122.62:49907
+2017/03/31 10:03:34 client version  67
+2017/03/31 10:03:34 version 67 not supported
+2017/03/31 10:03:34 new client: 192.168.122.62:49908
+2017/03/31 10:03:34 client version  67
+2017/03/31 10:03:34 version 67 not supported
+2017/03/31 10:03:42 new client: 192.168.122.62:49909
+2017/03/31 10:03:42 client version  67
+2017/03/31 10:03:42 version 67 not supported
+2017/03/31 10:03:42 new client: 192.168.122.62:49910
+2017/03/31 10:03:42 client version  67
+2017/03/31 10:03:42 version 67 not supported
+2017/03/31 10:03:42 new client: 192.168.122.62:49911
+2017/03/31 10:03:42 client version  67
+2017/03/31 10:03:42 version 67 not supported
+2017/03/31 10:03:42 new client: 192.168.122.62:49912
+2017/03/31 10:03:42 client version  67
+2017/03/31 10:03:42 version 67 not supported
+2017/03/31 10:03:50 new client: 192.168.122.62:49913
+2017/03/31 10:03:50 client version  67
+2017/03/31 10:03:50 version 67 not supported
+2017/03/31 10:03:50 new client: 192.168.122.62:49914
+2017/03/31 10:03:50 client version  67
+2017/03/31 10:03:50 version 67 not supported
+2017/03/31 10:03:50 new client: 192.168.122.62:49915
+2017/03/31 10:03:50 client version  67
+2017/03/31 10:03:50 version 67 not supported
+2017/03/31 10:03:50 new client: 192.168.122.62:49916
+2017/03/31 10:03:50 client version  67
+2017/03/31 10:03:50 version 67 not supported
+2017/03/31 10:03:57 new client: 192.168.122.62:49917
+2017/03/31 10:03:57 client version  67
+2017/03/31 10:03:57 version 67 not supported
+2017/03/31 10:03:57 new client: 192.168.122.62:49918
+2017/03/31 10:03:57 client version  67
+2017/03/31 10:03:57 version 67 not supported
+2017/03/31 10:03:57 new client: 192.168.122.62:49919
+2017/03/31 10:03:57 client version  67
+2017/03/31 10:03:57 version 67 not supported
+2017/03/31 10:03:57 new client: 192.168.122.62:49920
+2017/03/31 10:03:57 client version  67
+2017/03/31 10:03:57 version 67 not supported
+2017/03/31 10:04:02 new client: 192.168.122.62:49921
+2017/03/31 10:04:02 client version  67
+2017/03/31 10:04:02 version 67 not supported
+2017/03/31 10:04:02 new client: 192.168.122.62:49922
+2017/03/31 10:04:02 client version  67
+2017/03/31 10:04:02 version 67 not supported
+2017/03/31 10:04:02 new client: 192.168.122.62:49923
+2017/03/31 10:04:02 client version  67
+2017/03/31 10:04:02 version 67 not supported
+2017/03/31 10:04:02 new client: 192.168.122.62:49924
+2017/03/31 10:04:02 client version  67
+2017/03/31 10:04:02 version 67 not supported
+2017/03/31 10:04:06 new client: 192.168.122.62:49925
+2017/03/31 10:04:06 client version  67
+2017/03/31 10:04:06 version 67 not supported
+2017/03/31 10:04:06 new client: 192.168.122.62:49926
+2017/03/31 10:04:06 client version  67
+2017/03/31 10:04:06 version 67 not supported
+2017/03/31 10:04:06 new client: 192.168.122.62:49927
+2017/03/31 10:04:06 client version  67
+2017/03/31 10:04:06 version 67 not supported
+2017/03/31 10:04:06 new client: 192.168.122.62:49928
+2017/03/31 10:04:06 client version  67
+2017/03/31 10:04:06 version 67 not supported
+2017/03/31 10:04:16 new client: 192.168.122.62:49929
+2017/03/31 10:04:16 client version  67
+2017/03/31 10:04:16 version 67 not supported
+2017/03/31 10:04:16 new client: 192.168.122.62:49930
+2017/03/31 10:04:16 client version  67
+2017/03/31 10:04:16 version 67 not supported
+2017/03/31 10:04:16 new client: 192.168.122.62:49931
+2017/03/31 10:04:16 client version  67
+2017/03/31 10:04:16 version 67 not supported
+2017/03/31 10:04:16 new client: 192.168.122.62:49932
+2017/03/31 10:04:16 client version  67
+2017/03/31 10:04:16 version 67 not supported
+2017/03/31 10:04:23 new client: 192.168.122.62:49934
+2017/03/31 10:04:23 client version  67
+2017/03/31 10:04:23 version 67 not supported
+2017/03/31 10:04:23 new client: 192.168.122.62:49935
+2017/03/31 10:04:23 client version  67
+2017/03/31 10:04:23 version 67 not supported
+2017/03/31 10:04:23 new client: 192.168.122.62:49936
+2017/03/31 10:04:23 client version  67
+2017/03/31 10:04:23 version 67 not supported
+2017/03/31 10:04:23 new client: 192.168.122.62:49937
+2017/03/31 10:04:23 client version  67
+2017/03/31 10:04:23 version 67 not supported
+2017/03/31 10:04:30 new client: 192.168.122.62:49938
+2017/03/31 10:04:30 client version  67
+2017/03/31 10:04:30 version 67 not supported
+2017/03/31 10:04:30 new client: 192.168.122.62:49939
+2017/03/31 10:04:30 client version  67
+2017/03/31 10:04:30 version 67 not supported
+2017/03/31 10:04:30 new client: 192.168.122.62:49940
+2017/03/31 10:04:30 client version  67
+2017/03/31 10:04:30 version 67 not supported
+2017/03/31 10:04:30 new client: 192.168.122.62:49941
+2017/03/31 10:04:30 client version  67
+2017/03/31 10:04:30 version 67 not supported
+2017/03/31 10:04:35 new client: 192.168.122.62:49942
+2017/03/31 10:04:35 client version  67
+2017/03/31 10:04:35 version 67 not supported
+2017/03/31 10:04:35 new client: 192.168.122.62:49943
+2017/03/31 10:04:35 client version  67
+2017/03/31 10:04:35 version 67 not supported
+2017/03/31 10:04:35 new client: 192.168.122.62:49944
+2017/03/31 10:04:35 client version  67
+2017/03/31 10:04:35 version 67 not supported
+2017/03/31 10:04:35 new client: 192.168.122.62:49945
+2017/03/31 10:04:35 client version  67
+2017/03/31 10:04:35 version 67 not supported
+2017/03/31 10:04:38 new client: 192.168.122.62:49946
+2017/03/31 10:04:38 client version  67
+2017/03/31 10:04:38 version 67 not supported
+2017/03/31 10:04:38 new client: 192.168.122.62:49947
+2017/03/31 10:04:38 client version  67
+2017/03/31 10:04:38 version 67 not supported
+2017/03/31 10:04:38 new client: 192.168.122.62:49948
+2017/03/31 10:04:38 client version  67
+2017/03/31 10:04:38 version 67 not supported
+2017/03/31 10:04:38 new client: 192.168.122.62:49949
+2017/03/31 10:04:38 client version  67
+2017/03/31 10:04:38 version 67 not supported
+2017/03/31 10:04:47 new client: 192.168.122.62:49950
+2017/03/31 10:04:47 client version  67
+2017/03/31 10:04:47 version 67 not supported
+2017/03/31 10:04:47 new client: 192.168.122.62:49951
+2017/03/31 10:04:47 client version  67
+2017/03/31 10:04:47 version 67 not supported
+2017/03/31 10:04:47 new client: 192.168.122.62:49952
+2017/03/31 10:04:47 client version  67
+2017/03/31 10:04:47 version 67 not supported
+2017/03/31 10:04:47 new client: 192.168.122.62:49953
+2017/03/31 10:04:47 client version  67
+2017/03/31 10:04:47 version 67 not supported
+2017/03/31 10:04:54 new client: 192.168.122.62:49954
+2017/03/31 10:04:54 client version  67
+2017/03/31 10:04:54 version 67 not supported
+2017/03/31 10:04:54 new client: 192.168.122.62:49955
+2017/03/31 10:04:54 client version  67
+2017/03/31 10:04:54 version 67 not supported
+2017/03/31 10:04:54 new client: 192.168.122.62:49956
+2017/03/31 10:04:54 client version  67
+2017/03/31 10:04:54 version 67 not supported
+2017/03/31 10:04:54 new client: 192.168.122.62:49957
+2017/03/31 10:04:54 client version  67
+2017/03/31 10:04:54 version 67 not supported
+2017/03/31 10:05:00 new client: 192.168.122.62:49958
+2017/03/31 10:05:00 client version  67
+2017/03/31 10:05:00 version 67 not supported
+2017/03/31 10:05:00 new client: 192.168.122.62:49959
+2017/03/31 10:05:00 client version  67
+2017/03/31 10:05:00 version 67 not supported
+2017/03/31 10:05:00 new client: 192.168.122.62:49960
+2017/03/31 10:05:00 client version  67
+2017/03/31 10:05:00 version 67 not supported
+2017/03/31 10:05:00 new client: 192.168.122.62:49961
+2017/03/31 10:05:00 client version  67
+2017/03/31 10:05:00 version 67 not supported
+2017/03/31 10:05:05 new client: 192.168.122.62:49963
+2017/03/31 10:05:05 client version  67
+2017/03/31 10:05:05 version 67 not supported
+2017/03/31 10:05:05 new client: 192.168.122.62:49964
+2017/03/31 10:05:05 client version  67
+2017/03/31 10:05:05 version 67 not supported
+2017/03/31 10:05:05 new client: 192.168.122.62:49965
+2017/03/31 10:05:05 client version  67
+2017/03/31 10:05:05 version 67 not supported
+2017/03/31 10:05:05 new client: 192.168.122.62:49966
+2017/03/31 10:05:05 client version  67
+2017/03/31 10:05:05 version 67 not supported
+2017/03/31 10:05:09 new client: 192.168.122.62:49967
+2017/03/31 10:05:09 client version  67
+2017/03/31 10:05:09 version 67 not supported
+2017/03/31 10:05:09 new client: 192.168.122.62:49968
+2017/03/31 10:05:09 client version  67
+2017/03/31 10:05:09 version 67 not supported
+2017/03/31 10:05:09 new client: 192.168.122.62:49969
+2017/03/31 10:05:09 client version  67
+2017/03/31 10:05:09 version 67 not supported
+2017/03/31 10:05:09 new client: 192.168.122.62:49970
+2017/03/31 10:05:09 client version  67
+2017/03/31 10:05:09 version 67 not supported
+2017/03/31 10:05:16 new client: 192.168.122.62:49972
+2017/03/31 10:05:16 client version  67
+2017/03/31 10:05:16 version 67 not supported
+2017/03/31 10:05:16 new client: 192.168.122.62:49973
+2017/03/31 10:05:16 client version  67
+2017/03/31 10:05:16 version 67 not supported
+2017/03/31 10:05:16 new client: 192.168.122.62:49974
+2017/03/31 10:05:16 client version  67
+2017/03/31 10:05:16 version 67 not supported
+2017/03/31 10:05:16 new client: 192.168.122.62:49975
+2017/03/31 10:05:16 client version  67
+2017/03/31 10:05:16 version 67 not supported
+2017/03/31 10:05:23 new client: 192.168.122.62:49976
+2017/03/31 10:05:23 client version  67
+2017/03/31 10:05:23 version 67 not supported
+2017/03/31 10:05:23 new client: 192.168.122.62:49977
+2017/03/31 10:05:23 client version  67
+2017/03/31 10:05:23 version 67 not supported
+2017/03/31 10:05:23 new client: 192.168.122.62:49978
+2017/03/31 10:05:23 client version  67
+2017/03/31 10:05:23 version 67 not supported
+2017/03/31 10:05:23 new client: 192.168.122.62:49979
+2017/03/31 10:05:23 client version  67
+2017/03/31 10:05:23 version 67 not supported
+2017/03/31 10:05:31 new client: 192.168.122.62:49980
+2017/03/31 10:05:31 client version  67
+2017/03/31 10:05:31 version 67 not supported
+2017/03/31 10:05:31 new client: 192.168.122.62:49981
+2017/03/31 10:05:31 client version  67
+2017/03/31 10:05:31 version 67 not supported
+2017/03/31 10:05:31 new client: 192.168.122.62:49982
+2017/03/31 10:05:31 client version  67
+2017/03/31 10:05:31 version 67 not supported
+2017/03/31 10:05:31 new client: 192.168.122.62:49983
+2017/03/31 10:05:31 client version  67
+2017/03/31 10:05:31 version 67 not supported
+2017/03/31 10:05:36 new client: 192.168.122.62:49984
+2017/03/31 10:05:36 client version  67
+2017/03/31 10:05:36 version 67 not supported
+2017/03/31 10:05:36 new client: 192.168.122.62:49985
+2017/03/31 10:05:36 client version  67
+2017/03/31 10:05:36 version 67 not supported
+2017/03/31 10:05:36 new client: 192.168.122.62:49986
+2017/03/31 10:05:36 client version  67
+2017/03/31 10:05:36 version 67 not supported
+2017/03/31 10:05:36 new client: 192.168.122.62:49987
+2017/03/31 10:05:36 client version  67
+2017/03/31 10:05:36 version 67 not supported
+2017/03/31 10:05:40 new client: 192.168.122.62:49988
+2017/03/31 10:05:40 client version  67
+2017/03/31 10:05:40 version 67 not supported
+2017/03/31 10:05:40 new client: 192.168.122.62:49989
+2017/03/31 10:05:40 client version  67
+2017/03/31 10:05:40 version 67 not supported
+2017/03/31 10:05:40 new client: 192.168.122.62:49990
+2017/03/31 10:05:40 client version  67
+2017/03/31 10:05:40 version 67 not supported
+2017/03/31 10:05:40 new client: 192.168.122.62:49991
+2017/03/31 10:05:40 client version  67
+2017/03/31 10:05:40 version 67 not supported
+2017/03/31 10:05:48 new client: 192.168.122.62:49992
+2017/03/31 10:05:48 client version  67
+2017/03/31 10:05:48 version 67 not supported
+2017/03/31 10:05:48 new client: 192.168.122.62:49993
+2017/03/31 10:05:48 client version  67
+2017/03/31 10:05:48 version 67 not supported
+2017/03/31 10:05:48 new client: 192.168.122.62:49994
+2017/03/31 10:05:48 client version  67
+2017/03/31 10:05:48 version 67 not supported
+2017/03/31 10:05:48 new client: 192.168.122.62:49995
+2017/03/31 10:05:48 client version  67
+2017/03/31 10:05:48 version 67 not supported
+2017/03/31 10:05:55 new client: 192.168.122.62:49996
+2017/03/31 10:05:55 client version  67
+2017/03/31 10:05:55 version 67 not supported
+2017/03/31 10:05:55 new client: 192.168.122.62:49997
+2017/03/31 10:05:55 client version  67
+2017/03/31 10:05:55 version 67 not supported
+2017/03/31 10:05:55 new client: 192.168.122.62:49998
+2017/03/31 10:05:55 client version  67
+2017/03/31 10:05:55 version 67 not supported
+2017/03/31 10:05:55 new client: 192.168.122.62:49999
+2017/03/31 10:05:55 client version  67
+2017/03/31 10:05:55 version 67 not supported
+2017/03/31 10:06:03 new client: 192.168.122.62:50000
+2017/03/31 10:06:03 client version  67
+2017/03/31 10:06:03 version 67 not supported
+2017/03/31 10:06:03 new client: 192.168.122.62:50001
+2017/03/31 10:06:03 client version  67
+2017/03/31 10:06:03 version 67 not supported
+2017/03/31 10:06:03 new client: 192.168.122.62:50002
+2017/03/31 10:06:03 client version  67
+2017/03/31 10:06:03 version 67 not supported
+2017/03/31 10:06:03 new client: 192.168.122.62:50003
+2017/03/31 10:06:03 client version  67
+2017/03/31 10:06:03 version 67 not supported
+2017/03/31 10:06:08 new client: 192.168.122.62:50004
+2017/03/31 10:06:08 client version  67
+2017/03/31 10:06:08 version 67 not supported
+2017/03/31 10:06:08 new client: 192.168.122.62:50005
+2017/03/31 10:06:08 client version  67
+2017/03/31 10:06:08 version 67 not supported
+2017/03/31 10:06:08 new client: 192.168.122.62:50006
+2017/03/31 10:06:08 client version  67
+2017/03/31 10:06:08 version 67 not supported
+2017/03/31 10:06:08 new client: 192.168.122.62:50007
+2017/03/31 10:06:08 client version  67
+2017/03/31 10:06:08 version 67 not supported
+2017/03/31 10:06:10 new client: 192.168.122.62:50008
+2017/03/31 10:06:10 client version  67
+2017/03/31 10:06:10 version 67 not supported
+2017/03/31 10:06:10 new client: 192.168.122.62:50009
+2017/03/31 10:06:10 client version  67
+2017/03/31 10:06:10 version 67 not supported
+2017/03/31 10:06:10 new client: 192.168.122.62:50010
+2017/03/31 10:06:10 client version  67
+2017/03/31 10:06:10 version 67 not supported
+2017/03/31 10:06:10 new client: 192.168.122.62:50011
+2017/03/31 10:06:10 client version  67
+2017/03/31 10:06:10 version 67 not supported
+2017/03/31 10:06:19 new client: 192.168.122.62:50012
+2017/03/31 10:06:19 client version  67
+2017/03/31 10:06:19 version 67 not supported
+2017/03/31 10:06:19 new client: 192.168.122.62:50013
+2017/03/31 10:06:19 client version  67
+2017/03/31 10:06:19 version 67 not supported
+2017/03/31 10:06:19 new client: 192.168.122.62:50014
+2017/03/31 10:06:19 client version  67
+2017/03/31 10:06:19 version 67 not supported
+2017/03/31 10:06:19 new client: 192.168.122.62:50015
+2017/03/31 10:06:19 client version  67
+2017/03/31 10:06:19 version 67 not supported
+2017/03/31 10:06:26 new client: 192.168.122.62:50016
+2017/03/31 10:06:26 client version  67
+2017/03/31 10:06:26 version 67 not supported
+2017/03/31 10:06:26 new client: 192.168.122.62:50017
+2017/03/31 10:06:26 client version  67
+2017/03/31 10:06:26 version 67 not supported
+2017/03/31 10:06:26 new client: 192.168.122.62:50018
+2017/03/31 10:06:26 client version  67
+2017/03/31 10:06:26 version 67 not supported
+2017/03/31 10:06:26 new client: 192.168.122.62:50019
+2017/03/31 10:06:26 client version  67
+2017/03/31 10:06:26 version 67 not supported
+2017/03/31 10:06:34 new client: 192.168.122.62:50020
+2017/03/31 10:06:34 client version  67
+2017/03/31 10:06:34 version 67 not supported
+2017/03/31 10:06:34 new client: 192.168.122.62:50021
+2017/03/31 10:06:34 client version  67
+2017/03/31 10:06:34 version 67 not supported
+2017/03/31 10:06:34 new client: 192.168.122.62:50022
+2017/03/31 10:06:34 client version  67
+2017/03/31 10:06:34 version 67 not supported
+2017/03/31 10:06:34 new client: 192.168.122.62:50023
+2017/03/31 10:06:34 client version  67
+2017/03/31 10:06:34 version 67 not supported
+2017/03/31 10:06:39 new client: 192.168.122.62:50024
+2017/03/31 10:06:39 client version  67
+2017/03/31 10:06:39 version 67 not supported
+2017/03/31 10:06:39 new client: 192.168.122.62:50025
+2017/03/31 10:06:39 client version  67
+2017/03/31 10:06:39 version 67 not supported
+2017/03/31 10:06:39 new client: 192.168.122.62:50026
+2017/03/31 10:06:39 client version  67
+2017/03/31 10:06:39 version 67 not supported
+2017/03/31 10:06:39 new client: 192.168.122.62:50027
+2017/03/31 10:06:39 client version  67
+2017/03/31 10:06:39 version 67 not supported
+2017/03/31 10:06:43 new client: 192.168.122.62:50028
+2017/03/31 10:06:43 client version  67
+2017/03/31 10:06:43 version 67 not supported
+2017/03/31 10:06:43 new client: 192.168.122.62:50029
+2017/03/31 10:06:43 client version  67
+2017/03/31 10:06:43 version 67 not supported
+2017/03/31 10:06:43 new client: 192.168.122.62:50030
+2017/03/31 10:06:43 client version  67
+2017/03/31 10:06:43 version 67 not supported
+2017/03/31 10:06:43 new client: 192.168.122.62:50031
+2017/03/31 10:06:43 client version  67
+2017/03/31 10:06:43 version 67 not supported
+2017/03/31 10:06:53 new client: 192.168.122.62:50032
+2017/03/31 10:06:53 client version  67
+2017/03/31 10:06:53 version 67 not supported
+2017/03/31 10:06:53 new client: 192.168.122.62:50033
+2017/03/31 10:06:53 client version  67
+2017/03/31 10:06:53 version 67 not supported
+2017/03/31 10:06:53 new client: 192.168.122.62:50034
+2017/03/31 10:06:53 client version  67
+2017/03/31 10:06:53 version 67 not supported
+2017/03/31 10:06:53 new client: 192.168.122.62:50035
+2017/03/31 10:06:53 client version  67
+2017/03/31 10:06:53 version 67 not supported
+2017/03/31 10:07:02 new client: 192.168.122.62:50036
+2017/03/31 10:07:02 client version  67
+2017/03/31 10:07:02 version 67 not supported
+2017/03/31 10:07:02 new client: 192.168.122.62:50037
+2017/03/31 10:07:02 client version  67
+2017/03/31 10:07:02 version 67 not supported
+2017/03/31 10:07:02 new client: 192.168.122.62:50038
+2017/03/31 10:07:02 client version  67
+2017/03/31 10:07:02 version 67 not supported
+2017/03/31 10:07:02 new client: 192.168.122.62:50039
+2017/03/31 10:07:02 client version  67
+2017/03/31 10:07:02 version 67 not supported
+2017/03/31 10:07:12 new client: 192.168.122.62:50040
+2017/03/31 10:07:12 client version  67
+2017/03/31 10:07:12 version 67 not supported
+2017/03/31 10:07:12 new client: 192.168.122.62:50041
+2017/03/31 10:07:12 client version  67
+2017/03/31 10:07:12 version 67 not supported
+2017/03/31 10:07:12 new client: 192.168.122.62:50042
+2017/03/31 10:07:12 client version  67
+2017/03/31 10:07:12 version 67 not supported
+2017/03/31 10:07:12 new client: 192.168.122.62:50043
+2017/03/31 10:07:12 client version  67
+2017/03/31 10:07:12 version 67 not supported
+2017/03/31 10:07:17 new client: 192.168.122.62:50044
+2017/03/31 10:07:17 client version  67
+2017/03/31 10:07:17 version 67 not supported
+2017/03/31 10:07:17 new client: 192.168.122.62:50045
+2017/03/31 10:07:17 client version  67
+2017/03/31 10:07:17 version 67 not supported
+2017/03/31 10:07:17 new client: 192.168.122.62:50046
+2017/03/31 10:07:17 client version  67
+2017/03/31 10:07:17 version 67 not supported
+2017/03/31 10:07:17 new client: 192.168.122.62:50047
+2017/03/31 10:07:17 client version  67
+2017/03/31 10:07:17 version 67 not supported
+2017/03/31 10:07:21 new client: 192.168.122.62:50048
+2017/03/31 10:07:21 client version  67
+2017/03/31 10:07:21 version 67 not supported
+2017/03/31 10:07:21 new client: 192.168.122.62:50049
+2017/03/31 10:07:21 client version  67
+2017/03/31 10:07:21 version 67 not supported
+2017/03/31 10:07:21 new client: 192.168.122.62:50050
+2017/03/31 10:07:21 client version  67
+2017/03/31 10:07:21 version 67 not supported
+2017/03/31 10:07:21 new client: 192.168.122.62:50051
+2017/03/31 10:07:21 client version  67
+2017/03/31 10:07:21 version 67 not supported
+2017/03/31 10:07:31 new client: 192.168.122.62:50052
+2017/03/31 10:07:31 client version  67
+2017/03/31 10:07:31 version 67 not supported
+2017/03/31 10:07:31 new client: 192.168.122.62:50053
+2017/03/31 10:07:31 client version  67
+2017/03/31 10:07:31 version 67 not supported
+2017/03/31 10:07:31 new client: 192.168.122.62:50054
+2017/03/31 10:07:31 client version  67
+2017/03/31 10:07:31 version 67 not supported
+2017/03/31 10:07:31 new client: 192.168.122.62:50055
+2017/03/31 10:07:31 client version  67
+2017/03/31 10:07:31 version 67 not supported
+2017/03/31 10:07:37 new client: 192.168.122.62:50056
+2017/03/31 10:07:37 client version  67
+2017/03/31 10:07:37 version 67 not supported
+2017/03/31 10:07:37 new client: 192.168.122.62:50057
+2017/03/31 10:07:37 client version  67
+2017/03/31 10:07:37 version 67 not supported
+2017/03/31 10:07:37 new client: 192.168.122.62:50058
+2017/03/31 10:07:37 client version  67
+2017/03/31 10:07:37 version 67 not supported
+2017/03/31 10:07:37 new client: 192.168.122.62:50059
+2017/03/31 10:07:37 client version  67
+2017/03/31 10:07:37 version 67 not supported
+2017/03/31 10:07:45 new client: 192.168.122.62:50060
+2017/03/31 10:07:45 client version  67
+2017/03/31 10:07:45 version 67 not supported
+2017/03/31 10:07:45 new client: 192.168.122.62:50061
+2017/03/31 10:07:45 client version  67
+2017/03/31 10:07:45 version 67 not supported
+2017/03/31 10:07:45 new client: 192.168.122.62:50062
+2017/03/31 10:07:45 client version  67
+2017/03/31 10:07:45 version 67 not supported
+2017/03/31 10:07:45 new client: 192.168.122.62:50063
+2017/03/31 10:07:45 client version  67
+2017/03/31 10:07:45 version 67 not supported
+2017/03/31 10:07:50 new client: 192.168.122.62:50064
+2017/03/31 10:07:50 client version  67
+2017/03/31 10:07:50 version 67 not supported
+2017/03/31 10:07:50 new client: 192.168.122.62:50065
+2017/03/31 10:07:50 client version  67
+2017/03/31 10:07:50 version 67 not supported
+2017/03/31 10:07:50 new client: 192.168.122.62:50066
+2017/03/31 10:07:50 client version  67
+2017/03/31 10:07:50 version 67 not supported
+2017/03/31 10:07:50 new client: 192.168.122.62:50067
+2017/03/31 10:07:50 client version  67
+2017/03/31 10:07:50 version 67 not supported
+2017/03/31 10:07:55 new client: 192.168.122.62:50068
+2017/03/31 10:07:55 client version  67
+2017/03/31 10:07:55 version 67 not supported
+2017/03/31 10:07:55 new client: 192.168.122.62:50069
+2017/03/31 10:07:55 client version  67
+2017/03/31 10:07:55 version 67 not supported
+2017/03/31 10:07:55 new client: 192.168.122.62:50070
+2017/03/31 10:07:55 client version  67
+2017/03/31 10:07:55 version 67 not supported
+2017/03/31 10:07:55 new client: 192.168.122.62:50071
+2017/03/31 10:07:55 client version  67
+2017/03/31 10:07:55 version 67 not supported
+2017/03/31 10:08:02 new client: 192.168.122.62:50072
+2017/03/31 10:08:02 client version  67
+2017/03/31 10:08:02 version 67 not supported
+2017/03/31 10:08:02 new client: 192.168.122.62:50073
+2017/03/31 10:08:02 client version  67
+2017/03/31 10:08:02 version 67 not supported
+2017/03/31 10:08:02 new client: 192.168.122.62:50074
+2017/03/31 10:08:02 client version  67
+2017/03/31 10:08:02 version 67 not supported
+2017/03/31 10:08:02 new client: 192.168.122.62:50075
+2017/03/31 10:08:02 client version  67
+2017/03/31 10:08:02 version 67 not supported
+2017/03/31 10:08:10 new client: 192.168.122.62:50076
+2017/03/31 10:08:10 client version  67
+2017/03/31 10:08:10 version 67 not supported
+2017/03/31 10:08:10 new client: 192.168.122.62:50077
+2017/03/31 10:08:10 client version  67
+2017/03/31 10:08:10 version 67 not supported
+2017/03/31 10:08:10 new client: 192.168.122.62:50078
+2017/03/31 10:08:10 client version  67
+2017/03/31 10:08:10 version 67 not supported
+2017/03/31 10:08:10 new client: 192.168.122.62:50079
+2017/03/31 10:08:10 client version  67
+2017/03/31 10:08:10 version 67 not supported
+2017/03/31 10:08:20 new client: 192.168.122.62:50080
+2017/03/31 10:08:20 client version  67
+2017/03/31 10:08:20 version 67 not supported
+2017/03/31 10:08:20 new client: 192.168.122.62:50081
+2017/03/31 10:08:20 client version  67
+2017/03/31 10:08:20 version 67 not supported
+2017/03/31 10:08:20 new client: 192.168.122.62:50082
+2017/03/31 10:08:20 client version  67
+2017/03/31 10:08:20 version 67 not supported
+2017/03/31 10:08:20 new client: 192.168.122.62:50083
+2017/03/31 10:08:20 client version  67
+2017/03/31 10:08:20 version 67 not supported
+2017/03/31 10:08:25 new client: 192.168.122.62:50084
+2017/03/31 10:08:25 client version  67
+2017/03/31 10:08:25 version 67 not supported
+2017/03/31 10:08:25 new client: 192.168.122.62:50085
+2017/03/31 10:08:25 client version  67
+2017/03/31 10:08:25 version 67 not supported
+2017/03/31 10:08:25 new client: 192.168.122.62:50086
+2017/03/31 10:08:25 client version  67
+2017/03/31 10:08:25 version 67 not supported
+2017/03/31 10:08:25 new client: 192.168.122.62:50087
+2017/03/31 10:08:25 client version  67
+2017/03/31 10:08:25 version 67 not supported
+2017/03/31 10:08:28 new client: 192.168.122.62:50088
+2017/03/31 10:08:28 client version  67
+2017/03/31 10:08:28 version 67 not supported
+2017/03/31 10:08:28 new client: 192.168.122.62:50089
+2017/03/31 10:08:28 client version  67
+2017/03/31 10:08:28 version 67 not supported
+2017/03/31 10:08:28 new client: 192.168.122.62:50090
+2017/03/31 10:08:28 client version  67
+2017/03/31 10:08:28 version 67 not supported
+2017/03/31 10:08:28 new client: 192.168.122.62:50091
+2017/03/31 10:08:28 client version  67
+2017/03/31 10:08:28 version 67 not supported
+2017/03/31 10:08:38 new client: 192.168.122.62:50092
+2017/03/31 10:08:38 client version  67
+2017/03/31 10:08:38 version 67 not supported
+2017/03/31 10:08:38 new client: 192.168.122.62:50093
+2017/03/31 10:08:38 client version  67
+2017/03/31 10:08:38 version 67 not supported
+2017/03/31 10:08:38 new client: 192.168.122.62:50094
+2017/03/31 10:08:38 client version  67
+2017/03/31 10:08:38 version 67 not supported
+2017/03/31 10:08:38 new client: 192.168.122.62:50095
+2017/03/31 10:08:38 client version  67
+2017/03/31 10:08:38 version 67 not supported
+2017/03/31 10:08:48 new client: 192.168.122.62:50096
+2017/03/31 10:08:48 client version  67
+2017/03/31 10:08:48 version 67 not supported
+2017/03/31 10:08:48 new client: 192.168.122.62:50097
+2017/03/31 10:08:48 client version  67
+2017/03/31 10:08:48 version 67 not supported
+2017/03/31 10:08:48 new client: 192.168.122.62:50098
+2017/03/31 10:08:48 client version  67
+2017/03/31 10:08:48 version 67 not supported
+2017/03/31 10:08:48 new client: 192.168.122.62:50099
+2017/03/31 10:08:48 client version  67
+2017/03/31 10:08:48 version 67 not supported
+2017/03/31 10:08:56 new client: 192.168.122.62:50100
+2017/03/31 10:08:56 client version  67
+2017/03/31 10:08:56 version 67 not supported
+2017/03/31 10:08:56 new client: 192.168.122.62:50101
+2017/03/31 10:08:56 client version  67
+2017/03/31 10:08:56 version 67 not supported
+2017/03/31 10:08:56 new client: 192.168.122.62:50102
+2017/03/31 10:08:56 client version  67
+2017/03/31 10:08:56 version 67 not supported
+2017/03/31 10:08:56 new client: 192.168.122.62:50103
+2017/03/31 10:08:56 client version  67
+2017/03/31 10:08:56 version 67 not supported
+2017/03/31 10:09:01 new client: 192.168.122.62:50105
+2017/03/31 10:09:01 client version  67
+2017/03/31 10:09:01 version 67 not supported
+2017/03/31 10:09:01 new client: 192.168.122.62:50106
+2017/03/31 10:09:01 client version  67
+2017/03/31 10:09:01 version 67 not supported
+2017/03/31 10:09:01 new client: 192.168.122.62:50107
+2017/03/31 10:09:01 client version  67
+2017/03/31 10:09:01 version 67 not supported
+2017/03/31 10:09:01 new client: 192.168.122.62:50108
+2017/03/31 10:09:01 client version  67
+2017/03/31 10:09:01 version 67 not supported
+2017/03/31 10:09:04 new client: 192.168.122.62:50109
+2017/03/31 10:09:04 client version  67
+2017/03/31 10:09:04 version 67 not supported
+2017/03/31 10:09:04 new client: 192.168.122.62:50110
+2017/03/31 10:09:04 client version  67
+2017/03/31 10:09:04 version 67 not supported
+2017/03/31 10:09:04 new client: 192.168.122.62:50111
+2017/03/31 10:09:04 client version  67
+2017/03/31 10:09:04 version 67 not supported
+2017/03/31 10:09:04 new client: 192.168.122.62:50112
+2017/03/31 10:09:04 client version  67
+2017/03/31 10:09:04 version 67 not supported
+2017/03/31 10:09:12 new client: 192.168.122.62:50114
+2017/03/31 10:09:12 client version  67
+2017/03/31 10:09:12 version 67 not supported
+2017/03/31 10:09:12 new client: 192.168.122.62:50115
+2017/03/31 10:09:12 client version  67
+2017/03/31 10:09:12 version 67 not supported
+2017/03/31 10:09:12 new client: 192.168.122.62:50116
+2017/03/31 10:09:12 client version  67
+2017/03/31 10:09:12 version 67 not supported
+2017/03/31 10:09:12 new client: 192.168.122.62:50117
+2017/03/31 10:09:12 client version  67
+2017/03/31 10:09:12 version 67 not supported
+2017/03/31 10:09:22 new client: 192.168.122.62:50118
+2017/03/31 10:09:22 client version  67
+2017/03/31 10:09:22 version 67 not supported
+2017/03/31 10:09:22 new client: 192.168.122.62:50119
+2017/03/31 10:09:22 client version  67
+2017/03/31 10:09:22 version 67 not supported
+2017/03/31 10:09:22 new client: 192.168.122.62:50120
+2017/03/31 10:09:22 client version  67
+2017/03/31 10:09:22 version 67 not supported
+2017/03/31 10:09:22 new client: 192.168.122.62:50121
+2017/03/31 10:09:22 client version  67
+2017/03/31 10:09:22 version 67 not supported
+2017/03/31 10:09:30 new client: 192.168.122.62:50122
+2017/03/31 10:09:30 client version  67
+2017/03/31 10:09:30 version 67 not supported
+2017/03/31 10:09:30 new client: 192.168.122.62:50123
+2017/03/31 10:09:30 client version  67
+2017/03/31 10:09:30 version 67 not supported
+2017/03/31 10:09:30 new client: 192.168.122.62:50124
+2017/03/31 10:09:30 client version  67
+2017/03/31 10:09:30 version 67 not supported
+2017/03/31 10:09:30 new client: 192.168.122.62:50125
+2017/03/31 10:09:30 client version  67
+2017/03/31 10:09:30 version 67 not supported
+2017/03/31 10:09:35 new client: 192.168.122.62:50126
+2017/03/31 10:09:35 client version  67
+2017/03/31 10:09:35 version 67 not supported
+2017/03/31 10:09:35 new client: 192.168.122.62:50127
+2017/03/31 10:09:35 client version  67
+2017/03/31 10:09:35 version 67 not supported
+2017/03/31 10:09:35 new client: 192.168.122.62:50128
+2017/03/31 10:09:35 client version  67
+2017/03/31 10:09:35 version 67 not supported
+2017/03/31 10:09:35 new client: 192.168.122.62:50129
+2017/03/31 10:09:35 client version  67
+2017/03/31 10:09:35 version 67 not supported
+2017/03/31 10:09:40 new client: 192.168.122.62:50130
+2017/03/31 10:09:40 client version  67
+2017/03/31 10:09:40 version 67 not supported
+2017/03/31 10:09:40 new client: 192.168.122.62:50131
+2017/03/31 10:09:40 client version  67
+2017/03/31 10:09:40 version 67 not supported
+2017/03/31 10:09:40 new client: 192.168.122.62:50132
+2017/03/31 10:09:40 client version  67
+2017/03/31 10:09:40 version 67 not supported
+2017/03/31 10:09:40 new client: 192.168.122.62:50133
+2017/03/31 10:09:40 client version  67
+2017/03/31 10:09:40 version 67 not supported
+2017/03/31 10:09:49 new client: 192.168.122.62:50134
+2017/03/31 10:09:49 client version  67
+2017/03/31 10:09:49 version 67 not supported
+2017/03/31 10:09:49 new client: 192.168.122.62:50135
+2017/03/31 10:09:49 client version  67
+2017/03/31 10:09:49 version 67 not supported
+2017/03/31 10:09:49 new client: 192.168.122.62:50136
+2017/03/31 10:09:49 client version  67
+2017/03/31 10:09:49 version 67 not supported
+2017/03/31 10:09:49 new client: 192.168.122.62:50137
+2017/03/31 10:09:49 client version  67
+2017/03/31 10:09:49 version 67 not supported
+2017/03/31 10:09:58 new client: 192.168.122.62:50138
+2017/03/31 10:09:58 client version  67
+2017/03/31 10:09:58 version 67 not supported
+2017/03/31 10:09:58 new client: 192.168.122.62:50139
+2017/03/31 10:09:58 client version  67
+2017/03/31 10:09:58 version 67 not supported
+2017/03/31 10:09:58 new client: 192.168.122.62:50140
+2017/03/31 10:09:58 client version  67
+2017/03/31 10:09:58 version 67 not supported
+2017/03/31 10:09:58 new client: 192.168.122.62:50141
+2017/03/31 10:09:58 client version  67
+2017/03/31 10:09:58 version 67 not supported
+2017/03/31 10:10:05 new client: 192.168.122.62:50142
+2017/03/31 10:10:05 client version  67
+2017/03/31 10:10:05 version 67 not supported
+2017/03/31 10:10:05 new client: 192.168.122.62:50143
+2017/03/31 10:10:05 client version  67
+2017/03/31 10:10:05 version 67 not supported
+2017/03/31 10:10:05 new client: 192.168.122.62:50144
+2017/03/31 10:10:05 client version  67
+2017/03/31 10:10:05 version 67 not supported
+2017/03/31 10:10:05 new client: 192.168.122.62:50145
+2017/03/31 10:10:05 client version  67
+2017/03/31 10:10:05 version 67 not supported
+2017/03/31 10:10:10 new client: 192.168.122.62:50146
+2017/03/31 10:10:10 client version  67
+2017/03/31 10:10:10 version 67 not supported
+2017/03/31 10:10:10 new client: 192.168.122.62:50147
+2017/03/31 10:10:10 client version  67
+2017/03/31 10:10:10 version 67 not supported
+2017/03/31 10:10:10 new client: 192.168.122.62:50148
+2017/03/31 10:10:10 client version  67
+2017/03/31 10:10:10 version 67 not supported
+2017/03/31 10:10:10 new client: 192.168.122.62:50149
+2017/03/31 10:10:10 client version  67
+2017/03/31 10:10:10 version 67 not supported
+2017/03/31 10:10:14 new client: 192.168.122.62:50151
+2017/03/31 10:10:14 client version  67
+2017/03/31 10:10:14 version 67 not supported
+2017/03/31 10:10:14 new client: 192.168.122.62:50152
+2017/03/31 10:10:14 client version  67
+2017/03/31 10:10:14 version 67 not supported
+2017/03/31 10:10:14 new client: 192.168.122.62:50153
+2017/03/31 10:10:14 client version  67
+2017/03/31 10:10:14 version 67 not supported
+2017/03/31 10:10:14 new client: 192.168.122.62:50154
+2017/03/31 10:10:14 client version  67
+2017/03/31 10:10:14 version 67 not supported
+2017/03/31 10:10:23 new client: 192.168.122.62:50155
+2017/03/31 10:10:23 client version  67
+2017/03/31 10:10:23 version 67 not supported
+2017/03/31 10:10:23 new client: 192.168.122.62:50156
+2017/03/31 10:10:23 client version  67
+2017/03/31 10:10:23 version 67 not supported
+2017/03/31 10:10:23 new client: 192.168.122.62:50157
+2017/03/31 10:10:23 client version  67
+2017/03/31 10:10:23 version 67 not supported
+2017/03/31 10:10:23 new client: 192.168.122.62:50158
+2017/03/31 10:10:23 client version  67
+2017/03/31 10:10:23 version 67 not supported
+2017/03/31 10:10:32 new client: 192.168.122.62:50160
+2017/03/31 10:10:32 client version  67
+2017/03/31 10:10:32 version 67 not supported
+2017/03/31 10:10:32 new client: 192.168.122.62:50161
+2017/03/31 10:10:32 client version  67
+2017/03/31 10:10:32 version 67 not supported
+2017/03/31 10:10:32 new client: 192.168.122.62:50162
+2017/03/31 10:10:32 client version  67
+2017/03/31 10:10:32 version 67 not supported
+2017/03/31 10:10:32 new client: 192.168.122.62:50163
+2017/03/31 10:10:32 client version  67
+2017/03/31 10:10:32 version 67 not supported
+2017/03/31 10:10:41 new client: 192.168.122.62:50164
+2017/03/31 10:10:41 client version  67
+2017/03/31 10:10:41 version 67 not supported
+2017/03/31 10:10:41 new client: 192.168.122.62:50165
+2017/03/31 10:10:41 client version  67
+2017/03/31 10:10:41 version 67 not supported
+2017/03/31 10:10:41 new client: 192.168.122.62:50166
+2017/03/31 10:10:41 client version  67
+2017/03/31 10:10:41 version 67 not supported
+2017/03/31 10:10:41 new client: 192.168.122.62:50167
+2017/03/31 10:10:41 client version  67
+2017/03/31 10:10:41 version 67 not supported
+2017/03/31 10:10:46 new client: 192.168.122.62:50168
+2017/03/31 10:10:46 client version  67
+2017/03/31 10:10:46 version 67 not supported
+2017/03/31 10:10:46 new client: 192.168.122.62:50169
+2017/03/31 10:10:46 client version  67
+2017/03/31 10:10:46 version 67 not supported
+2017/03/31 10:10:46 new client: 192.168.122.62:50170
+2017/03/31 10:10:46 client version  67
+2017/03/31 10:10:46 version 67 not supported
+2017/03/31 10:10:46 new client: 192.168.122.62:50171
+2017/03/31 10:10:46 client version  67
+2017/03/31 10:10:46 version 67 not supported
+2017/03/31 10:10:49 new client: 192.168.122.62:50172
+2017/03/31 10:10:49 client version  67
+2017/03/31 10:10:49 version 67 not supported
+2017/03/31 10:10:49 new client: 192.168.122.62:50173
+2017/03/31 10:10:49 client version  67
+2017/03/31 10:10:49 version 67 not supported
+2017/03/31 10:10:49 new client: 192.168.122.62:50174
+2017/03/31 10:10:49 client version  67
+2017/03/31 10:10:49 version 67 not supported
+2017/03/31 10:10:49 new client: 192.168.122.62:50175
+2017/03/31 10:10:49 client version  67
+2017/03/31 10:10:49 version 67 not supported
+2017/03/31 10:10:56 new client: 192.168.122.62:50176
+2017/03/31 10:10:56 client version  67
+2017/03/31 10:10:56 version 67 not supported
+2017/03/31 10:10:56 new client: 192.168.122.62:50177
+2017/03/31 10:10:56 client version  67
+2017/03/31 10:10:56 version 67 not supported
+2017/03/31 10:10:56 new client: 192.168.122.62:50178
+2017/03/31 10:10:56 client version  67
+2017/03/31 10:10:56 version 67 not supported
+2017/03/31 10:10:56 new client: 192.168.122.62:50179
+2017/03/31 10:10:56 client version  67
+2017/03/31 10:10:56 version 67 not supported
+2017/03/31 10:11:04 new client: 192.168.122.62:50180
+2017/03/31 10:11:04 client version  67
+2017/03/31 10:11:04 version 67 not supported
+2017/03/31 10:11:04 new client: 192.168.122.62:50181
+2017/03/31 10:11:04 client version  67
+2017/03/31 10:11:04 version 67 not supported
+2017/03/31 10:11:04 new client: 192.168.122.62:50182
+2017/03/31 10:11:04 client version  67
+2017/03/31 10:11:04 version 67 not supported
+2017/03/31 10:11:04 new client: 192.168.122.62:50183
+2017/03/31 10:11:04 client version  67
+2017/03/31 10:11:04 version 67 not supported
+2017/03/31 10:11:14 new client: 192.168.122.62:50184
+2017/03/31 10:11:14 client version  67
+2017/03/31 10:11:14 version 67 not supported
+2017/03/31 10:11:14 new client: 192.168.122.62:50185
+2017/03/31 10:11:14 client version  67
+2017/03/31 10:11:14 version 67 not supported
+2017/03/31 10:11:14 new client: 192.168.122.62:50186
+2017/03/31 10:11:14 client version  67
+2017/03/31 10:11:14 version 67 not supported
+2017/03/31 10:11:14 new client: 192.168.122.62:50187
+2017/03/31 10:11:14 client version  67
+2017/03/31 10:11:14 version 67 not supported
+2017/03/31 10:11:19 new client: 192.168.122.62:50188
+2017/03/31 10:11:19 client version  67
+2017/03/31 10:11:19 version 67 not supported
+2017/03/31 10:11:19 new client: 192.168.122.62:50189
+2017/03/31 10:11:19 client version  67
+2017/03/31 10:11:19 version 67 not supported
+2017/03/31 10:11:19 new client: 192.168.122.62:50190
+2017/03/31 10:11:19 client version  67
+2017/03/31 10:11:19 version 67 not supported
+2017/03/31 10:11:19 new client: 192.168.122.62:50191
+2017/03/31 10:11:19 client version  67
+2017/03/31 10:11:19 version 67 not supported
+2017/03/31 10:11:21 new client: 192.168.122.62:50192
+2017/03/31 10:11:21 client version  67
+2017/03/31 10:11:21 version 67 not supported
+2017/03/31 10:11:21 new client: 192.168.122.62:50193
+2017/03/31 10:11:21 client version  67
+2017/03/31 10:11:21 version 67 not supported
+2017/03/31 10:11:21 new client: 192.168.122.62:50194
+2017/03/31 10:11:21 client version  67
+2017/03/31 10:11:21 version 67 not supported
+2017/03/31 10:11:21 new client: 192.168.122.62:50195
+2017/03/31 10:11:21 client version  67
+2017/03/31 10:11:21 version 67 not supported
+2017/03/31 10:11:27 new client: 192.168.122.62:50197
+2017/03/31 10:11:27 client version  67
+2017/03/31 10:11:27 version 67 not supported
+2017/03/31 10:11:27 new client: 192.168.122.62:50198
+2017/03/31 10:11:27 client version  67
+2017/03/31 10:11:27 version 67 not supported
+2017/03/31 10:11:27 new client: 192.168.122.62:50199
+2017/03/31 10:11:27 client version  67
+2017/03/31 10:11:27 version 67 not supported
+2017/03/31 10:11:27 new client: 192.168.122.62:50200
+2017/03/31 10:11:27 client version  67
+2017/03/31 10:11:27 version 67 not supported
+2017/03/31 10:11:34 new client: 192.168.122.62:50201
+2017/03/31 10:11:34 client version  67
+2017/03/31 10:11:34 version 67 not supported
+2017/03/31 10:11:34 new client: 192.168.122.62:50202
+2017/03/31 10:11:34 client version  67
+2017/03/31 10:11:34 version 67 not supported
+2017/03/31 10:11:34 new client: 192.168.122.62:50203
+2017/03/31 10:11:34 client version  67
+2017/03/31 10:11:34 version 67 not supported
+2017/03/31 10:11:34 new client: 192.168.122.62:50204
+2017/03/31 10:11:34 client version  67
+2017/03/31 10:11:34 version 67 not supported
+2017/03/31 10:11:43 new client: 192.168.122.62:50205
+2017/03/31 10:11:43 client version  67
+2017/03/31 10:11:43 version 67 not supported
+2017/03/31 10:11:43 new client: 192.168.122.62:50206
+2017/03/31 10:11:43 client version  67
+2017/03/31 10:11:43 version 67 not supported
+2017/03/31 10:11:43 new client: 192.168.122.62:50207
+2017/03/31 10:11:43 client version  67
+2017/03/31 10:11:43 version 67 not supported
+2017/03/31 10:11:43 new client: 192.168.122.62:50208
+2017/03/31 10:11:43 client version  67
+2017/03/31 10:11:43 version 67 not supported
+2017/03/31 10:11:48 new client: 192.168.122.62:50209
+2017/03/31 10:11:48 client version  67
+2017/03/31 10:11:48 version 67 not supported
+2017/03/31 10:11:48 new client: 192.168.122.62:50210
+2017/03/31 10:11:48 client version  67
+2017/03/31 10:11:48 version 67 not supported
+2017/03/31 10:11:48 new client: 192.168.122.62:50211
+2017/03/31 10:11:48 client version  67
+2017/03/31 10:11:48 version 67 not supported
+2017/03/31 10:11:48 new client: 192.168.122.62:50212
+2017/03/31 10:11:48 client version  67
+2017/03/31 10:11:48 version 67 not supported
+2017/03/31 10:11:49 new client: 192.168.122.62:50213
+2017/03/31 10:11:49 client version  67
+2017/03/31 10:11:49 version 67 not supported
+2017/03/31 10:11:49 new client: 192.168.122.62:50214
+2017/03/31 10:11:49 client version  67
+2017/03/31 10:11:49 version 67 not supported
+2017/03/31 10:11:49 new client: 192.168.122.62:50215
+2017/03/31 10:11:49 client version  67
+2017/03/31 10:11:49 version 67 not supported
+2017/03/31 10:11:49 new client: 192.168.122.62:50216
+2017/03/31 10:11:49 client version  67
+2017/03/31 10:11:49 version 67 not supported
+2017/03/31 10:11:55 new client: 192.168.122.62:50217
+2017/03/31 10:11:55 client version  67
+2017/03/31 10:11:55 version 67 not supported
+2017/03/31 10:11:55 new client: 192.168.122.62:50218
+2017/03/31 10:11:55 client version  67
+2017/03/31 10:11:55 version 67 not supported
+2017/03/31 10:11:55 new client: 192.168.122.62:50219
+2017/03/31 10:11:55 client version  67
+2017/03/31 10:11:55 version 67 not supported
+2017/03/31 10:11:55 new client: 192.168.122.62:50220
+2017/03/31 10:11:55 client version  67
+2017/03/31 10:11:55 version 67 not supported
+2017/03/31 10:12:04 new client: 192.168.122.62:50221
+2017/03/31 10:12:04 client version  67
+2017/03/31 10:12:04 version 67 not supported
+2017/03/31 10:12:04 new client: 192.168.122.62:50222
+2017/03/31 10:12:04 client version  67
+2017/03/31 10:12:04 version 67 not supported
+2017/03/31 10:12:04 new client: 192.168.122.62:50223
+2017/03/31 10:12:04 client version  67
+2017/03/31 10:12:04 version 67 not supported
+2017/03/31 10:12:04 new client: 192.168.122.62:50224
+2017/03/31 10:12:04 client version  67
+2017/03/31 10:12:04 version 67 not supported
+2017/03/31 10:12:12 new client: 192.168.122.62:50225
+2017/03/31 10:12:12 client version  67
+2017/03/31 10:12:12 version 67 not supported
+2017/03/31 10:12:12 new client: 192.168.122.62:50226
+2017/03/31 10:12:12 client version  67
+2017/03/31 10:12:12 version 67 not supported
+2017/03/31 10:12:12 new client: 192.168.122.62:50227
+2017/03/31 10:12:12 client version  67
+2017/03/31 10:12:12 version 67 not supported
+2017/03/31 10:12:12 new client: 192.168.122.62:50228
+2017/03/31 10:12:12 client version  67
+2017/03/31 10:12:12 version 67 not supported
+2017/03/31 10:12:17 new client: 192.168.122.62:50229
+2017/03/31 10:12:17 client version  67
+2017/03/31 10:12:17 version 67 not supported
+2017/03/31 10:12:17 new client: 192.168.122.62:50230
+2017/03/31 10:12:17 client version  67
+2017/03/31 10:12:17 version 67 not supported
+2017/03/31 10:12:17 new client: 192.168.122.62:50231
+2017/03/31 10:12:17 client version  67
+2017/03/31 10:12:17 version 67 not supported
+2017/03/31 10:12:17 new client: 192.168.122.62:50232
+2017/03/31 10:12:17 client version  67
+2017/03/31 10:12:17 version 67 not supported
+2017/03/31 10:12:19 new client: 192.168.122.62:50233
+2017/03/31 10:12:19 client version  67
+2017/03/31 10:12:19 version 67 not supported
+2017/03/31 10:12:19 new client: 192.168.122.62:50234
+2017/03/31 10:12:19 client version  67
+2017/03/31 10:12:19 version 67 not supported
+2017/03/31 10:12:19 new client: 192.168.122.62:50235
+2017/03/31 10:12:19 client version  67
+2017/03/31 10:12:19 version 67 not supported
+2017/03/31 10:12:19 new client: 192.168.122.62:50236
+2017/03/31 10:12:19 client version  67
+2017/03/31 10:12:19 version 67 not supported
+2017/03/31 10:12:27 new client: 192.168.122.62:50237
+2017/03/31 10:12:27 client version  67
+2017/03/31 10:12:27 version 67 not supported
+2017/03/31 10:12:27 new client: 192.168.122.62:50238
+2017/03/31 10:12:27 client version  67
+2017/03/31 10:12:27 version 67 not supported
+2017/03/31 10:12:27 new client: 192.168.122.62:50239
+2017/03/31 10:12:27 client version  67
+2017/03/31 10:12:27 version 67 not supported
+2017/03/31 10:12:27 new client: 192.168.122.62:50240
+2017/03/31 10:12:27 client version  67
+2017/03/31 10:12:27 version 67 not supported
+2017/03/31 10:12:37 new client: 192.168.122.62:50241
+2017/03/31 10:12:37 client version  67
+2017/03/31 10:12:37 version 67 not supported
+2017/03/31 10:12:37 new client: 192.168.122.62:50242
+2017/03/31 10:12:37 client version  67
+2017/03/31 10:12:37 version 67 not supported
+2017/03/31 10:12:37 new client: 192.168.122.62:50243
+2017/03/31 10:12:37 client version  67
+2017/03/31 10:12:37 version 67 not supported
+2017/03/31 10:12:37 new client: 192.168.122.62:50244
+2017/03/31 10:12:37 client version  67
+2017/03/31 10:12:37 version 67 not supported
+2017/03/31 10:12:44 new client: 192.168.122.62:50245
+2017/03/31 10:12:44 client version  67
+2017/03/31 10:12:44 version 67 not supported
+2017/03/31 10:12:44 new client: 192.168.122.62:50246
+2017/03/31 10:12:44 client version  67
+2017/03/31 10:12:44 version 67 not supported
+2017/03/31 10:12:44 new client: 192.168.122.62:50247
+2017/03/31 10:12:44 client version  67
+2017/03/31 10:12:44 version 67 not supported
+2017/03/31 10:12:44 new client: 192.168.122.62:50248
+2017/03/31 10:12:44 client version  67
+2017/03/31 10:12:44 version 67 not supported
+2017/03/31 10:12:49 new client: 192.168.122.62:50249
+2017/03/31 10:12:49 client version  67
+2017/03/31 10:12:49 version 67 not supported
+2017/03/31 10:12:49 new client: 192.168.122.62:50250
+2017/03/31 10:12:49 client version  67
+2017/03/31 10:12:49 version 67 not supported
+2017/03/31 10:12:49 new client: 192.168.122.62:50251
+2017/03/31 10:12:49 client version  67
+2017/03/31 10:12:49 version 67 not supported
+2017/03/31 10:12:49 new client: 192.168.122.62:50252
+2017/03/31 10:12:49 client version  67
+2017/03/31 10:12:49 version 67 not supported
+2017/03/31 10:12:51 new client: 192.168.122.62:50253
+2017/03/31 10:12:51 client version  67
+2017/03/31 10:12:51 version 67 not supported
+2017/03/31 10:12:51 new client: 192.168.122.62:50254
+2017/03/31 10:12:51 client version  67
+2017/03/31 10:12:51 version 67 not supported
+2017/03/31 10:12:51 new client: 192.168.122.62:50255
+2017/03/31 10:12:51 client version  67
+2017/03/31 10:12:51 version 67 not supported
+2017/03/31 10:12:51 new client: 192.168.122.62:50256
+2017/03/31 10:12:51 client version  67
+2017/03/31 10:12:51 version 67 not supported
+2017/03/31 10:12:58 new client: 192.168.122.62:50257
+2017/03/31 10:12:58 client version  67
+2017/03/31 10:12:58 version 67 not supported
+2017/03/31 10:12:58 new client: 192.168.122.62:50258
+2017/03/31 10:12:58 client version  67
+2017/03/31 10:12:58 version 67 not supported
+2017/03/31 10:12:58 new client: 192.168.122.62:50259
+2017/03/31 10:12:58 client version  67
+2017/03/31 10:12:58 version 67 not supported
+2017/03/31 10:12:58 new client: 192.168.122.62:50260
+2017/03/31 10:12:58 client version  67
+2017/03/31 10:12:58 version 67 not supported
+2017/03/31 10:13:07 new client: 192.168.122.62:50261
+2017/03/31 10:13:07 client version  67
+2017/03/31 10:13:07 version 67 not supported
+2017/03/31 10:13:07 new client: 192.168.122.62:50262
+2017/03/31 10:13:07 client version  67
+2017/03/31 10:13:07 version 67 not supported
+2017/03/31 10:13:07 new client: 192.168.122.62:50263
+2017/03/31 10:13:07 client version  67
+2017/03/31 10:13:07 version 67 not supported
+2017/03/31 10:13:07 new client: 192.168.122.62:50264
+2017/03/31 10:13:07 client version  67
+2017/03/31 10:13:07 version 67 not supported
+2017/03/31 10:13:16 new client: 192.168.122.62:50265
+2017/03/31 10:13:16 client version  67
+2017/03/31 10:13:16 version 67 not supported
+2017/03/31 10:13:16 new client: 192.168.122.62:50266
+2017/03/31 10:13:16 client version  67
+2017/03/31 10:13:16 version 67 not supported
+2017/03/31 10:13:16 new client: 192.168.122.62:50267
+2017/03/31 10:13:16 client version  67
+2017/03/31 10:13:16 version 67 not supported
+2017/03/31 10:13:16 new client: 192.168.122.62:50268
+2017/03/31 10:13:16 client version  67
+2017/03/31 10:13:16 version 67 not supported
+2017/03/31 10:13:21 new client: 192.168.122.62:50269
+2017/03/31 10:13:21 client version  67
+2017/03/31 10:13:21 version 67 not supported
+2017/03/31 10:13:21 new client: 192.168.122.62:50270
+2017/03/31 10:13:21 client version  67
+2017/03/31 10:13:21 version 67 not supported
+2017/03/31 10:13:21 new client: 192.168.122.62:50271
+2017/03/31 10:13:21 client version  67
+2017/03/31 10:13:21 version 67 not supported
+2017/03/31 10:13:21 new client: 192.168.122.62:50272
+2017/03/31 10:13:21 client version  67
+2017/03/31 10:13:21 version 67 not supported
+2017/03/31 10:13:22 new client: 192.168.122.62:50273
+2017/03/31 10:13:22 client version  67
+2017/03/31 10:13:22 version 67 not supported
+2017/03/31 10:13:22 new client: 192.168.122.62:50274
+2017/03/31 10:13:22 client version  67
+2017/03/31 10:13:22 version 67 not supported
+2017/03/31 10:13:22 new client: 192.168.122.62:50275
+2017/03/31 10:13:22 client version  67
+2017/03/31 10:13:22 version 67 not supported
+2017/03/31 10:13:22 new client: 192.168.122.62:50276
+2017/03/31 10:13:22 client version  67
+2017/03/31 10:13:22 version 67 not supported
+2017/03/31 10:13:31 new client: 192.168.122.62:50277
+2017/03/31 10:13:31 client version  67
+2017/03/31 10:13:31 version 67 not supported
+2017/03/31 10:13:31 new client: 192.168.122.62:50278
+2017/03/31 10:13:31 client version  67
+2017/03/31 10:13:31 version 67 not supported
+2017/03/31 10:13:31 new client: 192.168.122.62:50279
+2017/03/31 10:13:31 client version  67
+2017/03/31 10:13:31 version 67 not supported
+2017/03/31 10:13:31 new client: 192.168.122.62:50280
+2017/03/31 10:13:31 client version  67
+2017/03/31 10:13:31 version 67 not supported
+2017/03/31 10:13:41 new client: 192.168.122.62:50281
+2017/03/31 10:13:41 client version  67
+2017/03/31 10:13:41 version 67 not supported
+2017/03/31 10:13:41 new client: 192.168.122.62:50282
+2017/03/31 10:13:41 client version  67
+2017/03/31 10:13:41 version 67 not supported
+2017/03/31 10:13:41 new client: 192.168.122.62:50283
+2017/03/31 10:13:41 client version  67
+2017/03/31 10:13:41 version 67 not supported
+2017/03/31 10:13:41 new client: 192.168.122.62:50284
+2017/03/31 10:13:41 client version  67
+2017/03/31 10:13:41 version 67 not supported
+2017/03/31 10:13:47 new client: 192.168.122.62:50285
+2017/03/31 10:13:47 client version  67
+2017/03/31 10:13:47 version 67 not supported
+2017/03/31 10:13:47 new client: 192.168.122.62:50286
+2017/03/31 10:13:47 client version  67
+2017/03/31 10:13:47 version 67 not supported
+2017/03/31 10:13:47 new client: 192.168.122.62:50287
+2017/03/31 10:13:47 client version  67
+2017/03/31 10:13:47 version 67 not supported
+2017/03/31 10:13:47 new client: 192.168.122.62:50288
+2017/03/31 10:13:47 client version  67
+2017/03/31 10:13:47 version 67 not supported
+2017/03/31 10:13:52 new client: 192.168.122.62:50290
+2017/03/31 10:13:52 client version  67
+2017/03/31 10:13:52 version 67 not supported
+2017/03/31 10:13:52 new client: 192.168.122.62:50291
+2017/03/31 10:13:52 client version  67
+2017/03/31 10:13:52 version 67 not supported
+2017/03/31 10:13:52 new client: 192.168.122.62:50292
+2017/03/31 10:13:52 client version  67
+2017/03/31 10:13:52 version 67 not supported
+2017/03/31 10:13:52 new client: 192.168.122.62:50293
+2017/03/31 10:13:52 client version  67
+2017/03/31 10:13:52 version 67 not supported
+2017/03/31 10:13:54 new client: 192.168.122.62:50294
+2017/03/31 10:13:54 client version  67
+2017/03/31 10:13:54 version 67 not supported
+2017/03/31 10:13:54 new client: 192.168.122.62:50295
+2017/03/31 10:13:54 client version  67
+2017/03/31 10:13:54 version 67 not supported
+2017/03/31 10:13:54 new client: 192.168.122.62:50296
+2017/03/31 10:13:54 client version  67
+2017/03/31 10:13:54 version 67 not supported
+2017/03/31 10:13:54 new client: 192.168.122.62:50297
+2017/03/31 10:13:54 client version  67
+2017/03/31 10:13:54 version 67 not supported
+2017/03/31 10:14:04 new client: 192.168.122.62:50298
+2017/03/31 10:14:04 client version  67
+2017/03/31 10:14:04 version 67 not supported
+2017/03/31 10:14:04 new client: 192.168.122.62:50299
+2017/03/31 10:14:04 client version  67
+2017/03/31 10:14:04 version 67 not supported
+2017/03/31 10:14:04 new client: 192.168.122.62:50300
+2017/03/31 10:14:04 client version  67
+2017/03/31 10:14:04 version 67 not supported
+2017/03/31 10:14:04 new client: 192.168.122.62:50301
+2017/03/31 10:14:04 client version  67
+2017/03/31 10:14:04 version 67 not supported
+2017/03/31 10:14:10 new client: 192.168.122.62:50302
+2017/03/31 10:14:10 client version  67
+2017/03/31 10:14:10 version 67 not supported
+2017/03/31 10:14:10 new client: 192.168.122.62:50303
+2017/03/31 10:14:10 client version  67
+2017/03/31 10:14:10 version 67 not supported
+2017/03/31 10:14:10 new client: 192.168.122.62:50304
+2017/03/31 10:14:10 client version  67
+2017/03/31 10:14:10 version 67 not supported
+2017/03/31 10:14:10 new client: 192.168.122.62:50305
+2017/03/31 10:14:10 client version  67
+2017/03/31 10:14:10 version 67 not supported
+2017/03/31 10:14:17 new client: 192.168.122.62:50306
+2017/03/31 10:14:17 client version  67
+2017/03/31 10:14:17 version 67 not supported
+2017/03/31 10:14:17 new client: 192.168.122.62:50307
+2017/03/31 10:14:17 client version  67
+2017/03/31 10:14:17 version 67 not supported
+2017/03/31 10:14:17 new client: 192.168.122.62:50308
+2017/03/31 10:14:17 client version  67
+2017/03/31 10:14:17 version 67 not supported
+2017/03/31 10:14:17 new client: 192.168.122.62:50309
+2017/03/31 10:14:17 client version  67
+2017/03/31 10:14:17 version 67 not supported
+2017/03/31 10:14:22 new client: 192.168.122.62:50310
+2017/03/31 10:14:22 client version  67
+2017/03/31 10:14:22 version 67 not supported
+2017/03/31 10:14:22 new client: 192.168.122.62:50311
+2017/03/31 10:14:22 client version  67
+2017/03/31 10:14:22 version 67 not supported
+2017/03/31 10:14:22 new client: 192.168.122.62:50312
+2017/03/31 10:14:22 client version  67
+2017/03/31 10:14:22 version 67 not supported
+2017/03/31 10:14:22 new client: 192.168.122.62:50313
+2017/03/31 10:14:22 client version  67
+2017/03/31 10:14:22 version 67 not supported
+2017/03/31 10:14:26 new client: 192.168.122.62:50314
+2017/03/31 10:14:26 client version  67
+2017/03/31 10:14:26 version 67 not supported
+2017/03/31 10:14:26 new client: 192.168.122.62:50315
+2017/03/31 10:14:26 client version  67
+2017/03/31 10:14:26 version 67 not supported
+2017/03/31 10:14:26 new client: 192.168.122.62:50316
+2017/03/31 10:14:26 client version  67
+2017/03/31 10:14:26 version 67 not supported
+2017/03/31 10:14:26 new client: 192.168.122.62:50317
+2017/03/31 10:14:26 client version  67
+2017/03/31 10:14:26 version 67 not supported
+2017/03/31 10:14:34 new client: 192.168.122.62:50318
+2017/03/31 10:14:34 client version  67
+2017/03/31 10:14:34 version 67 not supported
+2017/03/31 10:14:34 new client: 192.168.122.62:50319
+2017/03/31 10:14:34 client version  67
+2017/03/31 10:14:34 version 67 not supported
+2017/03/31 10:14:34 new client: 192.168.122.62:50320
+2017/03/31 10:14:34 client version  67
+2017/03/31 10:14:34 version 67 not supported
+2017/03/31 10:14:34 new client: 192.168.122.62:50321
+2017/03/31 10:14:34 client version  67
+2017/03/31 10:14:34 version 67 not supported
+2017/03/31 10:14:43 new client: 192.168.122.62:50322
+2017/03/31 10:14:43 client version  67
+2017/03/31 10:14:43 version 67 not supported
+2017/03/31 10:14:43 new client: 192.168.122.62:50323
+2017/03/31 10:14:43 client version  67
+2017/03/31 10:14:43 version 67 not supported
+2017/03/31 10:14:43 new client: 192.168.122.62:50324
+2017/03/31 10:14:43 client version  67
+2017/03/31 10:14:43 version 67 not supported
+2017/03/31 10:14:43 new client: 192.168.122.62:50325
+2017/03/31 10:14:43 client version  67
+2017/03/31 10:14:43 version 67 not supported
+2017/03/31 10:14:52 new client: 192.168.122.62:50326
+2017/03/31 10:14:52 client version  67
+2017/03/31 10:14:52 version 67 not supported
+2017/03/31 10:14:52 new client: 192.168.122.62:50327
+2017/03/31 10:14:52 client version  67
+2017/03/31 10:14:52 version 67 not supported
+2017/03/31 10:14:52 new client: 192.168.122.62:50328
+2017/03/31 10:14:52 client version  67
+2017/03/31 10:14:52 version 67 not supported
+2017/03/31 10:14:52 new client: 192.168.122.62:50329
+2017/03/31 10:14:52 client version  67
+2017/03/31 10:14:52 version 67 not supported
+2017/03/31 10:14:57 new client: 192.168.122.62:50330
+2017/03/31 10:14:57 client version  67
+2017/03/31 10:14:57 version 67 not supported
+2017/03/31 10:14:57 new client: 192.168.122.62:50331
+2017/03/31 10:14:57 client version  67
+2017/03/31 10:14:57 version 67 not supported
+2017/03/31 10:14:57 new client: 192.168.122.62:50332
+2017/03/31 10:14:57 client version  67
+2017/03/31 10:14:57 version 67 not supported
+2017/03/31 10:14:57 new client: 192.168.122.62:50333
+2017/03/31 10:14:57 client version  67
+2017/03/31 10:14:57 version 67 not supported
+2017/03/31 10:14:59 new client: 192.168.122.62:50334
+2017/03/31 10:14:59 client version  67
+2017/03/31 10:14:59 version 67 not supported
+2017/03/31 10:14:59 new client: 192.168.122.62:50335
+2017/03/31 10:14:59 client version  67
+2017/03/31 10:14:59 version 67 not supported
+2017/03/31 10:14:59 new client: 192.168.122.62:50336
+2017/03/31 10:14:59 client version  67
+2017/03/31 10:14:59 version 67 not supported
+2017/03/31 10:14:59 new client: 192.168.122.62:50337
+2017/03/31 10:14:59 client version  67
+2017/03/31 10:14:59 version 67 not supported
+2017/03/31 10:15:07 new client: 192.168.122.62:50338
+2017/03/31 10:15:07 client version  67
+2017/03/31 10:15:07 version 67 not supported
+2017/03/31 10:15:07 new client: 192.168.122.62:50339
+2017/03/31 10:15:07 client version  67
+2017/03/31 10:15:07 version 67 not supported
+2017/03/31 10:15:07 new client: 192.168.122.62:50340
+2017/03/31 10:15:07 client version  67
+2017/03/31 10:15:07 version 67 not supported
+2017/03/31 10:15:07 new client: 192.168.122.62:50341
+2017/03/31 10:15:07 client version  67
+2017/03/31 10:15:07 version 67 not supported
+2017/03/31 10:15:16 new client: 192.168.122.62:50342
+2017/03/31 10:15:16 client version  67
+2017/03/31 10:15:16 version 67 not supported
+2017/03/31 10:15:16 new client: 192.168.122.62:50343
+2017/03/31 10:15:16 client version  67
+2017/03/31 10:15:16 version 67 not supported
+2017/03/31 10:15:16 new client: 192.168.122.62:50344
+2017/03/31 10:15:16 client version  67
+2017/03/31 10:15:16 version 67 not supported
+2017/03/31 10:15:16 new client: 192.168.122.62:50345
+2017/03/31 10:15:16 client version  67
+2017/03/31 10:15:16 version 67 not supported
+2017/03/31 10:15:25 new client: 192.168.122.62:50346
+2017/03/31 10:15:25 client version  67
+2017/03/31 10:15:25 version 67 not supported
+2017/03/31 10:15:25 new client: 192.168.122.62:50347
+2017/03/31 10:15:25 client version  67
+2017/03/31 10:15:25 version 67 not supported
+2017/03/31 10:15:25 new client: 192.168.122.62:50348
+2017/03/31 10:15:25 client version  67
+2017/03/31 10:15:25 version 67 not supported
+2017/03/31 10:15:25 new client: 192.168.122.62:50349
+2017/03/31 10:15:25 client version  67
+2017/03/31 10:15:25 version 67 not supported
+2017/03/31 10:15:30 new client: 192.168.122.62:50350
+2017/03/31 10:15:30 client version  67
+2017/03/31 10:15:30 version 67 not supported
+2017/03/31 10:15:30 new client: 192.168.122.62:50351
+2017/03/31 10:15:30 client version  67
+2017/03/31 10:15:30 version 67 not supported
+2017/03/31 10:15:30 new client: 192.168.122.62:50352
+2017/03/31 10:15:30 client version  67
+2017/03/31 10:15:30 version 67 not supported
+2017/03/31 10:15:30 new client: 192.168.122.62:50353
+2017/03/31 10:15:30 client version  67
+2017/03/31 10:15:30 version 67 not supported
+2017/03/31 10:15:33 new client: 192.168.122.62:50354
+2017/03/31 10:15:33 client version  67
+2017/03/31 10:15:33 version 67 not supported
+2017/03/31 10:15:33 new client: 192.168.122.62:50355
+2017/03/31 10:15:33 client version  67
+2017/03/31 10:15:33 version 67 not supported
+2017/03/31 10:15:33 new client: 192.168.122.62:50356
+2017/03/31 10:15:33 client version  67
+2017/03/31 10:15:33 version 67 not supported
+2017/03/31 10:15:33 new client: 192.168.122.62:50357
+2017/03/31 10:15:33 client version  67
+2017/03/31 10:15:33 version 67 not supported
+2017/03/31 10:15:40 new client: 192.168.122.62:50358
+2017/03/31 10:15:40 client version  67
+2017/03/31 10:15:40 version 67 not supported
+2017/03/31 10:15:40 new client: 192.168.122.62:50359
+2017/03/31 10:15:40 client version  67
+2017/03/31 10:15:40 version 67 not supported
+2017/03/31 10:15:40 new client: 192.168.122.62:50360
+2017/03/31 10:15:40 client version  67
+2017/03/31 10:15:40 version 67 not supported
+2017/03/31 10:15:40 new client: 192.168.122.62:50361
+2017/03/31 10:15:40 client version  67
+2017/03/31 10:15:40 version 67 not supported
+2017/03/31 10:15:48 new client: 192.168.122.62:50362
+2017/03/31 10:15:48 client version  67
+2017/03/31 10:15:48 version 67 not supported
+2017/03/31 10:15:48 new client: 192.168.122.62:50363
+2017/03/31 10:15:48 client version  67
+2017/03/31 10:15:48 version 67 not supported
+2017/03/31 10:15:48 new client: 192.168.122.62:50364
+2017/03/31 10:15:48 client version  67
+2017/03/31 10:15:48 version 67 not supported
+2017/03/31 10:15:48 new client: 192.168.122.62:50365
+2017/03/31 10:15:48 client version  67
+2017/03/31 10:15:48 version 67 not supported
+2017/03/31 10:15:58 new client: 192.168.122.62:50366
+2017/03/31 10:15:58 client version  67
+2017/03/31 10:15:58 version 67 not supported
+2017/03/31 10:15:58 new client: 192.168.122.62:50367
+2017/03/31 10:15:58 client version  67
+2017/03/31 10:15:58 version 67 not supported
+2017/03/31 10:15:58 new client: 192.168.122.62:50368
+2017/03/31 10:15:58 client version  67
+2017/03/31 10:15:58 version 67 not supported
+2017/03/31 10:15:58 new client: 192.168.122.62:50369
+2017/03/31 10:15:58 client version  67
+2017/03/31 10:15:58 version 67 not supported
+2017/03/31 10:16:03 new client: 192.168.122.62:50370
+2017/03/31 10:16:03 client version  67
+2017/03/31 10:16:03 version 67 not supported
+2017/03/31 10:16:03 new client: 192.168.122.62:50371
+2017/03/31 10:16:03 client version  67
+2017/03/31 10:16:03 version 67 not supported
+2017/03/31 10:16:03 new client: 192.168.122.62:50372
+2017/03/31 10:16:03 client version  67
+2017/03/31 10:16:03 version 67 not supported
+2017/03/31 10:16:03 new client: 192.168.122.62:50373
+2017/03/31 10:16:03 client version  67
+2017/03/31 10:16:03 version 67 not supported
+2017/03/31 10:16:07 new client: 192.168.122.62:50374
+2017/03/31 10:16:07 client version  67
+2017/03/31 10:16:07 version 67 not supported
+2017/03/31 10:16:07 new client: 192.168.122.62:50375
+2017/03/31 10:16:07 client version  67
+2017/03/31 10:16:07 version 67 not supported
+2017/03/31 10:16:07 new client: 192.168.122.62:50376
+2017/03/31 10:16:07 client version  67
+2017/03/31 10:16:07 version 67 not supported
+2017/03/31 10:16:07 new client: 192.168.122.62:50377
+2017/03/31 10:16:07 client version  67
+2017/03/31 10:16:07 version 67 not supported
+2017/03/31 10:16:16 new client: 192.168.122.62:50378
+2017/03/31 10:16:16 client version  67
+2017/03/31 10:16:16 version 67 not supported
+2017/03/31 10:16:16 new client: 192.168.122.62:50379
+2017/03/31 10:16:16 client version  67
+2017/03/31 10:16:16 version 67 not supported
+2017/03/31 10:16:16 new client: 192.168.122.62:50380
+2017/03/31 10:16:16 client version  67
+2017/03/31 10:16:16 version 67 not supported
+2017/03/31 10:16:16 new client: 192.168.122.62:50381
+2017/03/31 10:16:16 client version  67
+2017/03/31 10:16:16 version 67 not supported
+2017/03/31 10:16:23 new client: 192.168.122.62:50383
+2017/03/31 10:16:23 client version  67
+2017/03/31 10:16:23 version 67 not supported
+2017/03/31 10:16:23 new client: 192.168.122.62:50384
+2017/03/31 10:16:23 client version  67
+2017/03/31 10:16:23 version 67 not supported
+2017/03/31 10:16:23 new client: 192.168.122.62:50385
+2017/03/31 10:16:23 client version  67
+2017/03/31 10:16:23 version 67 not supported
+2017/03/31 10:16:23 new client: 192.168.122.62:50386
+2017/03/31 10:16:23 client version  67
+2017/03/31 10:16:23 version 67 not supported
+2017/03/31 10:16:32 new client: 192.168.122.62:50387
+2017/03/31 10:16:32 client version  67
+2017/03/31 10:16:32 version 67 not supported
+2017/03/31 10:16:32 new client: 192.168.122.62:50388
+2017/03/31 10:16:32 client version  67
+2017/03/31 10:16:32 version 67 not supported
+2017/03/31 10:16:32 new client: 192.168.122.62:50389
+2017/03/31 10:16:32 client version  67
+2017/03/31 10:16:32 version 67 not supported
+2017/03/31 10:16:32 new client: 192.168.122.62:50390
+2017/03/31 10:16:32 client version  67
+2017/03/31 10:16:32 version 67 not supported
+2017/03/31 10:16:37 new client: 192.168.122.62:50391
+2017/03/31 10:16:37 client version  67
+2017/03/31 10:16:37 version 67 not supported
+2017/03/31 10:16:37 new client: 192.168.122.62:50392
+2017/03/31 10:16:37 client version  67
+2017/03/31 10:16:37 version 67 not supported
+2017/03/31 10:16:37 new client: 192.168.122.62:50393
+2017/03/31 10:16:37 client version  67
+2017/03/31 10:16:37 version 67 not supported
+2017/03/31 10:16:37 new client: 192.168.122.62:50394
+2017/03/31 10:16:37 client version  67
+2017/03/31 10:16:37 version 67 not supported
+2017/03/31 10:16:40 new client: 192.168.122.62:50395
+2017/03/31 10:16:40 client version  67
+2017/03/31 10:16:40 version 67 not supported
+2017/03/31 10:16:40 new client: 192.168.122.62:50396
+2017/03/31 10:16:40 client version  67
+2017/03/31 10:16:40 version 67 not supported
+2017/03/31 10:16:40 new client: 192.168.122.62:50397
+2017/03/31 10:16:40 client version  67
+2017/03/31 10:16:40 version 67 not supported
+2017/03/31 10:16:40 new client: 192.168.122.62:50398
+2017/03/31 10:16:40 client version  67
+2017/03/31 10:16:40 version 67 not supported
+2017/03/31 10:16:50 new client: 192.168.123.220:50400
+2017/03/31 10:16:50 new client: 192.168.123.220:50401
+2017/03/31 10:16:50 client version  71
+2017/03/31 10:16:50 version 71 not supported
+2017/03/31 10:16:50 client version  71
+2017/03/31 10:16:50 version 71 not supported
