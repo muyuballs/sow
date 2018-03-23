@@ -8,17 +8,17 @@ gobuild(){
 		sufix=".exe"
 	fi
 	echo "build $GOOS-$GOARCH$GOARM$sufix"
+	target="sow-client-$GOOS-$GOARCH$sufix"
 	if [ "$GOARCH" == "arm" ];then
-		go build -o "sow-client-$GOOS-$GOARCH$GOARM$sufix"
-	else
-		go build -o "sow-client-$GOOS-$GOARCH$sufix"
+		target="sow-client-$GOOS-$GOARCH$GOARM$sufix"
 	fi
-	move $4
+	go build -o $target
+	move $target $4
 }
 
 move(){
-	if [ -d "$1" ];then
-		mv "client-$GOOS-$GOARCH" "$1"
+	if [ -d "$2" ];then
+		mv "$1" "$2"
 	else
 		echo "dir [$1] not exists"
 	fi
