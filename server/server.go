@@ -75,7 +75,7 @@ func main() {
 		config.Mtu = c.Int("mtu")
 		config.NoDelay = c.Bool("nodelay")
 		if config.UDT {
-			return handleUDT(config)
+			go handleUDT(config)
 		}
 		return handleTCP(config)
 	}

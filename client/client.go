@@ -10,7 +10,7 @@ import (
 )
 
 var (
-	VERSION = "0.0.2"
+	VERSION = "0.0.3"
 )
 
 var transferFn func(string, *net.TCPConn, *Config)
@@ -40,9 +40,13 @@ func handleConnection(conn *net.TCPConn, c *Config) {
 			return
 		}
 		transferFn(target, conn, c)
-	} else {
-		conn.Close()
-		log.Println("version", ver, "not supported")
+	} else { //maybe http proxy requried?
+		if c.HttpEnable {
+			handleHttp(ver, conn, c)
+		} else {
+			conn.Close()
+			log.Println("not supported ver", ver)
+		}
 	}
 }
 
@@ -102,6 +106,10 @@ func main() {
 			Name:  "nodelay, nd",
 			Usage: "tcp nodelay, udt ack nodelay",
 		},
+		cli.BoolFlag{
+			Name:  "disable-http, dh",
+			Usage: "disable http proxy",
+		},
 	}
 
 	myApp.Action = func(c *cli.Context) error {
@@ -117,6 +125,7 @@ func main() {
 		config.Swnd = c.Int("swnd")
 		config.Mtu = c.Int("mtu")
 		config.NoDelay = c.Bool("nodelay")
+		config.HttpEnable = !c.Bool("disable-http")
 		if config.Server == "" {
 			return errors.New("server address is null")
 		}

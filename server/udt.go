@@ -38,9 +38,6 @@ func handleUDT(c *Config) (err error) {
 		return
 	}
 	log.Printf("server start udt://%v\n", lis.Addr())
-	//	if err := lis.SetDSCP(0); err != nil {
-	//		log.Println("SetDSCP:", err)
-	//	}
 	if err := lis.SetReadBuffer(c.SockBuf); err != nil {
 		log.Println("SetReadBuffer:", err)
 	}
