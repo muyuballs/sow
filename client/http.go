@@ -75,7 +75,7 @@ func handleHttp(preRead byte, conn *net.TCPConn, c *Config) {
 			return
 		}
 		defer resp.Body.Close()
-		fmt.Fprintf(bw, "%s %s\r\n", resp.Status, resp.Proto)
+		fmt.Fprintf(bw, "%s %s\r\n", resp.Proto, resp.Status)
 		for k, v := range resp.Header {
 			for _, vv := range v {
 				fmt.Fprintf(bw, "%s: %s\r\n", k, vv)
