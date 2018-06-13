@@ -1,11 +1,12 @@
 package main
 
 import (
-	"log"
+	slog "log"
 	"net"
 )
 
 func handleTCP(c *Config) (err error) {
+	log := slog.New(c.LogOut, "TCP ", LOG_FLAGS)
 	laddr, err := net.ResolveTCPAddr("tcp", c.Listen)
 	if err != nil {
 		return
@@ -25,7 +26,7 @@ func handleTCP(c *Config) (err error) {
 		if err != nil {
 			log.Println(err)
 		}
-		go transfer(conn, c)
+		go transfer(conn, c, conn.RemoteAddr())
 	}
 	return
 }

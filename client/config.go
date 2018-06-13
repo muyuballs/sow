@@ -13,4 +13,6 @@ type Config struct {
 	NoDelay    bool
 	Server     string
 	HttpEnable bool
+	Momo       bool
+	MomoAddr   string
 }

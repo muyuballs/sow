@@ -6,14 +6,14 @@ import (
 	"encoding/binary"
 	"fmt"
 	"io"
-	"log"
+	slog "log"
 	"net"
 	"time"
 
 	"github.com/muyuballs/sow/crypt"
 )
 
-func readld(r io.Reader) (dat []byte, err error) {
+func readld(r io.Reader, log *slog.Logger) (dat []byte, err error) {
 	buf := make([]byte, 4)
 	_, err = io.ReadFull(r, buf)
 	if err != nil {
@@ -34,8 +34,8 @@ func readld(r io.Reader) (dat []byte, err error) {
 	return
 }
 
-func checkKey(r io.Reader, xkey string) error {
-	key, err := readld(r)
+func checkKey(r io.Reader, xkey string, log *slog.Logger) error {
+	key, err := readld(r, log)
 	if err != nil {
 		return err
 	}
@@ -45,7 +45,10 @@ func checkKey(r io.Reader, xkey string) error {
 	return nil
 }
 
-func transfer(conn io.ReadWriteCloser, c *Config) (err error) {
+func transfer(conn io.ReadWriteCloser, c *Config, remoteAddr net.Addr) (err error) {
+	sid := fmt.Sprintf("S%v ", time.Now().UTC().UnixNano())
+	log := slog.New(c.LogOut, sid+" ", LOG_FLAGS)
+	log.Println("client", remoteAddr)
 	defer log.Println("job done")
 	defer conn.Close()
 	key := []byte(fmt.Sprintf("SOW-%v", time.Now().UTC().Format("200601021504")))
@@ -68,18 +71,18 @@ func transfer(conn io.ReadWriteCloser, c *Config) (err error) {
 		rReader = crypt.NewAESReader(key, conn)
 		rWriter = crypt.NewAESWriter(key, conn)
 	}
-	err = checkKey(rReader, c.Key)
+	err = checkKey(rReader, c.Key, log)
 	if err != nil {
 		log.Println(err)
 		return
 	}
-	buf, err := readld(rReader)
+	buf, err := readld(rReader, log)
 	if err != nil {
 		log.Println(err)
 		return
 	}
 	target := string(buf)
-	log.Println(target)
+	log.Println("target", target)
 	rAddr, err := net.ResolveTCPAddr("tcp", target)
 	if err != nil {
 		log.Println(err)
@@ -91,32 +94,18 @@ func transfer(conn io.ReadWriteCloser, c *Config) (err error) {
 		return
 	}
 	defer rconn.Close()
-	go io.Copy(rconn, rReader)
+	go func() {
+		c, err := io.Copy(rconn, rReader)
+		log.Println("C->D", c, err)
+	}()
 	buf = make([]byte, 32*1024)
-	for {
-		nr, er := rconn.Read(buf)
-		if nr > 0 {
-			nw, ew := rWriter.Write(buf[0:nr])
-			if ew != nil {
-				log.Println(ew)
-				break
-			}
-			if nr != nw {
-				log.Println("short write")
-				break
-			}
-			if c.Zlib {
-				fe := rWriter.(*zlib.Writer).Flush()
-				if fe != nil {
-					log.Println(fe)
-					break
-				}
-			}
-		}
-		if er != nil {
-			log.Println(er)
-			break
+	cc, err := io.Copy(rWriter, rconn)
+	if c.Zlib {
+		fe := rWriter.(*zlib.Writer).Flush()
+		if fe != nil {
+			log.Println("D->C", "flush", fe)
 		}
 	}
+	log.Println("D->C", cc, err)
 	return
 }

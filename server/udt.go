@@ -2,14 +2,14 @@ package main
 
 import (
 	"io"
-	"log"
+	slog "log"
 	"time"
 
 	kcp "github.com/xtaci/kcp-go"
 	"github.com/xtaci/smux"
 )
 
-func handleMux(conn io.ReadWriteCloser, c *Config) {
+func handleMux(conn io.ReadWriteCloser, c *Config, log *slog.Logger) {
 	// stream multiplex
 	smuxConfig := smux.DefaultConfig()
 	smuxConfig.MaxReceiveBuffer = 4194304
@@ -27,11 +27,12 @@ func handleMux(conn io.ReadWriteCloser, c *Config) {
 			log.Println(err)
 			return
 		}
-		go transfer(p1, c)
+		go transfer(p1, c, p1.RemoteAddr())
 	}
 }
 
 func handleUDT(c *Config) (err error) {
+	log := slog.New(c.LogOut, "UDT ", LOG_FLAGS)
 	block, _ := kcp.NewNoneBlockCrypt(nil)
 	lis, err := kcp.ListenWithOptions(c.Listen, block, 10, 3)
 	if err != nil {
@@ -53,7 +54,7 @@ func handleUDT(c *Config) (err error) {
 			conn.SetMtu(c.Mtu)
 			conn.SetWindowSize(c.Swnd, c.Rwnd)
 			conn.SetACKNoDelay(c.NoDelay)
-			go handleMux(conn, c)
+			go handleMux(conn, c, log)
 		} else {
 			log.Printf("%+v", err)
 		}

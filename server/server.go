@@ -1,13 +1,15 @@
 package main
 
 import (
+	"log"
 	"os"
 
 	"github.com/urfave/cli"
 )
 
 var (
-	VERSION = "0.0.2"
+	VERSION   = "0.0.3"
+	LOG_FLAGS = log.LstdFlags | log.Lmicroseconds
 )
 
 func main() {
@@ -33,6 +35,11 @@ func main() {
 		cli.BoolFlag{
 			Name:  "udt, u",
 			Usage: "use udp ",
+		},
+		cli.StringFlag{
+			Name:  "log",
+			Usage: "log file",
+			Value: "console",
 		},
 		cli.BoolFlag{
 			Name:  "smux, s",
@@ -74,6 +81,18 @@ func main() {
 		config.Swnd = c.Int("swnd")
 		config.Mtu = c.Int("mtu")
 		config.NoDelay = c.Bool("nodelay")
+		config.LogFile = c.String("log")
+		if "console" != config.LogFile {
+			logOut, err := os.OpenFile(config.LogFile, os.O_WRONLY|os.O_APPEND|os.O_CREATE|os.O_SYNC, 0755)
+			if err != nil {
+				return err
+			}
+			defer logOut.Close()
+			defer logOut.Sync()
+			config.LogOut = logOut
+		} else {
+			config.LogOut = os.Stdout
+		}
 		if config.UDT {
 			go handleUDT(config)
 		}

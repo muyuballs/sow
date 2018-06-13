@@ -1,5 +1,9 @@
 package main
 
+import (
+	"io"
+)
+
 type Config struct {
 	UDT     bool
 	Listen  string
@@ -11,4 +15,6 @@ type Config struct {
 	Swnd    int
 	Mtu     int
 	NoDelay bool
+	LogFile string
+	LogOut  io.Writer
 }

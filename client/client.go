@@ -40,7 +40,7 @@ func handleConnection(conn *net.TCPConn, c *Config) {
 			return
 		}
 		transferFn(target, conn, c)
-	} else { //maybe http proxy requried?
+	} else {
 		if c.HttpEnable {
 			handleHttp(ver, conn, c)
 		} else {
@@ -110,6 +110,15 @@ func main() {
 			Name:  "disable-http, dh",
 			Usage: "disable http proxy",
 		},
+		cli.BoolFlag{
+			Name:  "momo",
+			Usage: "enable momo server",
+		},
+		cli.StringFlag{
+			Name:  "momo-addr",
+			Value: ":60001",
+			Usage: "momo server listen addr",
+		},
 	}
 
 	myApp.Action = func(c *cli.Context) error {
@@ -126,6 +135,8 @@ func main() {
 		config.Mtu = c.Int("mtu")
 		config.NoDelay = c.Bool("nodelay")
 		config.HttpEnable = !c.Bool("disable-http")
+		config.Momo = c.Bool("momo")
+		config.MomoAddr = c.String("momo-addr")
 		if config.Server == "" {
 			return errors.New("server address is null")
 		}
@@ -142,6 +153,27 @@ func main() {
 			transferFn = transferByUDT
 		} else {
 			transferFn = transferByTCP
+		}
+		if config.Momo {
+			mlAddr, err := net.ResolveTCPAddr("tcp", config.MomoAddr)
+			if err != nil {
+				return err
+			}
+			mln, err := net.ListenTCP("tcp", mlAddr)
+			if err != nil {
+				return err
+			}
+			log.Println("Start Momo Server @:", mln.Addr())
+			go func() {
+				for {
+					c, err := mln.AcceptTCP()
+					if err != nil {
+						log.Println(err)
+						return
+					}
+					go handMomoConnection(c, config)
+				}
+			}()
 		}
 		log.Println("Start @", ln.Addr())
 		for {
