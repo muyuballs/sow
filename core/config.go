@@ -1,9 +1,12 @@
-package main
+package core
+
+import (
+	"io"
+)
 
 type Config struct {
 	UDT        bool
 	Listen     string
-	Zlib       bool
 	Key        string
 	SMux       bool
 	SockBuf    int
@@ -15,4 +18,7 @@ type Config struct {
 	HttpEnable bool
 	Momo       bool
 	MomoAddr   string
+	LogFile    string
+	LogOut     io.Writer
+	LOG_FLAGS  int
 }

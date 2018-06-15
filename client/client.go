@@ -6,6 +6,7 @@ import (
 	"net"
 	"os"
 
+	"github.com/muyuballs/sow/core"
 	"github.com/urfave/cli"
 )
 
@@ -13,9 +14,9 @@ var (
 	VERSION = "0.0.3"
 )
 
-var transferFn func(string, *net.TCPConn, *Config)
+var transferFn func(string, *net.TCPConn, *core.Config)
 
-func handleConnection(conn *net.TCPConn, c *Config) {
+func handleConnection(conn *net.TCPConn, c *core.Config) {
 	err := conn.SetNoDelay(true)
 	if err != nil {
 		log.Println(err)
@@ -59,7 +60,7 @@ func main() {
 		cli.StringFlag{
 			Name:  "listen, l",
 			Value: ":1221",
-			Usage: "sow client socks(4,5) listen address",
+			Usage: "sow client socks(4,5) & http listen address",
 		},
 		cli.StringFlag{
 			Name:  "server, s",
@@ -72,12 +73,13 @@ func main() {
 			Usage: "secret key",
 		},
 		cli.BoolFlag{
-			Name:  "zlib, z",
-			Usage: "use zlib compress data",
-		},
-		cli.BoolFlag{
 			Name:  "udt, u",
 			Usage: "use udp ",
+		},
+		cli.StringFlag{
+			Name:  "log",
+			Usage: "log file",
+			Value: "console",
 		},
 		cli.BoolFlag{
 			Name:  "smux",
@@ -122,11 +124,11 @@ func main() {
 	}
 
 	myApp.Action = func(c *cli.Context) error {
-		config := &Config{}
+		config := &core.Config{}
+		config.LOG_FLAGS = log.LstdFlags | log.Lmicroseconds
 		config.Server = c.String("server")
 		config.Key = c.String("key")
 		config.Listen = c.String("listen")
-		config.Zlib = c.Bool("zlib")
 		config.UDT = c.Bool("udt")
 		config.SMux = c.Bool("smux")
 		config.SockBuf = c.Int("sockBuf")
@@ -137,6 +139,18 @@ func main() {
 		config.HttpEnable = !c.Bool("disable-http")
 		config.Momo = c.Bool("momo")
 		config.MomoAddr = c.String("momo-addr")
+		config.LogFile = c.String("log")
+		if "console" != config.LogFile {
+			logOut, err := os.OpenFile(config.LogFile, os.O_WRONLY|os.O_APPEND|os.O_CREATE|os.O_SYNC, 0755)
+			if err != nil {
+				return err
+			}
+			defer logOut.Close()
+			defer logOut.Sync()
+			config.LogOut = logOut
+		} else {
+			config.LogOut = os.Stdout
+		}
 		if config.Server == "" {
 			return errors.New("server address is null")
 		}

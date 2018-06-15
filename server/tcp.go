@@ -3,10 +3,12 @@ package main
 import (
 	slog "log"
 	"net"
+
+	"github.com/muyuballs/sow/core"
 )
 
-func handleTCP(c *Config) (err error) {
-	log := slog.New(c.LogOut, "TCP ", LOG_FLAGS)
+func handleTCP(c *core.Config) (err error) {
+	log := slog.New(c.LogOut, "TCP ", c.LOG_FLAGS)
 	laddr, err := net.ResolveTCPAddr("tcp", c.Listen)
 	if err != nil {
 		return

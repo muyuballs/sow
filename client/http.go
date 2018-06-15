@@ -4,12 +4,14 @@ import (
 	"bufio"
 	"fmt"
 	"io"
-	"log"
+	slog "log"
 	"net"
 	"net/http"
 	"net/url"
 	"regexp"
 	"time"
+
+	"github.com/muyuballs/sow/core"
 )
 
 var (
@@ -26,12 +28,6 @@ var (
 )
 
 func resoloveProxy(req *http.Request) (*url.URL, error) {
-	//	for _, reg := range np {
-	//		if reg.MatchString(req.Host) {
-	//			log.Println(req.Host, "In NP list")
-	//			return nil, nil
-	//		}
-	//	}
 	if pb, ok := req.Header[SowPpHeader]; ok {
 		req.Header.Del(SowPpHeader)
 		pp, err := url.Parse(pb[0])
@@ -41,12 +37,11 @@ func resoloveProxy(req *http.Request) (*url.URL, error) {
 			}
 		}
 		return pp, err
-	} else {
-		log.Println(SowPpHeader, "not found")
 	}
 	return nil, nil
 }
-func handleHttp(preRead byte, conn *net.TCPConn, c *Config) {
+func handleHttp(preRead byte, conn *net.TCPConn, c *core.Config) {
+	log := slog.New(c.LogOut, "HTTP ", c.LOG_FLAGS)
 	defer conn.Close()
 	rd := bufio.NewReader(conn)
 	req, err := http.ReadRequest(rd)
@@ -66,7 +61,6 @@ func handleHttp(preRead byte, conn *net.TCPConn, c *Config) {
 	if req.Method == "CONNECT" {
 		bw.WriteString("HTTP/1.1 200 Connection Established\r\n\r\n")
 		bw.Flush()
-		log.Println(req.RequestURI)
 		transferFn(req.RequestURI, conn, c)
 	} else {
 		resp, err := transport.RoundTrip(req)

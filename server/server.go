@@ -4,12 +4,12 @@ import (
 	"log"
 	"os"
 
+	"github.com/muyuballs/sow/core"
 	"github.com/urfave/cli"
 )
 
 var (
-	VERSION   = "0.0.3"
-	LOG_FLAGS = log.LstdFlags | log.Lmicroseconds
+	VERSION = "0.0.3"
 )
 
 func main() {
@@ -70,10 +70,10 @@ func main() {
 		},
 	}
 	myApp.Action = func(c *cli.Context) error {
-		config := &Config{}
+		config := &core.Config{}
+		config.LOG_FLAGS = log.LstdFlags | log.Lmicroseconds
 		config.Key = c.String("key")
 		config.Listen = c.String("listen")
-		config.Zlib = c.Bool("zlib")
 		config.UDT = c.Bool("udt")
 		config.SMux = c.Bool("smux")
 		config.SockBuf = c.Int("sockBuf")

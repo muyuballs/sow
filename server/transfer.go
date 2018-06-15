@@ -1,41 +1,17 @@
 package main
 
 import (
-	"compress/flate"
-	"compress/zlib"
-	"encoding/binary"
 	"fmt"
 	"io"
 	slog "log"
 	"net"
 	"time"
 
-	"github.com/muyuballs/sow/crypt"
+	"github.com/muyuballs/sow/core"
 )
 
-func readld(r io.Reader, log *slog.Logger) (dat []byte, err error) {
-	buf := make([]byte, 4)
-	_, err = io.ReadFull(r, buf)
-	if err != nil {
-		log.Println(err)
-		return
-	}
-	tl := binary.BigEndian.Uint32(buf)
-	if tl > 1024 {
-		log.Println("seg too long", tl)
-		return
-	}
-	dat = make([]byte, int(tl))
-	_, err = io.ReadFull(r, dat)
-	if err != nil {
-		log.Println(err)
-		return
-	}
-	return
-}
-
 func checkKey(r io.Reader, xkey string, log *slog.Logger) error {
-	key, err := readld(r, log)
+	key, err := core.ReadLd(r)
 	if err != nil {
 		return err
 	}
@@ -45,44 +21,34 @@ func checkKey(r io.Reader, xkey string, log *slog.Logger) error {
 	return nil
 }
 
-func transfer(conn io.ReadWriteCloser, c *Config, remoteAddr net.Addr) (err error) {
+func transfer(conn io.ReadWriteCloser, c *core.Config, remoteAddr net.Addr) (err error) {
 	sid := fmt.Sprintf("S%v ", time.Now().UTC().UnixNano())
-	log := slog.New(c.LogOut, sid+" ", LOG_FLAGS)
+	log := slog.New(c.LogOut, sid+" ", c.LOG_FLAGS)
 	log.Println("client", remoteAddr)
 	defer log.Println("job done")
 	defer conn.Close()
 	key := []byte(fmt.Sprintf("SOW-%v", time.Now().UTC().Format("200601021504")))
-	var rReader io.Reader
-	var rWriter io.Writer
-	if c.Zlib {
-		rReader = crypt.NewAESReader(key, conn)
-		rReader, err = zlib.NewReader(rReader)
-		if err != nil {
-			log.Println(err)
-			return
-		}
-		rWriter = crypt.NewAESWriter(key, conn)
-		rWriter, err = zlib.NewWriterLevel(rWriter, flate.BestCompression)
-		if err != nil {
-			log.Println(err)
-			return
-		}
-	} else {
-		rReader = crypt.NewAESReader(key, conn)
-		rWriter = crypt.NewAESWriter(key, conn)
-	}
+	rReader := core.NewAESReader(key, conn)
+	rWriter := core.NewAESWriter(key, conn)
 	err = checkKey(rReader, c.Key, log)
 	if err != nil {
 		log.Println(err)
 		return
 	}
-	buf, err := readld(rReader, log)
+	buf, err := core.ReadLd(rReader)
 	if err != nil {
 		log.Println(err)
 		return
 	}
 	target := string(buf)
 	log.Println("target", target)
+	buf, err = core.ReadLd(rReader)
+	if err != nil {
+		log.Println(err)
+		return
+	}
+	origin := string(buf)
+	log.Println("origin", origin)
 	rAddr, err := net.ResolveTCPAddr("tcp", target)
 	if err != nil {
 		log.Println(err)
@@ -100,12 +66,6 @@ func transfer(conn io.ReadWriteCloser, c *Config, remoteAddr net.Addr) (err erro
 	}()
 	buf = make([]byte, 32*1024)
 	cc, err := io.Copy(rWriter, rconn)
-	if c.Zlib {
-		fe := rWriter.(*zlib.Writer).Flush()
-		if fe != nil {
-			log.Println("D->C", "flush", fe)
-		}
-	}
 	log.Println("D->C", cc, err)
 	return
 }

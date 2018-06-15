@@ -1,15 +1,17 @@
 package main
 
 import (
-	"log"
+	slog "log"
 	"net"
 	"time"
 
+	"github.com/muyuballs/sow/core"
 	kcp "github.com/xtaci/kcp-go"
 	"github.com/xtaci/smux"
 )
 
-var dialUdt = func(c *Config) (*smux.Session, error) {
+var dialUdt = func(c *core.Config) (*smux.Session, error) {
+	log := slog.New(c.LogOut, "UDT ", c.LOG_FLAGS)
 	block, _ := kcp.NewNoneBlockCrypt(nil)
 	kcpconn, err := kcp.DialWithOptions(c.Server, block, 10, 3)
 	if err != nil {
@@ -35,7 +37,8 @@ var dialUdt = func(c *Config) (*smux.Session, error) {
 	return session, err
 }
 
-func transferByUDT(target string, conn *net.TCPConn, c *Config) {
+func transferByUDT(target string, conn *net.TCPConn, c *core.Config) {
+	log := slog.New(c.LogOut, "UDT ", c.LOG_FLAGS)
 	log.Println("stream opened")
 	defer log.Println("stream closed")
 	defer conn.Close()
@@ -51,5 +54,5 @@ func transferByUDT(target string, conn *net.TCPConn, c *Config) {
 		return
 	}
 	defer p2.Close()
-	transfer2(target, c.Key, p2, conn, c.Zlib)
+	transfer2(target, p2.RemoteAddr().String(), c, p2, conn)
 }

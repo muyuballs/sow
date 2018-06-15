@@ -5,11 +5,12 @@ import (
 	slog "log"
 	"time"
 
+	"github.com/muyuballs/sow/core"
 	kcp "github.com/xtaci/kcp-go"
 	"github.com/xtaci/smux"
 )
 
-func handleMux(conn io.ReadWriteCloser, c *Config, log *slog.Logger) {
+func handleMux(conn io.ReadWriteCloser, c *core.Config, log *slog.Logger) {
 	// stream multiplex
 	smuxConfig := smux.DefaultConfig()
 	smuxConfig.MaxReceiveBuffer = 4194304
@@ -31,8 +32,8 @@ func handleMux(conn io.ReadWriteCloser, c *Config, log *slog.Logger) {
 	}
 }
 
-func handleUDT(c *Config) (err error) {
-	log := slog.New(c.LogOut, "UDT ", LOG_FLAGS)
+func handleUDT(c *core.Config) (err error) {
+	log := slog.New(c.LogOut, "UDT ", c.LOG_FLAGS)
 	block, _ := kcp.NewNoneBlockCrypt(nil)
 	lis, err := kcp.ListenWithOptions(c.Listen, block, 10, 3)
 	if err != nil {
