@@ -54,5 +54,5 @@ func transferByUDT(target string, conn *net.TCPConn, c *core.Config) {
 		return
 	}
 	defer p2.Close()
-	transfer2(target, p2.RemoteAddr().String(), c, p2, conn)
+	transfer2(target, conn.RemoteAddr().String(), c, p2, conn)
 }
